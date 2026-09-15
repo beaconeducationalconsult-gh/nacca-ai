@@ -1,0 +1,52 @@
+{
+  "id": "english-language",
+  "name": "English Language",
+  "grade": "B8",
+  "sourceTitle": "NaCCA English Language CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2023/06/ENGLISH-LANGUAGE.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 12,
+    "standards": 17,
+    "indicators": 49
+  },
+  "strands": [
+    {
+      "code": "B8.1",
+      "name": "B8.1",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 10
+    },
+    {
+      "code": "B8.2",
+      "name": "B8.2",
+      "subStrands": 2,
+      "standards": 3,
+      "indicators": 12
+    },
+    {
+      "code": "B8.3",
+      "name": "B8.3",
+      "subStrands": 3,
+      "standards": 5,
+      "indicators": 10
+    },
+    {
+      "code": "B8.4",
+      "name": "B8.4",
+      "subStrands": 3,
+      "standards": 5,
+      "indicators": 12
+    },
+    {
+      "code": "B8.5",
+      "name": "B8.5",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 5
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

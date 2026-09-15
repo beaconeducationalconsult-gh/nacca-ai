@@ -1,0 +1,32 @@
+{
+  "id": "creative-arts",
+  "name": "Creative Arts",
+  "grade": "B4",
+  "sourceTitle": "NaCCA Creative Arts Curriculum B4-B6",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/CREATIVE-ARTS-B4-B6-.pdf",
+  "counts": {
+    "strands": 2,
+    "subStrands": 8,
+    "standards": 14,
+    "indicators": 47
+  },
+  "strands": [
+    {
+      "code": "B4.1",
+      "name": "Visual Arts",
+      "subStrands": 4,
+      "standards": 7,
+      "indicators": 24
+    },
+    {
+      "code": "B4.2",
+      "name": "Performing Arts",
+      "subStrands": 4,
+      "standards": 7,
+      "indicators": 23
+    }
+  ],
+  "extraction_method": "pypdf regex B4.x.x.x.x, placeholder metadata",
+  "extraction_date": "2026-07-09",
+  "notes": "Upper Primary B4 – preliminary DB, indicator descriptions to be enriched from NaCCA exemplars"
+}

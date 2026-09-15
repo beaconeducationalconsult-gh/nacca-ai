@@ -1,0 +1,59 @@
+{
+  "id": "career-technology",
+  "name": "Career Technology",
+  "grade": "B8",
+  "sourceTitle": "NaCCA Career Technology CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2023/06/Career-Technology-k-9-3rd-Aug.08.2021.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 19,
+    "standards": 20,
+    "indicators": 42
+  },
+  "strands": [
+    {
+      "code": "B8.1",
+      "name": "B8.1",
+      "subStrands": 3,
+      "standards": 4,
+      "indicators": 5
+    },
+    {
+      "code": "B8.2",
+      "name": "B8.2",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 5
+    },
+    {
+      "code": "B8.3",
+      "name": "B8.3",
+      "subStrands": 5,
+      "standards": 5,
+      "indicators": 13
+    },
+    {
+      "code": "B8.4",
+      "name": "B8.4",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B8.5",
+      "name": "B8.5",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 16
+    },
+    {
+      "code": "B8.6",
+      "name": "B8.6",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 2
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

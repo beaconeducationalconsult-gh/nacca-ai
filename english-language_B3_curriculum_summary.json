@@ -1,0 +1,57 @@
+{
+  "id": "english-language",
+  "name": "English Language",
+  "grade": "B3",
+  "sourceTitle": "NaCCA English Language Curriculum B1-B3",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/ENGLISH-LOWER-PRIMARY-B1-B3.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 35,
+    "standards": 39,
+    "indicators": 78
+  },
+  "strands": [
+    {
+      "code": "B3.1",
+      "name": "Oral Language",
+      "subStrands": 9,
+      "standards": 10,
+      "indicators": 23
+    },
+    {
+      "code": "B3.2",
+      "name": "Reading",
+      "subStrands": 7,
+      "standards": 8,
+      "indicators": 21
+    },
+    {
+      "code": "B3.3",
+      "name": "Writing",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B3.4",
+      "name": "Writing",
+      "subStrands": 9,
+      "standards": 11,
+      "indicators": 18
+    },
+    {
+      "code": "B3.5",
+      "name": "Using Writing Conventions / Grammar Usage",
+      "subStrands": 8,
+      "standards": 8,
+      "indicators": 14
+    },
+    {
+      "code": "B3.6",
+      "name": "Extensive Reading",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    }
+  ]
+}

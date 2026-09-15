@@ -1,0 +1,50 @@
+{
+  "id": "ghanaian-language",
+  "name": "Ghanaian Language",
+  "grade": "B2",
+  "sourceTitle": "NaCCA Basic 1-3 Ghanaian Language Curriculum",
+  "sourceUrl": "https://mingycomputersgh.wordpress.com/wp-content/uploads/2019/08/ghanaian-language-b1-b3.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 28,
+    "standards": 30,
+    "indicators": 69
+  },
+  "strands": [
+    {
+      "code": "B2.1",
+      "name": "Oral Language",
+      "subStrands": 10,
+      "standards": 10,
+      "indicators": 27
+    },
+    {
+      "code": "B2.2",
+      "name": "Reading",
+      "subStrands": 6,
+      "standards": 7,
+      "indicators": 18
+    },
+    {
+      "code": "B2.3",
+      "name": "Writing",
+      "subStrands": 3,
+      "standards": 4,
+      "indicators": 9
+    },
+    {
+      "code": "B2.5",
+      "name": "Grammar Usage",
+      "subStrands": 7,
+      "standards": 7,
+      "indicators": 13
+    },
+    {
+      "code": "B2.6",
+      "name": "Extensive Reading",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 2
+    }
+  ]
+}

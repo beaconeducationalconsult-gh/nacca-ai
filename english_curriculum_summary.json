@@ -1,0 +1,818 @@
+{
+  "id": "english-language",
+  "name": "English Language",
+  "grade": "B1",
+  "sourceTitle": "NaCCA Basic 1-3 English Language Curriculum",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/ENGLISH-LOWER-PRIMARY-B1-B3.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 29,
+    "standards": 32,
+    "indicators": 72
+  },
+  "strands": [
+    {
+      "code": "B1.1",
+      "name": "Oral Language",
+      "subStrands": 10,
+      "standards": 11,
+      "indicators": 22
+    },
+    {
+      "code": "B1.2",
+      "name": "Reading",
+      "subStrands": 6,
+      "standards": 8,
+      "indicators": 25
+    },
+    {
+      "code": "B1.4",
+      "name": "Writing",
+      "subStrands": 7,
+      "standards": 7,
+      "indicators": 14
+    },
+    {
+      "code": "B1.5",
+      "name": "Using Writing Conventions / Grammar Usage",
+      "subStrands": 5,
+      "standards": 5,
+      "indicators": 10
+    },
+    {
+      "code": "B1.6",
+      "name": "Extensive Reading",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    }
+  ],
+  "sub_strands": [
+    {
+      "code": "B1.1.1",
+      "strand_code": "B1.1",
+      "name": "1. Songs",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.10",
+      "strand_code": "B1.1",
+      "name": "10. Presentation",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.1.2",
+      "strand_code": "B1.1",
+      "name": "2. Rhymes",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.3",
+      "strand_code": "B1.1",
+      "name": "3. Story Telling",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.4",
+      "strand_code": "B1.1",
+      "name": "4. Dramatisation and Role-Play",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.5",
+      "strand_code": "B1.1",
+      "name": "5. Poems",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.6",
+      "strand_code": "B1.1",
+      "name": "6. Conversation – Talking about Oneself, Family, People, Places, Greetings, Customs, Events, Social/Cultural Values,",
+      "standards": 2,
+      "indicators": 6
+    },
+    {
+      "code": "B1.1.7",
+      "strand_code": "B1.1",
+      "name": "7. Listening Comprehension",
+      "standards": 1,
+      "indicators": 4
+    },
+    {
+      "code": "B1.1.8",
+      "strand_code": "B1.1",
+      "name": "8. Asking and Answering Questions",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.1.9",
+      "strand_code": "B1.1",
+      "name": "9. Giving and Responding to Commands/Instructions and Making Requests",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.2.1",
+      "strand_code": "B1.2",
+      "name": "1. Reading Readiness",
+      "standards": 2,
+      "indicators": 4
+    },
+    {
+      "code": "B1.2.2",
+      "strand_code": "B1.2",
+      "name": "2. Phonics",
+      "standards": 1,
+      "indicators": 6
+    },
+    {
+      "code": "B1.2.3",
+      "strand_code": "B1.2",
+      "name": "3. Word Families, Rhyming Endings and Common Digraphs",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.6",
+      "strand_code": "B1.2",
+      "name": "6. Vocabulary",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.2.7",
+      "strand_code": "B1.2",
+      "name": "7. Comprehension",
+      "standards": 2,
+      "indicators": 9
+    },
+    {
+      "code": "B1.2.9",
+      "strand_code": "B1.2",
+      "name": "9. Fluency",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.4.1",
+      "strand_code": "B1.4",
+      "name": "1. Pre-Writing",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.4.12",
+      "strand_code": "B1.4",
+      "name": "12. Descriptive Writing",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.2",
+      "strand_code": "B1.4",
+      "name": "2. Penmanship",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.3",
+      "strand_code": "B1.4",
+      "name": "3. Writing Letters – Small and Capital",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.4.4",
+      "strand_code": "B1.4",
+      "name": "4. Labelling Items",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.5",
+      "strand_code": "B1.4",
+      "name": "5. Writing Simple Words and Sentences",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.4.7",
+      "strand_code": "B1.4",
+      "name": "7. Controlled Writing",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.5.1",
+      "strand_code": "B1.5",
+      "name": "1. Using Capitalisation",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.5.10",
+      "strand_code": "B1.5",
+      "name": "10. Spelling",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.5.4",
+      "strand_code": "B1.5",
+      "name": "4. Using Action Words",
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.5.5",
+      "strand_code": "B1.5",
+      "name": "5. Using Qualifying Words – Adjectives",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.7",
+      "strand_code": "B1.5",
+      "name": "7. Using SimplePrepositions",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.6.1",
+      "strand_code": "B1.6",
+      "name": "1. Building the Love and Culture of Reading",
+      "standards": 1,
+      "indicators": 1
+    }
+  ],
+  "standards": [
+    {
+      "code": "B1.1.1.1",
+      "sub_strand_code": "1. Songs",
+      "description": "Demonstrate understanding of a variety of songs",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.10.1",
+      "sub_strand_code": "10. Presentation",
+      "description": "Plan and present information and ideas for a variety of purposes",
+      "indicators": 3
+    },
+    {
+      "code": "B1.1.2.1",
+      "sub_strand_code": "2. Rhymes",
+      "description": "Appreciate a variety of literary pieces",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.3.1",
+      "sub_strand_code": "3. Story Telling",
+      "description": "*(content standard not coded in PDF — derived from indicator)*",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.4.1",
+      "sub_strand_code": "4. Dramatisation and Role-Play",
+      "description": "Respond to stories",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.5.1",
+      "sub_strand_code": "5. Poems",
+      "description": "Perform stories",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.6.1",
+      "sub_strand_code": "6. Conversation – Talking about Oneself, Family, People, Places, Greetings, Customs, Events, Social/Cultural Values,",
+      "description": "Use certain culturally acceptable language for",
+      "indicators": 4
+    },
+    {
+      "code": "B1.1.6.2",
+      "sub_strand_code": "6. Conversation – Talking about Oneself, Family, People, Places, Greetings, Customs, Events, Social/Cultural Values,",
+      "description": "*(content standard not coded in PDF — derived from indicator)*",
+      "indicators": 2
+    },
+    {
+      "code": "B1.1.7.1",
+      "sub_strand_code": "7. Listening Comprehension",
+      "description": "Use appropriate skills and strategies to process meaning from texts",
+      "indicators": 4
+    },
+    {
+      "code": "B1.1.8.1",
+      "sub_strand_code": "8. Asking and Answering Questions",
+      "description": "Demonstrate understanding in asking and answering questions",
+      "indicators": 2
+    },
+    {
+      "code": "B1.1.9.1",
+      "sub_strand_code": "9. Giving and Responding to Commands/Instructions and Making Requests",
+      "description": "Demonstrate understanding in commands, instructions, directions and requests",
+      "indicators": 2
+    },
+    {
+      "code": "B1.2.1.1",
+      "sub_strand_code": "1. Reading Readiness",
+      "description": "Know how a text works for reading and writing",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.1.2",
+      "sub_strand_code": "1. Pre-Reading Activities",
+      "description": "Manipulate the sounds of the letters of English",
+      "indicators": 3
+    },
+    {
+      "code": "B1.2.2.1",
+      "sub_strand_code": "2. Phonics",
+      "description": "Connect sounds to letters and blend letters/syllables in order to read and write",
+      "indicators": 6
+    },
+    {
+      "code": "B1.2.3.1",
+      "sub_strand_code": "3. Word Families, Rhyming Endings and Common Digraphs",
+      "description": "Employ knowledge of rhyming endings to enhance reading",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.6.1",
+      "sub_strand_code": "6. Vocabulary",
+      "description": "Understand word meanings and usages",
+      "indicators": 3
+    },
+    {
+      "code": "B1.2.7.1",
+      "sub_strand_code": "7. Comprehension",
+      "description": "Understand texts read",
+      "indicators": 3
+    },
+    {
+      "code": "B1.2.7.2",
+      "sub_strand_code": "7. Comprehension",
+      "description": "Use knowledge skills and techniques of reading to understand",
+      "indicators": 6
+    },
+    {
+      "code": "B1.2.9.1",
+      "sub_strand_code": "9. Fluency",
+      "description": "Read texts with good speed, accuracy and expression",
+      "indicators": 2
+    },
+    {
+      "code": "B1.4.1.1",
+      "sub_strand_code": "1. Pre-Writing",
+      "description": "Write patterns for muscular control and hand-eye coordination",
+      "indicators": 2
+    },
+    {
+      "code": "B1.4.12.1",
+      "sub_strand_code": "12. Descriptive Writing",
+      "description": "Demonstrate Knowledge of description in writing",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.2.1",
+      "sub_strand_code": "2. Penmanship",
+      "description": "Copy and write letters of the alphabet correctly",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.3.1",
+      "sub_strand_code": "3. Writing Letters – Small and Capital",
+      "description": "Use general skills strategies and knowledge of letter sounds to write",
+      "indicators": 3
+    },
+    {
+      "code": "B1.4.4.1",
+      "sub_strand_code": "4. Labelling Items",
+      "description": "Draw and label simple objects",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.5.1",
+      "sub_strand_code": "5. Writing Simple Words and Sentences",
+      "description": "Write words and sentences",
+      "indicators": 3
+    },
+    {
+      "code": "B1.4.7.1",
+      "sub_strand_code": "7. Controlled Writing",
+      "description": "Write simple compositions",
+      "indicators": 3
+    },
+    {
+      "code": "B1.5.1.1",
+      "sub_strand_code": "1. Using Capitalisation",
+      "description": "Apply knowledge of capitalisation in writing",
+      "indicators": 3
+    },
+    {
+      "code": "B1.5.10.1",
+      "sub_strand_code": "10. Spelling",
+      "description": "Use phonics knowledge to spell words",
+      "indicators": 2
+    },
+    {
+      "code": "B1.5.4.1",
+      "sub_strand_code": "4. Using Action Words",
+      "description": "Apply knowledge of action words in communication",
+      "indicators": 3
+    },
+    {
+      "code": "B1.5.5.1",
+      "sub_strand_code": "5. Using Qualifying Words – Adjectives",
+      "description": "Apply knowledge of adjectives in communication",
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.7.1",
+      "sub_strand_code": "7. Using SimplePrepositions",
+      "description": "Apply knowledge of prepositions in communication",
+      "indicators": 1
+    },
+    {
+      "code": "B1.6.1.1",
+      "sub_strand_code": "1. Building the Love and Culture of Reading",
+      "description": "Read widely for pleasure and demonstrate independent reading and learning in the",
+      "indicators": 1
+    }
+  ],
+  "indicators": [
+    {
+      "code": "B1.1.1.1.1",
+      "standard_code": "B1.1.1.1",
+      "description": "Listen to and sing familiar songs with appropriate expressions"
+    },
+    {
+      "code": "B1.1.10.1.1",
+      "standard_code": "B1.1.10.1",
+      "description": "Identify audience and purpose of presentation"
+    },
+    {
+      "code": "B1.1.10.1.2",
+      "standard_code": "B1.1.10.1",
+      "description": "Generate and select ideas on a given topic for presentation e.g. My father, My friend, etc"
+    },
+    {
+      "code": "B1.1.10.1.3",
+      "standard_code": "B1.1.10.1",
+      "description": "Speak with confidence before different audiences, e.g. small group, class, etc"
+    },
+    {
+      "code": "B1.1.2.1.1",
+      "standard_code": "B1.1.2.1",
+      "description": "Listen to and recite rhymes and tongue-twisters with accompanying actions"
+    },
+    {
+      "code": "B1.1.3.1.1",
+      "standard_code": "B1.1.3.1",
+      "description": "Listen to stories and be able to identify characters with their roles"
+    },
+    {
+      "code": "B1.1.4.1.2",
+      "standard_code": "B1.1.4.1",
+      "description": "Retell short stories"
+    },
+    {
+      "code": "B1.1.5.1.1",
+      "standard_code": "B1.1.5.1",
+      "description": "Dramatise stories heard"
+    },
+    {
+      "code": "B1.1.6.1.1",
+      "standard_code": "B1.1.6.1",
+      "description": "Use appropriate greetings for different times of the day"
+    },
+    {
+      "code": "B1.1.6.1.2",
+      "standard_code": "B1.1.6.1",
+      "description": "Describe the home, people or places"
+    },
+    {
+      "code": "B1.1.6.1.3",
+      "standard_code": "B1.1.6.1",
+      "description": "Talk about their school and places in the school"
+    },
+    {
+      "code": "B1.1.6.1.4",
+      "standard_code": "B1.1.6.1",
+      "description": "Use a wide variety of words to describe different situations and events"
+    },
+    {
+      "code": "B1.1.6.2.1",
+      "standard_code": "B1.1.6.2",
+      "description": "Engage in collaborative conversation"
+    },
+    {
+      "code": "B1.1.6.2.2",
+      "standard_code": "B1.1.6.2",
+      "description": "Talk about likes and dislikes: food, animals, toys, etc"
+    },
+    {
+      "code": "B1.1.7.1.1",
+      "standard_code": "B1.1.7.1",
+      "description": "Listen to and reproduce narrative texts"
+    },
+    {
+      "code": "B1.1.7.1.2",
+      "standard_code": "B1.1.7.1",
+      "description": "Recognise and relate the sequence of events in a narrative text"
+    },
+    {
+      "code": "B1.1.7.1.3",
+      "standard_code": "B1.1.7.1",
+      "description": "Recognise and discuss characters in a story"
+    },
+    {
+      "code": "B1.1.7.1.4",
+      "standard_code": "B1.1.7.1",
+      "description": "Listen to and produce descriptions of pictures and objects (e.g. vehicles, animals)"
+    },
+    {
+      "code": "B1.1.8.1.1",
+      "standard_code": "B1.1.8.1",
+      "description": "Use appropriate pronunciation and intonation in asking and answering Yes/No questions"
+    },
+    {
+      "code": "B1.1.8.1.2",
+      "standard_code": "B1.1.8.1",
+      "description": "Use appropriate pronunciation and intonation in asking and answering Wh – questions"
+    },
+    {
+      "code": "B1.1.9.1.1",
+      "standard_code": "B1.1.9.1",
+      "description": "Give and respond to commands and instructions"
+    },
+    {
+      "code": "B1.1.9.1.2",
+      "standard_code": "B1.1.9.1",
+      "description": "Make and respond to polite requests using the word “Please”"
+    },
+    {
+      "code": "B1.2.1.1.1",
+      "standard_code": "B1.2.1.1",
+      "description": "Handle books appropriately"
+    },
+    {
+      "code": "B1.2.1.2.1",
+      "standard_code": "B1.2.1.2",
+      "description": "Orally blend two or three sounds together to make one syllable word, e.g. (a-sh = ash, b-i-n = bin)"
+    },
+    {
+      "code": "B1.2.1.2.2",
+      "standard_code": "B1.2.1.2",
+      "description": "Orally segment spoken syllables/words into individual sounds e.g. stop = s-t-o-p"
+    },
+    {
+      "code": "B1.2.1.2.3",
+      "standard_code": "B1.2.1.2",
+      "description": "Say the new word when asked to delete, add initial or final sound"
+    },
+    {
+      "code": "B1.2.2.1.1",
+      "standard_code": "B1.2.2.1",
+      "description": "Identify the alphabet in order"
+    },
+    {
+      "code": "B1.2.2.1.2",
+      "standard_code": "B1.2.2.1",
+      "description": "Recognise and produce letter names and sounds randomly"
+    },
+    {
+      "code": "B1.2.2.1.3",
+      "standard_code": "B1.2.2.1",
+      "description": "Understand the relationship between spelling of words and sounds of speech"
+    },
+    {
+      "code": "B1.2.2.1.4",
+      "standard_code": "B1.2.2.1",
+      "description": "Blend sounds to produce simple syllables/words and blend syllables to produce words Blending sounds"
+    },
+    {
+      "code": "B1.2.2.1.5",
+      "standard_code": "B1.2.2.1",
+      "description": "Segment syllables/words into sounds"
+    },
+    {
+      "code": "B1.2.2.1.6",
+      "standard_code": "B1.2.2.1",
+      "description": "Use alphabetic knowledge to decode known words"
+    },
+    {
+      "code": "B1.2.3.1.1",
+      "standard_code": "B1.2.3.1",
+      "description": "Use common rhyming endings to decode simple words"
+    },
+    {
+      "code": "B1.2.6.1.1",
+      "standard_code": "B1.2.6.1",
+      "description": "Read level-appropriate sight words and use many of them in meaningful sentences"
+    },
+    {
+      "code": "B1.2.6.1.2",
+      "standard_code": "B1.2.6.1",
+      "description": "Ask questions to find out the meaning of new words"
+    },
+    {
+      "code": "B1.2.6.1.3",
+      "standard_code": "B1.2.6.1",
+      "description": "Use words acquired through talk and reading in conversation"
+    },
+    {
+      "code": "B1.2.7.1.1",
+      "standard_code": "B1.2.7.1",
+      "description": "Use illustrations, text clues (title, headings) and context to make inferences and predictions"
+    },
+    {
+      "code": "B1.2.7.1.2",
+      "standard_code": "B1.2.7.1",
+      "description": "Ask and answer factual and inferential and applicative questions about level-appropriate texts"
+    },
+    {
+      "code": "B1.2.7.1.3",
+      "standard_code": "B1.2.7.1",
+      "description": "Retell level-appropriate texts in own words"
+    },
+    {
+      "code": "B1.2.7.2.1",
+      "standard_code": "B1.2.7.2",
+      "description": "Demonstrate understanding of the purpose and features of narrative texts"
+    },
+    {
+      "code": "B1.2.7.2.2",
+      "standard_code": "B1.2.7.2",
+      "description": "Describe characters and their actions in a story"
+    },
+    {
+      "code": "B1.2.7.2.3",
+      "standard_code": "B1.2.7.2",
+      "description": "Connect, ideas and information in stories to own experiences and knowledge of the world"
+    },
+    {
+      "code": "B1.2.7.2.4",
+      "standard_code": "B1.2.7.2",
+      "description": "Read level-appropriate texts with prompting and support"
+    },
+    {
+      "code": "B1.2.7.2.5",
+      "standard_code": "B1.2.7.2",
+      "description": "Use a variety of comprehension-strategies e. g prediction before reading a text, cover page, etc"
+    },
+    {
+      "code": "B1.2.7.2.6",
+      "standard_code": "B1.2.7.2",
+      "description": "Identify the structure of a story e.g. beginning part, middle and the end"
+    },
+    {
+      "code": "B1.2.9.1.1",
+      "standard_code": "B1.2.9.1",
+      "description": "Read short and simple sentences at good pace"
+    },
+    {
+      "code": "B1.2.9.1.2",
+      "standard_code": "B1.2.9.1",
+      "description": "Recognise one hundred and twenty sight words including content words"
+    },
+    {
+      "code": "B1.4.1.1.1",
+      "standard_code": "B1.4.1.1",
+      "description": "Make given patterns, trace and draw various objects"
+    },
+    {
+      "code": "B1.4.1.1.2",
+      "standard_code": "B1.4.1.1",
+      "description": "Model various objects of interest"
+    },
+    {
+      "code": "B1.4.12.1.1",
+      "standard_code": "B1.4.12.1",
+      "description": "Use words and simple sentences to describe self"
+    },
+    {
+      "code": "B1.4.2.1.1",
+      "standard_code": "B1.4.2.1",
+      "description": "Copy letters of the alphabet clearly"
+    },
+    {
+      "code": "B1.4.3.1.1",
+      "standard_code": "B1.4.3.1",
+      "description": "Match lower and upper case letters"
+    },
+    {
+      "code": "B1.4.3.1.2",
+      "standard_code": "B1.4.3.1",
+      "description": "Copy the names of objects correctly in both upper and lower case letters"
+    },
+    {
+      "code": "B1.4.3.1.3",
+      "standard_code": "B1.4.3.1",
+      "description": "Write words using both capital and small letters"
+    },
+    {
+      "code": "B1.4.4.1.1",
+      "standard_code": "B1.4.4.1",
+      "description": "Draw simple pictures of peers or various objects and use invented spelling to write about oneself"
+    },
+    {
+      "code": "B1.4.5.1.1",
+      "standard_code": "B1.4.5.1",
+      "description": "Make a list of objects in the school"
+    },
+    {
+      "code": "B1.4.5.1.2",
+      "standard_code": "B1.4.5.1",
+      "description": "Write simple familiar words"
+    },
+    {
+      "code": "B1.4.5.1.3",
+      "standard_code": "B1.4.5.1",
+      "description": "Use basic descriptive words in writing simple sentence"
+    },
+    {
+      "code": "B1.4.7.1.1",
+      "standard_code": "B1.4.7.1",
+      "description": "Find, read and copy sentences from a given substitution tables"
+    },
+    {
+      "code": "B1.4.7.1.2",
+      "standard_code": "B1.4.7.1",
+      "description": "Write a simple composition using a substitution table"
+    },
+    {
+      "code": "B1.4.7.1.3",
+      "standard_code": "B1.4.7.1",
+      "description": "Match parts of sentences to compose meaning texts"
+    },
+    {
+      "code": "B1.5.1.1.1",
+      "standard_code": "B1.5.1.1",
+      "description": "Write capital letters correctly"
+    },
+    {
+      "code": "B1.5.1.1.2",
+      "standard_code": "B1.5.1.1",
+      "description": "Use capital letters at the beginning of titles and names of people"
+    },
+    {
+      "code": "B1.5.1.1.3",
+      "standard_code": "B1.5.1.1",
+      "description": "Use capital letters to write other proper nouns"
+    },
+    {
+      "code": "B1.5.10.1.1",
+      "standard_code": "B1.5.10.1",
+      "description": "Identify and spell simple words correctly"
+    },
+    {
+      "code": "B1.5.10.1.2",
+      "standard_code": "B1.5.10.1",
+      "description": "Fill in blank spaces in simple words"
+    },
+    {
+      "code": "B1.5.4.1.1",
+      "standard_code": "B1.5.4.1",
+      "description": "Use the present tense of verbs to describe habitual actions"
+    },
+    {
+      "code": "B1.5.4.1.2",
+      "standard_code": "B1.5.4.1",
+      "description": "Use the present tense of verbs to express the present state of things or situations"
+    },
+    {
+      "code": "B1.5.4.1.3",
+      "standard_code": "B1.5.4.1",
+      "description": "Use the present tense continuous form of verbs. Reading and Writing Skills Personal Development and"
+    },
+    {
+      "code": "B1.5.5.1.1",
+      "standard_code": "B1.5.5.1",
+      "description": "Identify adjectives and use them to describe self and other people"
+    },
+    {
+      "code": "B1.5.7.1.1",
+      "standard_code": "B1.5.7.1",
+      "description": "Identify and use prepositions in oral and written language to indicate position"
+    },
+    {
+      "code": "B1.6.1.1.1",
+      "standard_code": "B1.6.1.1",
+      "description": "Read a variety of age – appropriate books and texts from print"
+    }
+  ],
+  "notes": {
+    "source": "NaCCA English Language Curriculum B1-B3, pp.6-41",
+    "periods_per_week": 10,
+    "lesson_plan_source": "Basic1_English_Lesson_Plans_Full_Year.pdf (180 lessons)",
+    "extracted_indicators": 72,
+    "verified": "2026-07-08"
+  }
+}

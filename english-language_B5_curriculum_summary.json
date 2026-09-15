@@ -1,0 +1,57 @@
+{
+  "id": "english-language",
+  "name": "English Language",
+  "grade": "B5",
+  "sourceTitle": "NaCCA English Language Curriculum B4-B6",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/ENGLISH-B4-B6.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 48,
+    "standards": 63,
+    "indicators": 133
+  },
+  "strands": [
+    {
+      "code": "B5.1",
+      "name": "B5.1",
+      "subStrands": 9,
+      "standards": 15,
+      "indicators": 40
+    },
+    {
+      "code": "B5.2",
+      "name": "B5.2",
+      "subStrands": 9,
+      "standards": 14,
+      "indicators": 29
+    },
+    {
+      "code": "B5.3",
+      "name": "B5.3",
+      "subStrands": 10,
+      "standards": 10,
+      "indicators": 23
+    },
+    {
+      "code": "B5.4",
+      "name": "B5.4",
+      "subStrands": 9,
+      "standards": 13,
+      "indicators": 22
+    },
+    {
+      "code": "B5.5",
+      "name": "B5.5",
+      "subStrands": 10,
+      "standards": 10,
+      "indicators": 18
+    },
+    {
+      "code": "B5.6",
+      "name": "B5.6",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    }
+  ]
+}

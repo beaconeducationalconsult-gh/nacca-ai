@@ -1,0 +1,55 @@
+{
+  "id": "ghanaian-language",
+  "name": "Ghanaian Language",
+  "grade": "B1",
+  "sourceTitle": "NaCCA Basic 1-3 Ghanaian Language Curriculum",
+  "sourceUrl": "https://mingycomputersgh.wordpress.com/wp-content/uploads/2019/08/ghanaian-language-b1-b3.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 29,
+    "standards": 31,
+    "indicators": 77
+  },
+  "strands": [
+    {
+      "code": "B1.1",
+      "name": "Nti – Listening and Speaking / Oral Language",
+      "subStrands": 10,
+      "standards": 10,
+      "indicators": 22
+    },
+    {
+      "code": "B1.2",
+      "name": "Akenkan – Reading",
+      "subStrands": 8,
+      "standards": 9,
+      "indicators": 24
+    },
+    {
+      "code": "B1.3",
+      "name": "Atwerɛ – Writing",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 14
+    },
+    {
+      "code": "B1.5",
+      "name": "Atwerɛ Ho Nhyehyɛe – Grammar / Writing Conventions",
+      "subStrands": 5,
+      "standards": 5,
+      "indicators": 15
+    },
+    {
+      "code": "B1.6",
+      "name": "Akenkan Trɛw – Extensive Reading",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 2
+    }
+  ],
+  "notes": {
+    "language_variants": "Akan (Asante Twi / Akuapem Twi / Fante), Ga, Ewe, Dagbani, Dagare, Gonja, Kasem, Nzema, etc. – NaCCA framework is language-agnostic",
+    "source_verified": "2026-07-08",
+    "source_mirror": "https://mingycomputersgh.wordpress.com/wp-content/uploads/2019/08/ghanaian-language-b1-b3.pdf"
+  }
+}

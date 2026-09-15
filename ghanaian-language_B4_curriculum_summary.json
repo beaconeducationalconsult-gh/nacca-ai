@@ -1,0 +1,60 @@
+{
+  "id": "ghanaian-language",
+  "name": "Ghanaian Language",
+  "grade": "B4",
+  "sourceTitle": "NaCCA Ghanaian Language Curriculum B4-B6",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/GHANAIAN-LANGUAGE-B4-B6.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 34,
+    "standards": 34,
+    "indicators": 83
+  },
+  "strands": [
+    {
+      "code": "B4.1",
+      "name": "B4.1",
+      "subStrands": 9,
+      "standards": 9,
+      "indicators": 15
+    },
+    {
+      "code": "B4.2",
+      "name": "B4.2",
+      "subStrands": 6,
+      "standards": 6,
+      "indicators": 15
+    },
+    {
+      "code": "B4.3",
+      "name": "B4.3",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 4
+    },
+    {
+      "code": "B4.4",
+      "name": "B4.4",
+      "subStrands": 8,
+      "standards": 8,
+      "indicators": 23
+    },
+    {
+      "code": "B4.5",
+      "name": "B4.5",
+      "subStrands": 8,
+      "standards": 8,
+      "indicators": 23
+    },
+    {
+      "code": "B4.6",
+      "name": "B4.6",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 3
+    }
+  ],
+  "extraction_method": "pypdf regex B4.x.x.x.x, placeholder metadata",
+  "extraction_date": "2026-07-09",
+  "notes": "Upper Primary B4 – preliminary DB, indicator descriptions to be enriched from NaCCA exemplars"
+}

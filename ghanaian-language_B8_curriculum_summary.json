@@ -1,0 +1,59 @@
+{
+  "id": "ghanaian-language",
+  "name": "Ghanaian Language",
+  "grade": "B8",
+  "sourceTitle": "NaCCA Ghanaian Language CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2023/06/GHANAIAN-LANGUAGE.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 14,
+    "standards": 15,
+    "indicators": 28
+  },
+  "strands": [
+    {
+      "code": "B8.1",
+      "name": "B8.1",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 12
+    },
+    {
+      "code": "B8.2",
+      "name": "B8.2",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 5
+    },
+    {
+      "code": "B8.3",
+      "name": "B8.3",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 3
+    },
+    {
+      "code": "B8.4",
+      "name": "B8.4",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 5
+    },
+    {
+      "code": "B8.5",
+      "name": "B8.5",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B8.6",
+      "name": "B8.6",
+      "subStrands": 1,
+      "standards": 2,
+      "indicators": 2
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

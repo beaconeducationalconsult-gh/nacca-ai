@@ -1,0 +1,29 @@
+{
+  "id": "creative-arts",
+  "name": "Creative Arts",
+  "grade": "B1",
+  "sourceTitle": "NaCCA Basic 1-3 Creative Arts Curriculum",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/CREATIVE-ARTS-B1-B3.pdf",
+  "counts": {
+    "strands": 2,
+    "subStrands": 8,
+    "standards": 14,
+    "indicators": 42
+  },
+  "strands": [
+    {
+      "code": "B1.1",
+      "name": "Visual Arts",
+      "subStrands": 4,
+      "standards": 7,
+      "indicators": 21
+    },
+    {
+      "code": "B1.2",
+      "name": "Performing Arts",
+      "subStrands": 4,
+      "standards": 7,
+      "indicators": 21
+    }
+  ]
+}

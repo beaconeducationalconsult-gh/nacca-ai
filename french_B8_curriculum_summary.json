@@ -1,0 +1,59 @@
+{
+  "id": "french",
+  "name": "French",
+  "grade": "B8",
+  "sourceTitle": "NaCCA French CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2022/10/FRENCH-LANGUAGE.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 14,
+    "standards": 14,
+    "indicators": 54
+  },
+  "strands": [
+    {
+      "code": "B8.1",
+      "name": "B8.1",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 12
+    },
+    {
+      "code": "B8.2",
+      "name": "B8.2",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 11
+    },
+    {
+      "code": "B8.4",
+      "name": "B8.4",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 4
+    },
+    {
+      "code": "B8.5",
+      "name": "B8.5",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 12
+    },
+    {
+      "code": "B8.6",
+      "name": "B8.6",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 12
+    },
+    {
+      "code": "B8.8",
+      "name": "B8.8",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 3
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

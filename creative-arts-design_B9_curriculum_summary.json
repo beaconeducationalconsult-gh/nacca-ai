@@ -1,0 +1,31 @@
+{
+  "id": "creative-arts-design",
+  "name": "Creative Arts and Design",
+  "grade": "B9",
+  "sourceTitle": "NaCCA Creative Arts and Design CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2023/06/CREATIVE-ARTS-AND-DESIGN.pdf",
+  "counts": {
+    "strands": 2,
+    "subStrands": 6,
+    "standards": 12,
+    "indicators": 33
+  },
+  "strands": [
+    {
+      "code": "B9.1",
+      "name": "B9.1",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 8
+    },
+    {
+      "code": "B9.2",
+      "name": "B9.2",
+      "subStrands": 3,
+      "standards": 9,
+      "indicators": 25
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "computing",
+  "name": "Computing",
+  "grade": "B9",
+  "sourceTitle": "NaCCA Computing CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2023/06/COMPUTING.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 15,
+    "standards": 16,
+    "indicators": 36
+  },
+  "strands": [
+    {
+      "code": "B9.1",
+      "name": "B9.1",
+      "subStrands": 3,
+      "standards": 4,
+      "indicators": 9
+    },
+    {
+      "code": "B9.2",
+      "name": "B9.2",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 13
+    },
+    {
+      "code": "B9.3",
+      "name": "B9.3",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 8
+    },
+    {
+      "code": "B9.4",
+      "name": "B9.4",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 6
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}
