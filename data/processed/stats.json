@@ -1,0 +1,37 @@
+{
+  "n_indicators": 3095,
+  "n_sft_train": 12790,
+  "n_sft_eval": 1098,
+  "n_rag_docs": 3095,
+  "by_subject": {
+    "Career Technology": 132,
+    "Computing": 123,
+    "Creative Arts": 265,
+    "Creative Arts and Design": 100,
+    "English Language": 629,
+    "French": 166,
+    "Ghanaian Language": 589,
+    "History": 51,
+    "Mathematics": 431,
+    "Our World Our People": 98,
+    "Religious and Moral Education": 145,
+    "Science": 312,
+    "Social Studies": 54
+  },
+  "by_grade": {
+    "B1": 287,
+    "B2": 249,
+    "B3": 276,
+    "B4": 402,
+    "B5": 286,
+    "B6": 385,
+    "B7": 454,
+    "B8": 379,
+    "B9": 377
+  },
+  "known_gaps": [
+    "english-language B5 curriculum_db_clean.json is missing from this dump (summary and lessons exist).",
+    "Several B1 subjects exist only as ungraded *_curriculum_db_clean.json files.",
+    "OWOP coverage in this dump is B1 and B4\u2013B6 only."
+  ]
+}
