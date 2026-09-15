@@ -1,0 +1,50 @@
+{
+  "id": "owop",
+  "name": "Our World Our People",
+  "grade": "B5",
+  "sourceTitle": "NaCCA OWOP Curriculum B4-B6",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/OUR-WORLD-AND-OUR-PEOPLE-B4-B6-1.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 17,
+    "standards": 25,
+    "indicators": 25
+  },
+  "strands": [
+    {
+      "code": "B5.1",
+      "name": "B5.1",
+      "subStrands": 4,
+      "standards": 6,
+      "indicators": 6
+    },
+    {
+      "code": "B5.2",
+      "name": "B5.2",
+      "subStrands": 4,
+      "standards": 6,
+      "indicators": 6
+    },
+    {
+      "code": "B5.3",
+      "name": "B5.3",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 4
+    },
+    {
+      "code": "B5.4",
+      "name": "B5.4",
+      "subStrands": 4,
+      "standards": 7,
+      "indicators": 7
+    },
+    {
+      "code": "B5.5",
+      "name": "B5.5",
+      "subStrands": 1,
+      "standards": 2,
+      "indicators": 2
+    }
+  ]
+}

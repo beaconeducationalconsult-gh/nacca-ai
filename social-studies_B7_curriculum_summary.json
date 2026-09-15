@@ -1,0 +1,59 @@
+{
+  "id": "social-studies",
+  "name": "Social Studies",
+  "grade": "B7",
+  "sourceTitle": "NaCCA Social Studies CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2023/06/SOCIAL-STUDIES.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 12,
+    "standards": 14,
+    "indicators": 17
+  },
+  "strands": [
+    {
+      "code": "B7.1",
+      "name": "B7.1",
+      "subStrands": 3,
+      "standards": 5,
+      "indicators": 5
+    },
+    {
+      "code": "B7.2",
+      "name": "B7.2",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 3
+    },
+    {
+      "code": "B7.3",
+      "name": "B7.3",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B7.4",
+      "name": "B7.4",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B7.5",
+      "name": "B7.5",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 3
+    },
+    {
+      "code": "B7.6",
+      "name": "B7.6",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 4
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

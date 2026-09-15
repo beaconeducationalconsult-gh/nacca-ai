@@ -1,0 +1,64 @@
+{
+ "id": "history",
+ "name": "History",
+ "grade": "B5",
+ "sourceTitle": "NaCCA History Curriculum B1-B6",
+ "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/HISTORY-B1-B6.pdf",
+ "counts": {
+  "strands": 7,
+  "subStrands": 7,
+  "standards": 7,
+  "indicators": 13
+ },
+ "strands": [
+  {
+   "code": "B5.2.1.1",
+   "name": "B5.2.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  },
+  {
+   "code": "B5.2.5.1",
+   "name": "B5.2.5.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B5.3.2.1",
+   "name": "B5.3.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B5.4.2.1",
+   "name": "B5.4.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  },
+  {
+   "code": "B5.4.3.2",
+   "name": "B5.4.3.2",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B5.5.1.1",
+   "name": "B5.5.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 4
+  },
+  {
+   "code": "B5.5.3.1",
+   "name": "B5.5.3.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  }
+ ]
+}

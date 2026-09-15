@@ -1,0 +1,59 @@
+{
+  "id": "rme",
+  "name": "Religious and Moral Education",
+  "grade": "B8",
+  "sourceTitle": "NaCCA RME CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2022/10/Religious-and-Moral-Education.pdf",
+  "counts": {
+    "strands": 6,
+    "subStrands": 7,
+    "standards": 7,
+    "indicators": 22
+  },
+  "strands": [
+    {
+      "code": "B8.1",
+      "name": "B8.1",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B8.2",
+      "name": "B8.2",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 6
+    },
+    {
+      "code": "B8.3",
+      "name": "B8.3",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B8.4",
+      "name": "B8.4",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B8.5",
+      "name": "B8.5",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B8.6",
+      "name": "B8.6",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 6
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

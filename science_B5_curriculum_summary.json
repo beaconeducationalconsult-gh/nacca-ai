@@ -1,0 +1,50 @@
+{
+  "id": "science",
+  "name": "Science",
+  "grade": "B5",
+  "sourceTitle": "NaCCA Science Curriculum B4-B6",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/SCIENCE-UPPER-PRIMARY-B4-B6.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 14,
+    "standards": 23,
+    "indicators": 29
+  },
+  "strands": [
+    {
+      "code": "B5.1",
+      "name": "DIVERSITY OF MATTER",
+      "subStrands": 2,
+      "standards": 5,
+      "indicators": 5
+    },
+    {
+      "code": "B5.2",
+      "name": "CYCLES",
+      "subStrands": 2,
+      "standards": 6,
+      "indicators": 9
+    },
+    {
+      "code": "B5.3",
+      "name": "SYSTEMS",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 3
+    },
+    {
+      "code": "B5.4",
+      "name": "FORCES AND ENERGY",
+      "subStrands": 3,
+      "standards": 4,
+      "indicators": 5
+    },
+    {
+      "code": "B5.5",
+      "name": "HUMANS AND THE ENVIRONMENT",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 7
+    }
+  ]
+}

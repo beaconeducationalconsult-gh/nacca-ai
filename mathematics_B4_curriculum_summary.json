@@ -1,0 +1,46 @@
+{
+  "id": "mathematics",
+  "name": "Mathematics",
+  "grade": "B4",
+  "sourceTitle": "NaCCA Mathematics Curriculum B4-B6",
+  "sourceUrl": "https://rds.edu.gh/pdfs/MathematicsB4-B6.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 11,
+    "standards": 26,
+    "indicators": 71
+  },
+  "strands": [
+    {
+      "code": "B4.1",
+      "name": "NUMBER",
+      "subStrands": 5,
+      "standards": 14,
+      "indicators": 34
+    },
+    {
+      "code": "B4.2",
+      "name": "ALGEBRA",
+      "subStrands": 2,
+      "standards": 5,
+      "indicators": 16
+    },
+    {
+      "code": "B4.3",
+      "name": "GEOMETRY AND MEASUREMENT",
+      "subStrands": 3,
+      "standards": 5,
+      "indicators": 15
+    },
+    {
+      "code": "B4.4",
+      "name": "DATA",
+      "subStrands": 1,
+      "standards": 2,
+      "indicators": 6
+    }
+  ],
+  "extraction_method": "pypdf regex B4.x.x.x.x, placeholder metadata",
+  "extraction_date": "2026-07-09",
+  "notes": "Upper Primary B4 – preliminary DB, indicator descriptions to be enriched from NaCCA exemplars"
+}

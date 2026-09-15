@@ -1,0 +1,45 @@
+{
+  "id": "mathematics",
+  "name": "Mathematics",
+  "grade": "B9",
+  "sourceTitle": "NaCCA Mathematics CCP Curriculum B7-B9",
+  "sourceUrl": "https://mingycomputersgh.wordpress.com/wp-content/uploads/2020/06/mathematics-curriculumb7-b10_draft.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 11,
+    "standards": 16,
+    "indicators": 43
+  },
+  "strands": [
+    {
+      "code": "B9.1",
+      "name": "B9.1",
+      "subStrands": 4,
+      "standards": 6,
+      "indicators": 16
+    },
+    {
+      "code": "B9.2",
+      "name": "B9.2",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 7
+    },
+    {
+      "code": "B9.3",
+      "name": "B9.3",
+      "subStrands": 3,
+      "standards": 5,
+      "indicators": 12
+    },
+    {
+      "code": "B9.4",
+      "name": "B9.4",
+      "subStrands": 2,
+      "standards": 3,
+      "indicators": 8
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}

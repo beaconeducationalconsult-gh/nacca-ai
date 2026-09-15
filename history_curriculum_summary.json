@@ -1,0 +1,173 @@
+{
+  "id": "history",
+  "name": "History",
+  "grade": "B1",
+  "sourceTitle": "NaCCA Basic 1 History Curriculum",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/HISTORY-B1-B6.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 6,
+    "standards": 6,
+    "indicators": 8
+  },
+  "strands": [
+    {
+      "code": "B1.1",
+      "name": "History as a Subject",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 3
+    },
+    {
+      "code": "B1.2",
+      "name": "My Country Ghana",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 3
+    },
+    {
+      "code": "B1.3",
+      "name": "Europeans in Ghana",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.6",
+      "name": "Independent Ghana",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    }
+  ],
+  "sub_strands": [
+    {
+      "code": "B1.1.1",
+      "strand_code": "B1.1",
+      "name": "Why and How We Study History",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.1.4",
+      "strand_code": "B1.1",
+      "name": "Community History",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.3",
+      "strand_code": "B1.2",
+      "name": "How Ghana Got Its Name",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.2.5",
+      "strand_code": "B1.2",
+      "name": "Some Selected Individuals",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.1",
+      "strand_code": "B1.3",
+      "name": "Arrival of Europeans",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.6.1",
+      "strand_code": "B1.6",
+      "name": "The Republics",
+      "standards": 1,
+      "indicators": 1
+    }
+  ],
+  "standards": [
+    {
+      "code": "B1.1.1.1",
+      "sub_strand_code": "B1.1.1",
+      "description": "Demonstrate understanding of what history is about and how it is part of everyday life.",
+      "indicators": 2
+    },
+    {
+      "code": "B1.1.4.2",
+      "sub_strand_code": "B1.1.4",
+      "description": "Recount history about their communities.",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.3.1",
+      "sub_strand_code": "B1.2.3",
+      "description": "Demonstrate understanding of why Ghana used to be called the 'Gold Coast'.",
+      "indicators": 2
+    },
+    {
+      "code": "B1.2.5.1",
+      "sub_strand_code": "B1.2.5",
+      "description": "Show understanding of significant roles played by Ghanaians from different walks of life.",
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.1.1",
+      "sub_strand_code": "B1.3.1",
+      "description": "Show understanding of Europeans who came to Ghana.",
+      "indicators": 1
+    },
+    {
+      "code": "B1.6.1.1",
+      "sub_strand_code": "B1.6.1",
+      "description": "Demonstrate understanding of the presidents that have ruled Ghana since 1960.",
+      "indicators": 1
+    }
+  ],
+  "indicators": [
+    {
+      "code": "B1.1.1.1.1",
+      "standard_code": "B1.1.1.1",
+      "description": "Explain that history deals with past human activities."
+    },
+    {
+      "code": "B1.1.1.1.2",
+      "standard_code": "B1.1.1.1",
+      "description": "Describe how sources of historical evidence help us find out about past human activities."
+    },
+    {
+      "code": "B1.1.4.2.1",
+      "standard_code": "B1.1.4.2",
+      "description": "State the similarities and differences between the communities where learners live."
+    },
+    {
+      "code": "B1.2.3.1.1",
+      "standard_code": "B1.2.3.1",
+      "description": "Explain why, in the past, Ghana was known as the Gold Coast."
+    },
+    {
+      "code": "B1.2.3.1.2",
+      "standard_code": "B1.2.3.1",
+      "description": "Recall when the name Ghana came into formal use."
+    },
+    {
+      "code": "B1.2.5.1.1",
+      "standard_code": "B1.2.5.1",
+      "description": "Identify Ghanaians of diverse fields who have contributed significantly to national development."
+    },
+    {
+      "code": "B1.3.1.1.1",
+      "standard_code": "B1.3.1.1",
+      "description": "Explore which Europeans came to Ghana."
+    },
+    {
+      "code": "B1.6.1.1.1",
+      "standard_code": "B1.6.1.1",
+      "description": "Identify the Presidents Ghana has had since 1960."
+    }
+  ],
+  "notes": {
+    "annotation_example_excluded": "B1.2.3.4.1 – appears on p.xix Curriculum Reference Numbers example only, not a B1 History indicator",
+    "pdf_pages": "BASIC 1: pp.2-8 (PDF pp.24-31)",
+    "periods_per_week": 4,
+    "source_verified": "2026-07-08"
+  }
+}

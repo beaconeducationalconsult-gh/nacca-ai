@@ -1,0 +1,156 @@
+{
+ "B3.1.2.1.1": {
+  "strand": "1. GOD, HIS CREATION AND ATTRIBUTES",
+  "sub_strand": "Sub-strand B3.1.2",
+  "cs_code": "B3.1.2.1",
+  "cs_desc": "Identify ways of ensuring environmental safety",
+  "ind_desc": "Demonstrate ways to care for the environment",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.1.3.1.1": {
+  "strand": "1. GOD, HIS CREATION AND ATTRIBUTES",
+  "sub_strand": "Sub-strand B3.1.3",
+  "cs_code": "B3.1.3.1",
+  "cs_desc": "Explain the purpose of God’s creation COND’",
+  "ind_desc": "Explain the purpose of God’s creation of humankind",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.1.3.1.2": {
+  "strand": "1. GOD, HIS CREATION AND ATTRIBUTES",
+  "sub_strand": "Sub-strand B3.1.3",
+  "cs_code": "B3.1.3.1",
+  "cs_desc": "Explain the purpose of God’s creation COND’",
+  "ind_desc": "Give reasons for protecting God’s creation",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.1.3.1.3": {
+  "strand": "1. GOD, HIS CREATION AND ATTRIBUTES",
+  "sub_strand": "Sub-strand B3.1.3",
+  "cs_code": "B3.1.3.1",
+  "cs_desc": "Explain the purpose of God’s creation COND’",
+  "ind_desc": "Explain the need for good relationship among people of different ethnic groups",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.2.1.1.1": {
+  "strand": "2. RELIGIOUS PRACTICES AND THEIR MORAL IMPLICATIONS",
+  "sub_strand": "Sub-strand B3.2.1",
+  "cs_code": "B3.2.1.1",
+  "cs_desc": "Appreciate the importance of religious worship",
+  "ind_desc": "Name the sacred scriptures of the three major religions",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.2.2.1.1": {
+  "strand": "2. RELIGIOUS PRACTICES AND THEIR MORAL IMPLICATIONS",
+  "sub_strand": "Sub-strand B3.2.2",
+  "cs_code": "B3.2.2.1",
+  "cs_desc": "Explain the importance of religious festivals",
+  "ind_desc": "Describe how various festivals are celebrated",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.3.1.1.1": {
+  "strand": "3. RELIGIOUS LEADERS",
+  "sub_strand": "Sub-strand B3.3.1",
+  "cs_code": "B3.3.1.1",
+  "cs_desc": "Narrate the youthful life stories of the leaders of the major religions",
+  "ind_desc": "Describe the youthful lives of the leaders of the three major religions in Ghana",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.3.1.1.2": {
+  "strand": "3. RELIGIOUS LEADERS",
+  "sub_strand": "Sub-strand B3.3.1",
+  "cs_code": "B3.3.1.1",
+  "cs_desc": "Narrate the youthful life stories of the leaders of the major religions",
+  "ind_desc": "Identify and explain the moral lessons of the youthful life of the religious leaders",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.4.1.1.1": {
+  "strand": "4. THE FAMILY AND THE COMMUNITY",
+  "sub_strand": "Sub-strand B3.4.1",
+  "cs_code": "B3.4.1.1",
+  "cs_desc": "Appreciate the role of the family and the community in their relationship with God CONTD’",
+  "ind_desc": "Discuss God’s promises to humankind",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.4.2.1.1": {
+  "strand": "4. THE FAMILY AND THE COMMUNITY",
+  "sub_strand": "Sub-strand B3.4.2",
+  "cs_code": "B3.4.2.1",
+  "cs_desc": "Explain the role of the family members in living safely with each other",
+  "ind_desc": "Explain the need to live in harmony with one another",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.4.1.1.3": {
+  "strand": "4. THE FAMILY AND THE COMMUNITY",
+  "sub_strand": "Sub-strand B3.4.1",
+  "cs_code": "B3.4.1.1",
+  "cs_desc": "Appreciate the role of the family and the community in their relationship with God CONTD’",
+  "ind_desc": "Identify moral lessons learnt from responding to God’s call",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.2.1.1.2": {
+  "strand": "2. RELIGIOUS PRACTICES AND THEIR MORAL IMPLICATIONS",
+  "sub_strand": "Sub-strand B3.2.1",
+  "cs_code": "B3.2.1.1",
+  "cs_desc": "Appreciate the importance of religious worship",
+  "ind_desc": "Give reasons for studying the sacred scriptures of the three major religions among their followers.",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.2.2.1.2": {
+  "strand": "2. RELIGIOUS PRACTICES AND THEIR MORAL IMPLICATIONS",
+  "sub_strand": "Sub-strand B3.2.2",
+  "cs_code": "B3.2.2.1",
+  "cs_desc": "Explain the importance of religious festivals",
+  "ind_desc": "Demonstrate the importance of religious festivals.",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ },
+ "B3.4.1.1.2": {
+  "strand": "4. THE FAMILY AND THE COMMUNITY",
+  "sub_strand": "Sub-strand B3.4.1",
+  "cs_code": "B3.4.1.1",
+  "cs_desc": "Appreciate the role of the family and the community in their relationship with God CONTD’",
+  "ind_desc": "Identify the benefits of responding to God’s call.",
+  "competencies": "Critical Thinking and Problem Solving; Communication and Collaboration; Creativity and Innovation; Personal Development and Leadership; Cultural Identity and Global Citizenship; Digital Literacy",
+  "resources": "NaCCA approved textbook; TLMs; ICT tools; community resources",
+  "keywords": "religious-and-moral-education, b3, curriculum",
+  "assessment": "Class exercises; oral questions; practical performance; SBA"
+ }
+}

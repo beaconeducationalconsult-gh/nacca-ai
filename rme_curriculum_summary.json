@@ -1,0 +1,43 @@
+{
+  "id": "rme",
+  "name": "Religious and Moral Education",
+  "grade": "B1",
+  "sourceTitle": "NaCCA Basic 1-6 Religious and Moral Education Curriculum",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/RELIGIOUS-AND-MORAL-EDUCATION-B1-B6.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 5,
+    "standards": 5,
+    "indicators": 9
+  },
+  "strands": [
+    {
+      "code": "B1.1",
+      "name": "God, His Creation and Attributes",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 3
+    },
+    {
+      "code": "B1.2",
+      "name": "Religious Practices",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 3
+    },
+    {
+      "code": "B1.3",
+      "name": "Religious Leaders",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4",
+      "name": "The Family and the Community",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 2
+    }
+  ]
+}

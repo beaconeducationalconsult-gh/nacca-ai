@@ -1,0 +1,43 @@
+{
+  "id": "mathematics",
+  "name": "Mathematics",
+  "grade": "B2",
+  "sourceTitle": "NaCCA Mathematics Curriculum B1-B3",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/MATHS-LOWER-PRIMARY-B1-B3.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 9,
+    "standards": 15,
+    "indicators": 29
+  },
+  "strands": [
+    {
+      "code": "B2.1",
+      "name": "NUMBER",
+      "subStrands": 4,
+      "standards": 7,
+      "indicators": 16
+    },
+    {
+      "code": "B2.2",
+      "name": "ALGEBRA",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B2.3",
+      "name": "GEOMETRY AND MEASUREMENT",
+      "subStrands": 3,
+      "standards": 5,
+      "indicators": 9
+    },
+    {
+      "code": "B2.4",
+      "name": "DATA",
+      "subStrands": 1,
+      "standards": 2,
+      "indicators": 2
+    }
+  ]
+}

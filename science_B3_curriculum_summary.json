@@ -1,0 +1,162 @@
+{
+ "id": "science",
+ "name": "Science",
+ "grade": "B3",
+ "sourceTitle": "NaCCA Science Curriculum B1-B3",
+ "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/SCIENCE-LOWER-PRIMARY-B1-B3.pdf",
+ "counts": {
+  "strands": 21,
+  "subStrands": 14,
+  "standards": 21,
+  "indicators": 25
+ },
+ "strands": [
+  {
+   "code": "B3.1.1.1",
+   "name": "B3.1.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.1.2.1",
+   "name": "B3.1.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  },
+  {
+   "code": "B3.1.2.2",
+   "name": "B3.1.2.2",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.1.2.3",
+   "name": "B3.1.2.3",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.2.1.1",
+   "name": "B3.2.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.2.1.2",
+   "name": "B3.2.1.2",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.2.1.3",
+   "name": "B3.2.1.3",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.2.1.4",
+   "name": "B3.2.1.4",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  },
+  {
+   "code": "B3.2.2.1",
+   "name": "B3.2.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.3.1.1",
+   "name": "B3.3.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.3.2.1",
+   "name": "B3.3.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.3.3.1",
+   "name": "B3.3.3.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.4.1.1",
+   "name": "B3.4.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.4.1.2",
+   "name": "B3.4.1.2",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  },
+  {
+   "code": "B3.4.2.1",
+   "name": "B3.4.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.4.3.1",
+   "name": "B3.4.3.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.4.3.2",
+   "name": "B3.4.3.2",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.5.1.1",
+   "name": "B3.5.1.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.5.2.1",
+   "name": "B3.5.2.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 2
+  },
+  {
+   "code": "B3.5.3.2",
+   "name": "B3.5.3.2",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  },
+  {
+   "code": "B3.5.4.1",
+   "name": "B3.5.4.1",
+   "subStrands": 1,
+   "standards": 1,
+   "indicators": 1
+  }
+ ]
+}

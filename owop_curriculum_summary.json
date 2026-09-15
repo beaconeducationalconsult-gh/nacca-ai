@@ -1,0 +1,459 @@
+{
+  "id": "owop",
+  "name": "Our World Our People",
+  "grade": "B1",
+  "sourceTitle": "NaCCA Basic 1-3 Our World Our People Curriculum",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/OUR-WORLD-AND-OUR-PEOPLE-B1-B3-1.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 20,
+    "standards": 23,
+    "indicators": 24
+  },
+  "strands": [
+    {
+      "code": "B1.1",
+      "name": "ALL ABOUT US",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 4
+    },
+    {
+      "code": "B1.2",
+      "name": "ALL AROUND US",
+      "subStrands": 4,
+      "standards": 6,
+      "indicators": 6
+    },
+    {
+      "code": "B1.3",
+      "name": "OUR BELIEFS AND VALUES",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 4
+    },
+    {
+      "code": "B1.4",
+      "name": "OUR NATION GHANA",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 6
+    },
+    {
+      "code": "B1.5",
+      "name": "MY GLOBAL COMMUNITY",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 4
+    }
+  ],
+  "sub_strands": [
+    {
+      "code": "B1.1.1",
+      "strand_code": "B1.1",
+      "name": "1. Nature of God",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.2",
+      "strand_code": "B1.1",
+      "name": "2. Myself",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.3",
+      "strand_code": "B1.1",
+      "name": "3. My Family and the Community",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.4",
+      "strand_code": "B1.1",
+      "name": "4. Home and School",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.1",
+      "strand_code": "B1.2",
+      "name": "1. The Environment and the Weather",
+      "standards": 2,
+      "indicators": 2
+    },
+    {
+      "code": "B1.2.2",
+      "strand_code": "B1.2",
+      "name": "2. Plants and Animals",
+      "standards": 2,
+      "indicators": 2
+    },
+    {
+      "code": "B1.2.3",
+      "strand_code": "B1.2",
+      "name": "3. Map Making and Land Marks",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.4",
+      "strand_code": "B1.2",
+      "name": "4. Population and Settlement",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.1",
+      "strand_code": "B1.3",
+      "name": "1. Worship",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.2",
+      "strand_code": "B1.3",
+      "name": "2. Festivals",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.3",
+      "strand_code": "B1.3",
+      "name": "3. Basic Human Rights",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.4",
+      "strand_code": "B1.3",
+      "name": "4. Being a Leader",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.1",
+      "strand_code": "B1.4",
+      "name": "1. Being a Citizen",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.2",
+      "strand_code": "B1.4",
+      "name": "2. Authority and Power",
+      "standards": 1,
+      "indicators": 2
+    },
+    {
+      "code": "B1.4.3",
+      "strand_code": "B1.4",
+      "name": "3. Responsible Use of Resources",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.4",
+      "strand_code": "B1.4",
+      "name": "4. Farming in Ghana",
+      "standards": 2,
+      "indicators": 2
+    },
+    {
+      "code": "B1.5.1",
+      "strand_code": "B1.5",
+      "name": "1. Our Neighbouring Countries",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.2",
+      "strand_code": "B1.5",
+      "name": "2. Introduction to Computing",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.3",
+      "strand_code": "B1.5",
+      "name": "3. Sources of Information",
+      "standards": 1,
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.4",
+      "strand_code": "B1.5",
+      "name": "4. Technology in Communication",
+      "standards": 1,
+      "indicators": 1
+    }
+  ],
+  "standards": [
+    {
+      "code": "B1.1.1.1",
+      "sub_strand_code": "B1.1.1",
+      "description": "Demonstrate understanding of God as the Creator",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.2.1",
+      "sub_strand_code": "B1.1.2",
+      "description": "Demonstrate knowledge of self as a unique individual",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.3.1",
+      "sub_strand_code": "B1.1.3",
+      "description": "Demonstrate understanding of one's relationship with others and the need for good interpersonal relationships",
+      "indicators": 1
+    },
+    {
+      "code": "B1.1.4.1",
+      "sub_strand_code": "B1.1.4",
+      "description": "Demonstrate understanding of the place you call home",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.1.1",
+      "sub_strand_code": "B1.2.1",
+      "description": "Demonstrate knowledge of things in the environment",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.1.2",
+      "sub_strand_code": "B1.2.1",
+      "description": "Demonstrate knowledge of different types of weather conditions",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.2.1",
+      "sub_strand_code": "B1.2.2",
+      "description": "Recognise different plants in the environment",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.2.2",
+      "sub_strand_code": "B1.2.2",
+      "description": "Recognise and appreciate different animals in the environment",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.3.1",
+      "sub_strand_code": "B1.2.3",
+      "description": "Demonstrate understanding of the cardinal points",
+      "indicators": 1
+    },
+    {
+      "code": "B1.2.4.1",
+      "sub_strand_code": "B1.2.4",
+      "description": "Demonstrate basic understanding of population structure (age and sex structure)",
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.1.1",
+      "sub_strand_code": "B1.3.1",
+      "description": "Appreciate the importance of religious worship",
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.2.1",
+      "sub_strand_code": "B1.3.2",
+      "description": "Demonstrate knowledge of festivals in Ghana",
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.3.1",
+      "sub_strand_code": "B1.3.3",
+      "description": "Demonstrate understanding of human rights as a citizen",
+      "indicators": 1
+    },
+    {
+      "code": "B1.3.4.1",
+      "sub_strand_code": "B1.3.4",
+      "description": "Demonstrate knowledge of the birth stories of religious leaders",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.1.1",
+      "sub_strand_code": "B1.4.1",
+      "description": "Demonstrate Understanding of the characteristics of a responsible citizen",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.2.1",
+      "sub_strand_code": "B1.4.2",
+      "description": "Demonstrate understanding of obeying power and authority as a responsible citizen",
+      "indicators": 2
+    },
+    {
+      "code": "B1.4.3.1",
+      "sub_strand_code": "B1.4.3",
+      "description": "Demonstrate understanding of the importance of energy in our environment",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.4.1",
+      "sub_strand_code": "B1.4.4",
+      "description": "Demonstrate understanding of farming as an important activity",
+      "indicators": 1
+    },
+    {
+      "code": "B1.4.4.2",
+      "sub_strand_code": "B1.4.4",
+      "description": "Show understanding of simple agricultural tools use in Ghana",
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.1.1",
+      "sub_strand_code": "B1.5.1",
+      "description": "Demonstrate knowledge of Ghana's Neighbouring Countries",
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.2.1",
+      "sub_strand_code": "B1.5.2",
+      "description": "Demonstrate understanding of the parts of a computer",
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.3.1",
+      "sub_strand_code": "B1.5.3",
+      "description": "Demonstrate understanding of data and sources of information",
+      "indicators": 1
+    },
+    {
+      "code": "B1.5.4.1",
+      "sub_strand_code": "B1.5.4",
+      "description": "Recognise technology tools in communication",
+      "indicators": 1
+    }
+  ],
+  "indicators": [
+    {
+      "code": "B1.1.1.1.1",
+      "standard_code": "B1.1.1.1",
+      "description": "Examine our relationship with the Creator"
+    },
+    {
+      "code": "B1.1.2.1.1",
+      "standard_code": "B1.1.2.1",
+      "description": "Recognise individual characteristics as the basis of one's uniqueness"
+    },
+    {
+      "code": "B1.1.3.1.1",
+      "standard_code": "B1.1.3.1",
+      "description": "Identify persons closely related to us and the need to relate well with others"
+    },
+    {
+      "code": "B1.1.4.1.1",
+      "standard_code": "B1.1.4.1",
+      "description": "Describe and show direction to their home"
+    },
+    {
+      "code": "B1.2.1.1.1",
+      "standard_code": "B1.2.1.1",
+      "description": "Explore the uses of things in the environment"
+    },
+    {
+      "code": "B1.2.1.2.1",
+      "standard_code": "B1.2.1.2",
+      "description": "Identify and describe different weather conditions"
+    },
+    {
+      "code": "B1.2.2.1.1",
+      "standard_code": "B1.2.2.1",
+      "description": "Identify different plants in the environment and their uses"
+    },
+    {
+      "code": "B1.2.2.2.1",
+      "standard_code": "B1.2.2.2",
+      "description": "Identify different animals in the environment and their uses"
+    },
+    {
+      "code": "B1.2.3.1.1",
+      "standard_code": "B1.2.3.1",
+      "description": "Identify the cardinal points"
+    },
+    {
+      "code": "B1.2.4.1.1",
+      "standard_code": "B1.2.4.1",
+      "description": "Describe the population structure of their class and the need to respect one another"
+    },
+    {
+      "code": "B1.3.1.1.1",
+      "standard_code": "B1.3.1.1",
+      "description": "Explore the main types of worship in Ghana"
+    },
+    {
+      "code": "B1.3.2.1.1",
+      "standard_code": "B1.3.2.1",
+      "description": "Describe religious festivals in Ghana"
+    },
+    {
+      "code": "B1.3.3.1.1",
+      "standard_code": "B1.3.3.1",
+      "description": "Explain basic human needs and rights of self and others"
+    },
+    {
+      "code": "B1.3.4.1.1",
+      "standard_code": "B1.3.4.1",
+      "description": "Narrate the stories of the birth of religious leaders"
+    },
+    {
+      "code": "B1.4.1.1.1",
+      "standard_code": "B1.4.1.1",
+      "description": "Mention the characteristics of a responsible citizen"
+    },
+    {
+      "code": "B1.4.2.1.1",
+      "standard_code": "B1.4.2.1",
+      "description": "Explore sources of power and authority"
+    },
+    {
+      "code": "B1.4.2.1.2",
+      "standard_code": "B1.4.2.1",
+      "description": "Identify people who have power and authority and respect them, as a responsible citizen"
+    },
+    {
+      "code": "B1.4.3.1.1",
+      "standard_code": "B1.4.3.1",
+      "description": "Explore the importance of energy in the home, school and community"
+    },
+    {
+      "code": "B1.4.4.1.1",
+      "standard_code": "B1.4.4.1",
+      "description": "Describe farming activities in the community"
+    },
+    {
+      "code": "B1.4.4.2.1",
+      "standard_code": "B1.4.4.2",
+      "description": "Identify simple agricultural tools"
+    },
+    {
+      "code": "B1.5.1.1.1",
+      "standard_code": "B1.5.1.1",
+      "description": "Mention Ghana's Neighbours"
+    },
+    {
+      "code": "B1.5.2.1.1",
+      "standard_code": "B1.5.2.1",
+      "description": "Identify parts of a computer and how they connect to each other"
+    },
+    {
+      "code": "B1.5.3.1.1",
+      "standard_code": "B1.5.3.1",
+      "description": "Collect types of data"
+    },
+    {
+      "code": "B1.5.4.1.1",
+      "standard_code": "B1.5.4.1",
+      "description": "Identify technology tools in communication"
+    }
+  ],
+  "notes": {
+    "periods_per_week": "?",
+    "source_verified": "2026-07-08",
+    "pdf_pages": "B1 pp.2-17"
+  }
+}

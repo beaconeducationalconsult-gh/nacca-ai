@@ -1,0 +1,43 @@
+{
+  "id": "mathematics",
+  "name": "Mathematics",
+  "grade": "B6",
+  "sourceTitle": "NaCCA Mathematics Curriculum B4-B6",
+  "sourceUrl": "https://rds.edu.gh/pdfs/MathematicsB4-B6.pdf",
+  "counts": {
+    "strands": 4,
+    "subStrands": 11,
+    "standards": 22,
+    "indicators": 42
+  },
+  "strands": [
+    {
+      "code": "B6.1",
+      "name": "NUMBER",
+      "subStrands": 4,
+      "standards": 14,
+      "indicators": 25
+    },
+    {
+      "code": "B6.2",
+      "name": "ALGEBRA",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 6
+    },
+    {
+      "code": "B6.3",
+      "name": "GEOMETRY AND MEASUREMENT",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 4
+    },
+    {
+      "code": "B6.4",
+      "name": "DATA",
+      "subStrands": 2,
+      "standards": 3,
+      "indicators": 7
+    }
+  ]
+}

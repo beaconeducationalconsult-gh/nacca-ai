@@ -1,0 +1,90 @@
+{
+  "B1.1.1.1.1": {
+    "strand": "1. HISTORY AS A SUBJECT",
+    "sub_strand": "1. Why and How We Study History",
+    "cs_code": "B1.1.1.1",
+    "cs_desc": "Demonstrate understanding of what history is about and how it is part of everyday life.",
+    "ind_desc": "Explain that history deals with past human activities.",
+    "competencies": "Critical Thinking & Problem Solving; Communication & Collaboration",
+    "resources": "Picture cards of past events; birthday calendar; family photo album; timeline cards; story books; radio/TV documentary clip",
+    "keywords": "history, past, human activities, everyday life, events, evidence",
+    "assessment": "Oral Q&A; timeline sequencing; past-event drawing"
+  },
+  "B1.1.1.1.2": {
+    "strand": "1. HISTORY AS A SUBJECT",
+    "sub_strand": "1. Why and How We Study History",
+    "cs_code": "B1.1.1.1",
+    "cs_desc": "Demonstrate understanding of what history is about and how it is part of everyday life.",
+    "ind_desc": "Describe how sources of historical evidence help us find out about past human activities.",
+    "competencies": "Critical Thinking & Problem Solving; Communication & Collaboration; Digital Literacy",
+    "resources": "Birthday register/manila card; family photographs; festival costume pictures; songs/rhymes; video of birthday/wedding/festival",
+    "keywords": "sources, evidence, past, birthdays, festivals, photographs, oral tradition",
+    "assessment": "Show-and-tell album; source-sorting task; class discussion rubric"
+  },
+  "B1.1.4.2.1": {
+    "strand": "1. HISTORY AS A SUBJECT",
+    "sub_strand": "4. Community History",
+    "cs_code": "B1.1.4.2",
+    "cs_desc": "Recount history about their communities.",
+    "ind_desc": "State the similarities and differences between the communities where learners live.",
+    "competencies": "Cultural Identity & Global Citizenship; Creativity & Innovation; Critical Thinking & Problem Solving",
+    "resources": "Community walk; pictures of old chapel, post office, chief's palace; sketch books; crayons; historical site flashcards",
+    "keywords": "community, history, similarities, differences, historical sites, local",
+    "assessment": "Community site sketch & compare; oral presentation; Venn diagram"
+  },
+  "B1.2.3.1.1": {
+    "strand": "2. MY COUNTRY GHANA",
+    "sub_strand": "3. How Ghana Got Its Name",
+    "cs_code": "B1.2.3.1",
+    "cs_desc": "Demonstrate understanding of why Ghana used to be called the 'Gold Coast'.",
+    "ind_desc": "Explain why, in the past, Ghana was known as the Gold Coast.",
+    "competencies": "Digital Literacy; Cultural Identity & Global Citizenship; Critical Thinking & Problem Solving",
+    "resources": "World map / Africa map; internet tablet; pictures of ancient Ghana Empire; gold dust sample pictures; Dr. J.B. Danquah portrait",
+    "keywords": "Ghana, Gold Coast, name change, ancient Ghana Empire, J.B. Danquah, costa da mina",
+    "assessment": "Oral explanation; map location task; matching exercise"
+  },
+  "B1.2.3.1.2": {
+    "strand": "2. MY COUNTRY GHANA",
+    "sub_strand": "3. How Ghana Got Its Name",
+    "cs_code": "B1.2.3.1",
+    "cs_desc": "Demonstrate understanding of why Ghana used to be called the 'Gold Coast'.",
+    "ind_desc": "Recall when the name Ghana came into formal use.",
+    "competencies": "Creativity & Innovation; Cultural Identity & Global Citizenship; Communication & Collaboration",
+    "resources": "Timeline cards 1957; parliament dramatization props; Ghana flag; resource person; story cards",
+    "keywords": "name Ghana, formal use, 1957, independence, parliament, Gold Coast to Ghana",
+    "assessment": "Dramatization rubric; sequencing timeline; short oral quiz"
+  },
+  "B1.2.5.1.1": {
+    "strand": "2. MY COUNTRY GHANA",
+    "sub_strand": "5. Some Selected Individuals",
+    "cs_code": "B1.2.5.1",
+    "cs_desc": "Show understanding of significant roles played by Ghanaians from different walks of life.",
+    "ind_desc": "Identify Ghanaians of diverse fields who have contributed significantly to national development.",
+    "competencies": "Creativity & Innovation; Digital Literacy; Cultural Identity & Global Citizenship",
+    "resources": "Pictures/posters: Theodosia Okoh – National flag; Amon Kotei – Coat of Arms; Baba Yara – Football; Ephraim Amu – Music; Kofi Antubam – Art; Kwaw Ansah – Film; documentary video; internet",
+    "keywords": "Theodosia Okoh, Amon Kotei, Baba Yara, Ephraim Amu, Kofi Antubam, Kwaw Ansah, national development, contributions",
+    "assessment": "Match individual to achievement; role-play 'what I want to be'; picture identification quiz"
+  },
+  "B1.3.1.1.1": {
+    "strand": "3. EUROPEANS IN GHANA",
+    "sub_strand": "1. Arrival of Europeans",
+    "cs_code": "B1.3.1.1",
+    "cs_desc": "Show understanding of Europeans who came to Ghana.",
+    "ind_desc": "Explore which Europeans came to Ghana.",
+    "competencies": "Cultural Identity & Global Citizenship; Digital Literacy; Critical Thinking & Problem Solving",
+    "resources": "World map; European country flag cards – Portugal, Britain, France, Sweden, Germany/Brandenburg, Denmark, Netherlands, Norway; timeline strips; museum pictures",
+    "keywords": "Europeans, Portugal, Britain, France, Denmark, Netherlands, Sweden, Germany, arrival, settlement, Gold Coast",
+    "assessment": "Ordering Europeans by arrival; map location task; oral Q&A"
+  },
+  "B1.6.1.1.1": {
+    "strand": "6. INDEPENDENT GHANA",
+    "sub_strand": "1. The Republics",
+    "cs_code": "B1.6.1.1",
+    "cs_desc": "Demonstrate understanding of the presidents that have ruled Ghana since 1960.",
+    "ind_desc": "Identify the Presidents Ghana has had since 1960.",
+    "competencies": "Personal Development & Leadership; Communication & Collaboration",
+    "resources": "Presidential portrait gallery cards (Nkrumah to present); large cardboard; glue; markers; timeline 1960–present; documentary clip",
+    "keywords": "presidents, Ghana, since 1960, republic, head of state, Nkrumah",
+    "assessment": "Picture-to-name matching; gallery walk presentation; presidential timeline ordering"
+  }
+}

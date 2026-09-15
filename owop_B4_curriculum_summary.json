@@ -1,0 +1,53 @@
+{
+  "id": "owop",
+  "name": "Our World Our People",
+  "grade": "B4",
+  "sourceTitle": "NaCCA OWOP Curriculum B4-B6",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/06/OUR-WORLD-AND-OUR-PEOPLE-B4-B6-1.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 17,
+    "standards": 23,
+    "indicators": 25
+  },
+  "strands": [
+    {
+      "code": "B4.1",
+      "name": "B4.1",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 6
+    },
+    {
+      "code": "B4.2",
+      "name": "B4.2",
+      "subStrands": 4,
+      "standards": 6,
+      "indicators": 7
+    },
+    {
+      "code": "B4.3",
+      "name": "B4.3",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 4
+    },
+    {
+      "code": "B4.4",
+      "name": "B4.4",
+      "subStrands": 4,
+      "standards": 6,
+      "indicators": 6
+    },
+    {
+      "code": "B4.5",
+      "name": "B4.5",
+      "subStrands": 1,
+      "standards": 2,
+      "indicators": 2
+    }
+  ],
+  "extraction_method": "pypdf regex B4.x.x.x.x, placeholder metadata",
+  "extraction_date": "2026-07-09",
+  "notes": "Upper Primary B4 – preliminary DB, indicator descriptions to be enriched from NaCCA exemplars"
+}

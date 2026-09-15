@@ -1,0 +1,50 @@
+{
+  "id": "science",
+  "name": "Science",
+  "grade": "B2",
+  "sourceTitle": "NaCCA Science Curriculum B1-B3",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/SCIENCE-LOWER-PRIMARY-B1-B3.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 12,
+    "standards": 21,
+    "indicators": 25
+  },
+  "strands": [
+    {
+      "code": "B2.1",
+      "name": "DIVERSITY OF MATTER",
+      "subStrands": 2,
+      "standards": 5,
+      "indicators": 6
+    },
+    {
+      "code": "B2.2",
+      "name": "CYCLES",
+      "subStrands": 1,
+      "standards": 3,
+      "indicators": 4
+    },
+    {
+      "code": "B2.3",
+      "name": "SYSTEMS",
+      "subStrands": 2,
+      "standards": 2,
+      "indicators": 2
+    },
+    {
+      "code": "B2.4",
+      "name": "FORCES AND ENERGY",
+      "subStrands": 3,
+      "standards": 6,
+      "indicators": 6
+    },
+    {
+      "code": "B2.5",
+      "name": "HUMANS AND THE ENVIRONMENT",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 7
+    }
+  ]
+}

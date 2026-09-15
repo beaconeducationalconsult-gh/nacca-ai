@@ -1,0 +1,29 @@
+{
+  "id": "history",
+  "name": "History",
+  "grade": "B2",
+  "sourceTitle": "NaCCA Basic 1-6 History Curriculum",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2019/04/HISTORY-B1-B6.pdf",
+  "counts": {
+    "strands": 2,
+    "subStrands": 4,
+    "standards": 4,
+    "indicators": 4
+  },
+  "strands": [
+    {
+      "code": "B2.2",
+      "name": "MY COUNTRY GHANA",
+      "subStrands": 3,
+      "standards": 3,
+      "indicators": 3
+    },
+    {
+      "code": "B2.3",
+      "name": "EUROPEANS IN GHANA",
+      "subStrands": 1,
+      "standards": 1,
+      "indicators": 1
+    }
+  ]
+}

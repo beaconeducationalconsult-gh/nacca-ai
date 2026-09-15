@@ -1,0 +1,52 @@
+{
+  "id": "science",
+  "name": "Science",
+  "grade": "B7",
+  "sourceTitle": "NaCCA Science CCP Curriculum B7-B9",
+  "sourceUrl": "https://nacca.gov.gh/wp-content/uploads/2022/10/Science-Curriculum.pdf",
+  "counts": {
+    "strands": 5,
+    "subStrands": 19,
+    "standards": 26,
+    "indicators": 52
+  },
+  "strands": [
+    {
+      "code": "B7.1",
+      "name": "B7.1",
+      "subStrands": 2,
+      "standards": 3,
+      "indicators": 6
+    },
+    {
+      "code": "B7.2",
+      "name": "B7.2",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 10
+    },
+    {
+      "code": "B7.3",
+      "name": "B7.3",
+      "subStrands": 4,
+      "standards": 4,
+      "indicators": 9
+    },
+    {
+      "code": "B7.4",
+      "name": "B7.4",
+      "subStrands": 5,
+      "standards": 9,
+      "indicators": 21
+    },
+    {
+      "code": "B7.5",
+      "name": "B7.5",
+      "subStrands": 4,
+      "standards": 5,
+      "indicators": 6
+    }
+  ],
+  "curriculum_type": "CCP",
+  "phase": "JHS"
+}
