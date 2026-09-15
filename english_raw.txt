@@ -1,0 +1,5663 @@
+
+--- PAGE 1 ---
+ 
+© NaCCA, Ministry of Education, 2019  
+ 
+ 
+ 
+MINISTRY OF EDUCATION 
+ 
+ 
+REPUBLIC OF GHANA 
+ENGLISH LANGUAGE 
+CURRICULUM FOR PRIMARY SCHOOLS 
+(BASIC 1 - 3) 
+SEPTEMBER 2019 
+ 
+ 
+ 
+--- PAGE 2 ---
+© NaCCA, Ministry of Education 2019 ii 
+English Language Curriculum for Primary Schools 
+ 
+ 
+ 
+ 
+Enquiries and comments on this Curriculum should be addressed to: 
+The Executive Secretary 
+National Council for Curriculum and Assessment (NaCCA) 
+Ministry of Education 
+P. O. Box CT PM 77 
+Cantonments 
+Accra 
+Telephone: 0302909071, 0302909862 
+Email:        info@nacca.gov.gh  
+Website:   www.nacca.gov.gh  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 3 ---
+© NaCCA, Ministry of Education 2019 iii 
+FOREWORD 
+The new curriculum for Ghana’s primary schools is standards -based, which is our demonstration of placing learning at the heart of every classroom and 
+ensuring that every learner receives quali ty education. Provision of accessible quality education for all is non -negotiable if we are to meet the human capital 
+needs of our country, required for accelerated sustainable national development. It is for this reason that the new curriculum sets out clearly the learning areas 
+that need to be taught, how they should be taught and how they should be assessed. It provides a set of core competencies and  standards that learners are to 
+know, understand and demonstrate as they progress through the curriculum f rom one content standard to the other and from one phase to the next. The 
+curriculum and its related teachers’ manual promote the use of inclusive and gender responsive pedagogy within the context of  learning-centred teaching 
+methods so that every learner can participate in every learning process and enjoy learning. The curriculum encourages the use of Information and 
+Communication Technologies (ICTs) for teaching and learning – ICTs as teaching and learning materials. 
+ 
+The new curriculum has at its heart t he acquisition of skills in the 4Rs of Reading, wRiting, aRithmetic and cReativity by all learners. It is expected that at an y 
+point of exit from a formal education, all learners should be equipped with these foundational skills for life, which are als o prerequisites for Ghana becoming a 
+learning nation. The graduates from the school system should become functional citizens in the 4Rs and lifelong learners. The y should be digital literates, 
+critical thinkers and problem solvers. The education they receive t hrough the study of the learning areas in the curriculum should enable them to collaborate 
+and communicate well with others and be innovative. The graduates from Ghana’s schools should be leaders with a high sense of  national and global identity. 
+The curriculum therefore provides a good opportunity in its design to develop individuals with the right skills and attitudes to lead the transformation of Ghana 
+into an industrialised learning nation.  
+ 
+For this reason, the Ministry of Education expects that learn ers, as a result of the new knowledge, skills and values they have acquired through the new 
+curriculum, will show a new sense of identity as creative, honest and responsible citizens. These are our core values that un derpin the identification and 
+selection of the learning areas for this curriculum.  These core values serve as fundamental building blocks for developing into our le arners the spirit of 
+teamwork, respect, resilience and the commitment to achieving excellence.  The Ministry endorses a quality le arning experience as an entitlement for each of 
+Ghana’s school-going girl and boy; the curriculum has rightly focused on learning and learning progression. The Ministry has also endorsed a ccountability as a 
+critical domain for effective workings of standards-based curriculum. 
+ 
+More importantly the role of the teacher is to make this curriculum work for the intended purpose - to inculcate in learners the core competencies and values 
+and to make learning happen; improve learning outcomes – and the support that teachers need is duly recognised and endorsed by my Ministry. The Ministry 
+will support the implementation of the curriculum to include capacity development of all teachers in the new curriculum. Teac hers matter in the development 
+and delivery of the sta ndards-based curriculum and we will continue to support our teachers on this journey that we have started together to put learning a t 
+the centre of what we do best; teach! 
+ 
+I thank all those who have contributed their time and expertise to the development of this curriculum for primary schools in Ghana. 
+ 
+ 
+Dr. Matthew Opoku Prempeh (MP) 
+The Honourable Minister of Education 
+--- PAGE 4 ---
+© NaCCA, Ministry of Education 2019 iv 
+TABLE OF CONTENTS 
+FOREWORD ..................................................................................................................................................... Error! Bookmark not defined. 
+RATIONALE FOR PRIMARY ENGLISH LANGUAGE .......................................................................................................................................... vi 
+PHILOSOPHY .................................................................................................................................................................................................. vi 
+GENERAL AIMS ............................................................................................................................................................................................. vii 
+SPECIFIC AIMS .............................................................................................................................................................................................. vii 
+TEACHING AND LEARNING EXPECTATIONS ................................................................................................................................................. vii 
+CORE COMPETENCIES ................................................................................................................................................................................. viii 
+LEARNING DOMAINS (EXPECTED LEARNING BEHAVIOURS) ......................................................................................................................... ix 
+ASSESSMENT ............................................................................................................................................................................................... xiii 
+SUGGESTED TIME ALLOCATION ................................................................................................................................................................... xiv 
+PEDAGOGICAL APPROACHES ....................................................................................................................................................................... xiv 
+INFORMATION COMMUNICATIONS TECHNOLOGY .................................................................................................................................... xvii 
+ORGANISATION OF THE CURRICULUM ...................................................................................................................................................... xviii 
+CURRICULUM REFERENCE NUMBERS..................... .............................................................................................................................. .......xix 
+NOTE TO THE TEACHER .................................................................................................................................................................................xx 
+SCOPE AND SEQUENCE .................................................................................................................................................................................. 1 
+BASIC 1 ........................................................................................................................................................................................................... 6 
+STRAND 1: ORAL LANGUAGE ......................................................................................................................................................................... 6 
+STRAND 2: READING .................................................................................................................................................................................... 17 
+STRAND 4: WRITING ..................................................................................................................................................................................... 28 
+--- PAGE 5 ---
+© NaCCA, Ministry of Education 2019 v 
+STRAND 5: USING WRITING CONVENTION/GRAMMAR USAGE .................................................................................................................. 34 
+STRAND 6: EXTENSIVE READING .................................................................................................................................................................. 41 
+BASIC 2 ......................................................................................................................................................................................................... 39 
+STRAND 1: ORAL LANGUAGE ....................................................................................................................................................................... 39 
+STRAND 2: READING .................................................................................................................................................................................... 49 
+STRAND 4: WRITING ..................................................................................................................................................................................... 28 
+STRAND 5: USING WRITING CONVENTION/GRAMMAR USAGE .................................................................................................................. 68 
+STRAND 6:  EXTENSIVE READING ................................................................................................................................................................. 76 
+BASIC 3 ......................................................................................................................................................................................................... 70 
+STRAND 1: ORAL LANGUAGE ....................................................................................................................................................................... 70 
+STRAND 2: READING .................................................................................................................................................................................... 81 
+STRAND 4: WRITING ..................................................................................................................................................................................... 89 
+STRAND 5: USING WRITING CONVENTIONS/GRAMMAR USAGE ................................................................................................................ 97 
+STRAND 6: EXTENSIVE READING ................................................................................................................................................................ 102 
+ENGLISH LANGUAGE SUBJECT PANEL MEMBERS AND REVIEWERS .......................................................................................................... 103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 6 ---
+© NaCCA, Ministry of Education 2019 vi 
+RATIONALE FOR PRIMARY ENGLISH LANGUAGE  
+Language is both a medium of  communication and a library in which the elements of culture are stored. It remains the most reliable means 
+through which the elements one’s culture and that of other people are transmitted from generation to generation. First, the s tudy of English as a 
+second Language will equip learners with effective communication skills that will provide them with an appreciation of the val ues embodied in 
+the language and culture of others. In the light of present day global development and technological advancement, t he learning of a second 
+language and the acquisition of literacy must promote the respect for the language and culture of others. 
+Secondly, the special status of English as a language across curriculum and as the official language of Ghana and the role it  plays in national life 
+including being the language of government business and administration, commerce as well as the media, makes it important tha t Ghanaian 
+children learn English as a second language.  
+Also, to enable our learners become members of the international community, they must be exposed to English, the most widely used global 
+language. This means that success in education at all levels depends, to a very large extent, on the individual’s proficiency  in the English language. 
+However, children must first be given a strong foundation in their first language to make the learning of English easier for them as confirmed b y 
+research.  It is for these and other reasons that English Language is a major subject of study in Ghanaian schools. 
+PHILOSOPHY 
+Borrowing from a variety of philosophical ideas like the interactionists and contextualists , this language and literacy learning curriculum is 
+informed by two major ideas, namely the Developmental theory and the Social Constructivism. 
+Children go through dev elopmental stages as they learn language and research is clear that children develop language at their own pace as they 
+interact with the social environment around them. Therefore, when children are provided with a good social environment , they develop 
+language faster than children who are in non-interactive and poor language environment.  
+In teaching language and literacy, the syllabus adopts the socio-constructivist dimensions to learning. At school, literacy learning goes through the 
+same developmental p rocesses. Children have in -built potentials to develop and acquire new language while approximating grammatical 
+structures as they learn to speak. They invent names for the objects in their world , from the beginning but gradually, as they interact, they learn 
+the appropriate language of the community.  
+The social constructivist theory holds the notion that reading and writing are an active process of constructing meaning from  print; hence, the 
+use of their favourite phrase “meaning making” to describe how a ctive the reader is in learning language and literacy and comprehending what 
+s/he reads or hears. The teacher guides learners to decode text and supports them to engage and make sense of the texts they read. This is to 
+ensure that good readers do not just take in a store of given information but make their own interpretation of experiences to elaborate and test 
+those interpretations. 
+Thus, participatory and thematic approaches should be emphasised to help children connect literacy learning in the classroom to solving real 
+world problems in their environment and world around them. The teacher should promote interaction and make learners active in  their own 
+learning. Learners’ differences in the language classroom should not be taken as a deficit, but provide the teacher with the background to 
+--- PAGE 7 ---
+© NaCCA, Ministry of Education 2019 vii 
+support children. Current definitions emphasi se that literacy is not just reading and writing but also listening , speaking and thinking. It involves 
+the knowledge and skills to engage in social and academic processes needed for effective functioning in the school and community. 
+GENERAL AIMS 
+The general aim of the language and literacy curriculum is to enable learners develop an appreciation and understanding of the English language 
+and to use it effectively, making meaning with it in ways that are purposeful, imaginative, creative and critical. 
+SPECIFIC AIMS 
+The overriding aim for the Language and Literacy curriculum (in both Ghanaian Language and English language) in basic schools  is to promote 
+high standards of language and literacy by equipping pupils with a good command of the spoken and written word to enable them to: 
+ acquire the basic skills that will help them decode any text. 
+ read age-level texts easily, fluently and with comprehension. 
+ cultivate the habit of reading widely for pleasure and information. 
+ acquire a wide stock of vocabulary and understanding grammatical structures as well as linguistic conventions for easy reading, good 
+writing and speaking. 
+ write clearly, accurately and coherently, adapting their first language style in a range of contexts for varied purposes and audience. 
+ read with pleasure literary materials and appreciate a great stock of literary repertoire. 
+ acquire the skill of self-expression and be able to communicate their ideas to different audiences to achieve the intended purpose. 
+ develop and cultivate the skill and ability to read the lines, in-between the lines and beyond the lines; and to find out hidden meaning and 
+ideas. 
+TEACHING AND LEARNING EXPECTATIONS 
+Teachers are expected to: 
+1. guide and facilitate learning by generating discourse among learners and challenging them to accept and share responsibility for their own 
+learning, based on their unique individual differences;  
+2. select English Language content, adapt and plan lessons to meet the interests, knowledge, understanding, abilities and experiences of 
+learners; 
+--- PAGE 8 ---
+© NaCCA, Ministry of Education 2019 viii 
+3. work together as colleagues within and across disciplines and grade levels to develop communities of English Language learners who 
+exhibit good communication skills and positive attitudes towards the learning of English Language. 
+4. use multiple methods to systematically gather data about learners' understanding and ability in order to guide the teaching and learning 
+of English Language, and also to provide feedback to both learners and parents;  
+5. design and manage learning environments that provide learners with the time, space and resources needed for learning English Language. 
+CORE COMPETENCIES 
+In using this curriculum, we hope that certain core competenc ies will be developed in learners to help them develop our country, Ghana. These 
+competencies include: 
+1. Critical Thinking and Problem-Solving (CP) 
+This skill enables  learners to develop their cognitive and reasoning abilities to analyse issues and situations leading to the resolution of  
+problems. Critical thinking and problem -solving skills enable learners to draw on and demonstrate what they have learned from their own 
+experiences to analyse situations and choose the most appropriate out of a number of possible solutions. It requires th at learners embrace 
+the problem at hand, persevere and take responsibility for their own learning. 
+ 
+2. Creativity and Innovation (CI) 
+This competence promotes in learners entrepreneurial skills through their ability to think of new ways of solving problems an d 
+developing technologies for addressing the problem at hand. It requires ingenuity of ideas, arts, technology and enterprise. Learners 
+having this competency can think independently and creatively as well. 
+3. Communication and Collaboration (CC) 
+This competence promotes in learners the skills to make use of languages, symbols and texts to exchange information about themselves 
+and their life experiences. Learners actively participate in sharing their ideas, engage in dialogue with others by listening  to and learning 
+from others in ways that respect and value the multiple perspectives of all persons involved. 
+4. Cultural Identity and Global Citizenship (CG) 
+This involves developing learners to put country and service foremost through an understanding of what it mea ns to be active citizens. 
+This is done by inculcating in them a strong sense of social and economic awareness. Learners make use of the knowledge, skil ls, 
+competencies and attitudes acquired to contribute effectively towards the socio-economic development of the country and on the global 
+stage. Learners build skills to critically identify and analyse cultural and global trends that enable them to contribute to the global 
+community. 
+--- PAGE 9 ---
+© NaCCA, Ministry of Education 2019 ix 
+5. Personal Development and Leadership (PL) 
+PL involves improving self -awareness, self-knowledge, skills, health, building and renewing self -esteem; identifying and developing talents, 
+fulfilling dreams and aspirations and developing other people or meeting other people’s needs. It involves recognising the im portance of 
+values such a s honesty and empathy; seeking the well -being of others; distinguishing between right and wrong; fostering perseverance, 
+resilience and self-confidence; exploring leadership, self-regulation and responsibility, and developing a love for lifelong learning. 
+6. Digital literacy (DL) 
+DL involves developing learners to discover, acquire and communicate through ICT to support their learning and make use of di gital 
+media responsibly. 
+LEARNING DOMAINS (EXPECTED LEARNING BEHAVIOURS) 
+A central aspect of this curriculum is the concept of three integral learning domains that should be the basis for instruction and assessment. 
+These are: 
+-  Knowledge, Understanding and Application 
+-  Language Skills 
+-  Attitudes and Values 
+ 
+Knowledge, Understanding and Application  
+Under th is domain, learners acquire knowledge through some learning experiences. They may also show understanding of concepts by 
+comparing, summarising, re -writing, etc. in their own words and constructing meaning from instruction. The learner may also apply the 
+knowledge acquired in some new contexts. At a higher level of learning behaviour, the learner may be required to analyse an is sue or a problem. 
+At a much more higher level, the learner may be required to synthesize knowledge by integrating a number of ideas  to formulate a plan, solve a 
+problem, compose a story, or a piece of music. Further, the learners may be required to evaluate, estimate and interpret a co ncept. At the last 
+level, which is the highest, learners may be required to create, invent, compose, design and construct. These learning behaviours namely, 
+“knowing”, “understanding”, “applying”, “analysing”, “synthesising”, “evaluating” and “creating” fall under the domain “Knowl edge, Understanding 
+and Application”.  
+In this curriculum, learning indicat ors are stated with action verbs to show what the learner should know and be able to do. For example, the 
+learner will be able to describe something. Being able to “describe” something after teaching and learning has been completed  means that the 
+--- PAGE 10 ---
+© NaCCA, Ministry of Education 2019 x 
+learner has acquired “knowledge”. Being able to explain, summarise and give examples etc. means that the learner has understood the co ncept 
+taught. 
+Similarly, being able to develop, defend, etc. means that the learner can “apply” the knowledge acquired in some new context.You will note that 
+each of the indicators in the curriculum contains an “action verb” that describes the behaviour the learner will be able to d emonstrate after 
+teaching and learning has taken place. “Knowledge, Understanding and Application” is a domain that should be the prime focus of teaching and 
+learning in schools. Teaching , in most cases , tends to stress knowledge acquisition to the detriment of other higher -level behaviours such as 
+applying knowledge.   
+Each action verb in any indicator outl ines the underlying expected outcome. Each indicator must be read carefully to know the learning domain 
+towards which the teacher has to teach. The focus is to move teaching and learning from the didactic acquisition of “knowledge” where there is 
+fact memorisation, heavy reliance on formulae, remembering facts without critiquing them or relating them to real world – surface learning – 
+to a new position called – deep learning. Learners are expected to deepen their learning by knowledge application to develop  critical thinking 
+skills and to generate creative ideas to solve real life problems in their school lives and later , in their adult lives. This is the position where 
+learning becomes beneficial to the learner.   
+ 
+The explanation and the key words involved in the “Knowledge, Understanding and Application” domain are as follows: 
+Knowing: This is the ability to remember, recall, identify, define, describe, list, name, match, state principles, facts and concepts. 
+Knowledge is the ability to remember or recall concepts already learnt and this constitutes the lowest level of learning. 
+Understanding: This is the ability to explain, summarise, translate, rewrite, paraphrase, give examples, generalise, estimate    
+  or predict consequences based on a trend. Understanding is generally the ability to grasp the meaning of  
+  some concepts that may be verbal, pictorial, or symbolic. 
+ 
+Applying: This dimension is also referred to as “Use of Knowledge”. It is the ability to use knowledge or apply knowledge, apply 
+rules, methods, principles, theories, etc. to situations that are new and unfamiliar. It also involves the ability to produce, 
+solve, plan, demonstrate, discover, etc.  
+Analysing:  This is the ability to break down concept s/information into its component parts; to d ifferentiate, compare, distinguish, 
+outline, separate, identify significant points , etc., ability to recognise unstated assumptions and logical fallacies; ability to 
+recognise inferences from facts, etc.  
+Synthesising: This is the ability to put parts or ideas together to form a new whole.  It involves the ability to combine,  
+  compile, compose, devise, plan, revise, organise, create and generate new ideas and solutions. 
+ 
+--- PAGE 11 ---
+© NaCCA, Ministry of Education 2019 xi 
+Evaluating: This is the ability to appraise, compare features of different things and  make comments or judgment, contrast, criticise, 
+justify, support, discuss, conclude, make recommendations etc.  Evaluation refers to the ability to judge the worth or 
+value of some concepts based on some criteria. 
+Creating: This is the ability to use info rmation or materials to plan, compose, produce, manufacture or construct products.  From 
+the foregoing, creating is the highest form of thinking and learning and is , therefore, a very important behaviour. This, 
+unfortunately, is the area where most learners perform poorly. In order to get learners to develop critical thinking skills , 
+beginning right from the lower primary level, it is advised that teachers  do their best to help their learners  develop 
+analytic skills as  has been said already. 
+ 
+Language Skills 
+There are four main language skills to develop in learners at the primary level. These are: 
+o Listening 
+o Reading 
+o Speaking  
+o Writing  
+ 
+Explanation of the meaning of the four skills is as follows: 
+ Listening 
+ This is the ability to accurately receive and inte rpret messages in the communication process. For example,  the ability to listen to, 
+understand and follow directions, instructions, etc. given in a language. 
+ 
+ Reading  
+This is the ability to read and understand what is conveyed in a piece of writing. The r eader must be able to read coherently and must 
+be able to answer questions arising from the passage read.  He/she should also be able to summari se passages read in his/her own words 
+to show understanding of the passages. 
+ 
+ Speaking 
+--- PAGE 12 ---
+© NaCCA, Ministry of Education 2019 xii 
+This is the ability to speak a language clearly and in a way that will be understood by listeners.  This is an oral communication skill that 
+learners should be encouraged to practise to perfection. 
+ 
+ Writing:   
+This is the ability to express one’s self clearly and comprehensively i n writing. Writing may be in the form of simple sentences, short 
+essays, compositions, summaries, letters, etc. 
+Learning the English Language implies the acquisition of two major abilities or behaviours. These are “Knowledge and Understa nding” and the 
+“Use of Knowledge”. “Knowledge and Understanding” refers to the ability to identify and recall, for example, the principles of gra mmar acquired 
+through instruction and further acquired through Listening and Reading.  “Use of Knowledge” implies the ability to u se the language in writing 
+and in speaking. Beside the two dimensions are the four skills, Listening, Reading, Speaking and Writing. Listening and Readi ng are referred to as 
+“Receptive Skills.” They are the skills through which a learner receives communica tion. Speaking and Writing are referred to as “Productive 
+Skills” since these are the skills which require the learner to produce knowledge acquired through speaking the language and through writing 
+letters, compositions, etc. 
+ 
+ATTITUDES AND VALUES 
+To be effective, competent and reflective citizens who will be willing and capable of solving personal and societal problems, learne rs should be 
+exposed to situations that challenge them to raise questions and attempt to solve problems. Learners, therefore , need to acquire positive 
+attitudes, values and psychosocial skills that will enable them to participate in debates and take a stand on issues affecting them and others.  
+Attitudes 
+i. Curiosity: 
+It is an inclination or a feeling towards seeking information about how things work in a variety of fields. 
+ii. Perseverance: 
+This is the ability to pursue a problem until a satisfying solution is found. 
+iii. Flexibility in ideas: 
+It is the willingness to change an opinion in the face of more plausible evidence. 
+iv. Respect for Evidence: 
+It is the willingness to collect and use data in one’s investigation and also have respect for data collected by others. 
+v. Reflection: 
+--- PAGE 13 ---
+© NaCCA, Ministry of Education 2019 xiii 
+This is the habit of critically reviewing ways in which an investigation has been carried out to see possible faults and other ways by which 
+the investigation could be improved upon.  
+ 
+Values 
+ 
+At the heart of the curriculum is the belief in nurturing honest, creative and responsible citizens. As such, every part of t his curriculum, including 
+the related pedagogy should be consistent with the following set of values: 
+Respect: This includes respect for the nation of Ghana, its institutions and laws and the culture and respect among its citizens and 
+friends of Ghana. 
+Diversity: Ghana is a multicultural society in which every citi zen enjoys fundamental rights and responsibilities. Learners must be taught 
+to respect the views of all persons and to see national diversity as a powerful force for nation development. The curriculum promotes 
+social cohesion.  
+Equity: The socio-economic development across the country is uneven. Consequently, it is necessary to ensure an equitable distribution 
+of resources based on the unique needs of learners and schools. Ghana’s learners are from diverse backgrounds, which require  the 
+provision of equal opportunities for all, and that all should strive to care for one another other, both personally and professionally. 
+Commitment to achieving excellence: Ghana’s learners must be taught to appreciate the opportunities provided through the 
+curriculum and pers ist in doing their best in whatever field of endeavour as global citizens. The curriculum encourages innovativeness 
+through creative and critical thinking and the use of contemporary technology. Ghana , thus,  will instil the value of excellent service 
+above the self. 
+Teamwork/Collaboration: Ghana’s schools are to be dedicated to a constructive and team -oriented working and learning 
+environment. This also means that learners should live peacefully with all persons with an attitude of tolerance and collaboration. 
+Truth and Integrity: The curriculum aims to develop Ghana’s learners into individuals who will consistently tell the truth , irrespective 
+of the consequences, be morally upright with the attitude of doing the right thing , even when no one is watching, b e true to themselves 
+and lawful beliefs, and be willing to live the values of honesty and compassion. Equally important, the ethos of the workplac e, including 
+integrity and grit, must underpin the learning processes to allow students to see and apply acade mic skills and competencies in the world 
+of work.  
+ASSESSMENT 
+Assessment is a process of collecting and evaluating information about learners and using the information to make decisions t o improve their 
+learning. 
+ 
+--- PAGE 14 ---
+© NaCCA, Ministry of Education 2019 xiv 
+In this curriculum, it is suggested that assessment is used to promote learning. Its purpose is to identify the strengths and weaknesses of learners 
+to enable teachers ascertain their learners' response to instruction.  
+ 
+Assessment is both formative and summative. Formative assessment is viewed in terms of Assessment as learning and Assessment for learning.  
+ 
+Assessment as learning: Assessment as learning relates to engaging learners to reflect on the expectations of their learning. Information that 
+learners provide the teacher forms the basis for refining teaching -learning strategies. Learners are assisted to play their roles and to take 
+responsibility for their own learning to improve performance. Learners set their own goals and monitor their progress.  
+ 
+Assessment for learning:  It is an approach used to monitor learners' progress and achievement. This occurs throughout the learning process. 
+The teacher employs assessment for learning to seek and interpret evidence , which serves as timely feedback to refine their teaching strategies 
+and improve learners’ performance. Learners become actively involved in the learning process and gain confidence in what they are expected  to 
+learn.   
+ 
+Assessment of learning: This is summative assessment. It describes the level learners have attained in the learning, what they know and can do 
+over a period. The emphasis is to evaluate the learner’s cumulative progress and achievement.  
+ 
+It must be emphasised that all forms of assessment should be based on the domains of learning. In developing assessment proce dures, one 
+should try to select indicators in such a way that he/she will be able to assess a representative sample from a given strand. Each indicator in the 
+curriculum is considered a criterion to be achieved by the learners. When one develops assessment items or  questions that are based on a 
+representative sample of the indicators taught, the assessment is referred to as a “Criterion -Referenced Assessment”.  In many cases, a teacher 
+cannot assess all the indicators taught in a term or year.  The assessment proced ure one uses i.e. class assessments, homework, projects , etc. 
+must be developed in such a way that the various procedures complement one another to provide a representative sample of indi cators taught 
+over a period. 
+SUGGESTED TIME ALLOCATION 
+ 
+A total of ten periods a week, each period consisting of thirty minutes, is allocated to the teaching of English Language at the Primary level. It is 
+recommended that two periods of English Language be taught per day. 
+PEDAGOGICAL APPROACHES 
+These are the approaches, methods and strategies for ensuring that every learner benefits from appropriate and relevant teaching and learning 
+episodes which are timely assessed and feedback provided to the learner and other stakeholders, such as parents and education authorities. 
+--- PAGE 15 ---
+© NaCCA, Ministry of Education 2019 xv 
+These approaches include the type and use of appropriate and relevant teaching and learning resources to ensure that all learners make the 
+expected level of learning outcomes. The curriculum emphasises:  
+a. the creation of learning -centred classrooms through the  use of creative approaches to teaching and learning as strategies to ensuring 
+learner-empowerment and independent learning,  
+b. the positioning of inclusion and equity at the centre of quality teaching and learning,  
+c. the use of differentiation and scaffolding as teaching and learning strategies for ensuring that no learner is left behind, 
+d. the use of Information Communications Technology (ICT) as a pedagogical tool, 
+e. the identification of subject specific instructional expectations needed for making learning in the subject relevant to learners and 
+f. the integration of assessment into the teaching and learning process and as an accountability strategy. 
+Learning-Centred Pedagogy 
+The learner is at the centre of learning. At the heart of the national curriculum is the  learning progression and improvement of learning 
+outcomes for Ghana’s young people, with a focus on the 4Rs – Reading, wRiting, aRithmetic and cReativity. It is expected that at each curriculum 
+phase, learners would be offered the essential learning exper iences to progress seamlessly to the next phase. Where there are indications that a 
+learner is not sufficiently ready for the next phase , a compensatory provision through differentiation should be provided to ensure that such a 
+learner is ready to progress with his/her group. At the primary school level, the progression phases are B1 – B6. 
+ 
+The curriculum encourages the creation of a learning -centred classroom, with the opportunity for learners to engage in meaningful “hands -on” 
+activities that bring home t o the learner what they are learning in school and what they know from outside of school. The learning -centred 
+classroom is a place for the learners to discuss ideas and through the inspiration of the teacher , to also actively engage in looking for answers , 
+working in groups to solve problems, researching for , analysing and evaluating information. The aim of the learning -centred classroom approach 
+is to develop learner-autonomy so that learners can take ownership of their learning. It provides the opportunity for deep learning to take place.  
+ 
+The teacher should create a learning atmosphere that ensures that:  
+ learners feel safe and accepted. 
+ learners are given frequent opportunities to interact with varied sources of information, teaching and learning mater ials and ideas in a 
+variety of ways. 
+ teacher assumes the position of a facilitator or coach who:  
+o helps learners to identify a problem suitable for investigation via project work, 
+o connects the problem with the context of the learners’ world so that it presents authentic opportunities for learning, 
+o organises the subject matter around the problem, not the discipline, 
+o gives learners responsibility for defining their learning experience and planning to solve the problem, 
+o encourages learners to collaborate in learning and  
+o expects all learners to demonstrate the results of their learning through a product or performance. 
+--- PAGE 16 ---
+© NaCCA, Ministry of Education 2019 xvi 
+It is more productive for learners to find answers to their own questions rather than teachers providing the answers and their opinions in a 
+learning-centred classroom.  
+Inclusion 
+Inclusion is ensuring access and learning for all learners, especially, those disadvantaged. All learners are entitled to a b road and balanced 
+curriculum in every school in Ghana. The daily learning activities to which l earners are exposed should ensure that the learners’ right to equal 
+access to quality education is being met. The curriculum suggests a variety of approaches that address es learners’ diversity and  special needs in 
+the learning process, which when effectiv ely used in lessons , will contribute to the full development of the learning potential of every learner. 
+Learners have individual needs and different learning styles, learning experiences and different levels of motivation for lea rning. Planning, delivery 
+and reflections on daily learning episodes should consider these differences. The curriculum, therefore, promotes:  
+ learning that is linked to the learners’ background and to their prior experiences, interests, potential and capacities,  
+ learning that is meaningful because it aligns with learners’ ability (e.g. learning that is oriented towards developing general capabilities an d 
+solving the practical problems of everyday life) and 
+ the active involvement of the learners in the selection and organisation of learning experiences, making them aware of their importance 
+and also enabling them to assess their own learning outcomes. 
+Differentiation and Scaffolding 
+Differentiation is a process by which differences between learners are accommodated so that all learne rs in a group have best chance s of 
+learning. It could be by task, support and outcome. Differentiation, as a way of ensuring each learner benefits adequately from the delive ry of the 
+curriculum, can be achieved in the classroom through:  
+ task, 
+ pastoral support and 
+ Outcome.  
+ 
+Differentiation by task involves teachers setting different tasks for learners of different abilit ies, e.g. in sketching the plan and shape of their 
+classroom, some learners could be made to sketch with free hand, while others would be made to trace the outline of the plan. 
+Differentiation by support involves the teacher referring weak students to the Guidance and Counselling Unit for academic support. 
+Differentiation by outcome involves the teacher allowing students to respond at different levels. Weaker students are allowed more time for 
+complicated tasks. 
+Scaffolding in education refers to the use of a variety of instructional techniques aimed at moving students progressively towards strong er 
+understanding and ultimately, greater independence in the learning process.  
+--- PAGE 17 ---
+© NaCCA, Ministry of Education 2019 xvii 
+It also involves breaking up the learning episodes, experiences or concepts into smaller parts and then providing learners with the support they 
+need to learn each part. The process may require a teacher assigning an excer pt of a longer text to learners to read, engage them to discuss the 
+excerpt to improve comprehension of its rationale, and then guide them through the key words/vocabulary to ensure learners have developed a 
+thorough understanding of the text before engaging them to read the full text. Common scaffolding strategies available to the teacher are:  
+ give learners a simplified version of a lesson, assignment or reading and then gradually increase the complexity, difficulty or sophistication 
+over time, 
+ describe or illustrate a concept, problem or process in multiple ways to ensure understanding, 
+ give learners an exemplar or model of an assignment they will be asked to complete, 
+ give learners a vocabulary lesson before they read a difficult text, 
+ clearly describe t he purpose of a learning activity, the directions learners need to follow and the learning goals they are expected to 
+achieve and 
+ explicitly describe how the new lesson builds on the knowledge and skills leaners were taught in a previous lesson.  
+ 
+INFORMATION COMMUNICATIONS TECHNOLOGY 
+ICT has been integrated into this curriculum as a teaching and learning tool to enhance deep and independent learning. Some of the expected 
+outcomes that this curriculum aims to achieve through ICT use for teaching and learning are: 
+ improved teaching and learning processes,  
+ improved consistency and quality of teaching and learning,  
+ increased opportunities for more learner-centred pedagogical approaches  
+ improved inclusive education practices by addressing inequalities in gender, language, ability,  
+ improved collaboration, creativity, higher order thinking skills and  
+ enhanced flexibility and differentiated approach of delivery.  
+ 
+The use of ICT as a teaching and learning tool is to provide learners access to large quantities o f information online. It also provides the 
+framework for analysing data to investigate patterns and relationships in a geographical context. Once learners have made their findings, ICT can 
+then help them organise, edit and present information in many different ways. 
+Learners need to be exposed to the various ICT tools around them, including calculators, radios, cameras, phones, television sets and computer-
+related software like Microsoft Office packages – Word, PowerPoint and Excel , as teaching and learning  tools. The exposure that learners are 
+--- PAGE 18 ---
+© NaCCA, Ministry of Education 2019 xviii 
+given at the primary school level to use ICT in exploring learning will build their confidence and will also increase their level of motivation to 
+apply ICT use in later years, both within and outside of education.  Thus, the ICT use for teaching and learning is expected to enhance the quality 
+and learners’ level of competence in the 4Rs. 
+ 
+ORGANISATION OF THE CURRICULUM 
+The English Language Curriculum is organised into strands, sub-strands, content standards, indicators and exemplars. 
+Strands are the broad areas/sections of the English content to be studied. 
+Sub-strands are the topics within each strand under which the content is organised.   
+Content standard refers to the pre-determined level of knowledge, skill and/or attitude that a learner attains by a set stage of education. 
+Indicators are clear outcomes or milestones that learners have to exhibit in each year to meet the content standard expectation. The 
+indicators represent the minimum expected standard in a year. 
+Exemplars serve as support and guidance, which clearly explain the expected outcomes of indicators and suggest what teaching and learning 
+activities could support the facilitators/teachers in the delivery of the curriculum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 19 ---
+© NaCCA, Ministry of Education 2019 xix 
+Curriculum Reference numbers 
+A unique annotation used for numbering the strands, sub -strands, content standards and indicators in the curriculum for the purpose of easy 
+referencing is shown below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Strand 2: Reading 
+Sub-strand 3: Word Families, Rhyming  Endings and Common Digraphs 
+B1 B2 B3 
+B1.2.3.1: Identify rhyming/endings words 
+and common digraphs 
+ 
+B2.2.3.1: Identify rhyming/endings words 
+and common digraphs 
+ 
+B3.2.3.1: Identify rhyming/endings words 
+and common digraphs 
+ 
+B1.2.3.1.1 Use common rhyming/ending 
+words for decoding of words. E.g. –at pat, 
+mat, fat, etc 
+ 
+B2.2.3.1.1 Use common rhyming/ending 
+words for decoding of words (last syllable 
+rhymes). E.g. –or/er doctor, teacher 
+B3.2.3.1.1 Use common rhyming/ending 
+words for decoding of unknown words.  
+ 
+ 
+ 
+ 
+KG1.1.2. 1.1 
+ 
+Sub-strand number Strand number                                                                                       
+Class/Year 
+Learning/Performance Indicator number 
+Content Standard number 
+Year/Class Content Standards Learning Indicator Sub-strand Strand 
+--- PAGE 20 ---
+© NaCCA, Ministry of Education 2019 xx 
+NOTE TO THE TEACHER 
+Integration of Skills 
+A key concept of this syllabus is the integrated approach to the teaching of language skills.   
+This is because Listening, Speaking, Reading and Writing complement one another in use, while Grammar simply sets the rules  for speaking, 
+reading and writing correctly. It is, therefore, advantageous, at this level, to adopt an integrated approach in the teaching of language skills. 
+This means, for example, that as you teach a writing/composition lesson, relevant grammatical i ssues must be raised and explained in relation to 
+the writing task. Similarly, such a lesson must have significant aural and oral components. 
+Another issue worthy of note is the integration of laudable human values. This is not to shift the focus of langua ge lessons to preaching these 
+values. Small doses of these values are fused into literature and composition as well as reading and oral work.  
+ 
+Approach to Grammar 
+It is important to point out that at the primary school, grammar is basically internali sed. It must be seen as an integral part of listening and 
+speaking and treated as such. The main task is to assist learners to learn to use the listed language/grammatical items correctly and fluently. 
+These should be introduced in meaningful situations in the context of everyday activities, modelled adequately and practised orally by every 
+learner.  As much as is possible, the learners must not be bothered with grammatical terminologies, definitions and lengthy explanation s of 
+abstract grammatical concepts. 
+ 
+Oral Language (Listening and Speaking) 
+The section on Oral Work , referred to as “Listening and Speaking” in this syllabus , has the following segments:  songs, rhymes, storytelling, 
+dramatisation, conversation, listening comprehension, asking and answering qu estions, giving and responding to 
+commands/instructions/directions, making and responding to requests  and presentation s.  The purpose of each of these segments is to 
+encourage learners to listen carefully, recite, sing, carry out instructions and speak En glish with confidence. In B1 to B3, the Grammar has been 
+integrated into the Listening and Speaking as well as Writing aspects of the lessons. The teacher must give the segments thei r due weight, 
+balance and influence in the teaching process. Above all, th e teacher must endeavour to get his/her learners to speak English , as much as 
+possible, for them to be able to acquire effective skills in speaking the English Language.  
+Reading Material  
+To help the teacher to achieve the indicators of the strand “Readin g”, a list of topics for reading has been provided below. The topics have been 
+carefully selected to help learners acquire vital information on health issues, as well as information on issues of current i nterests. The teacher is 
+--- PAGE 21 ---
+© NaCCA, Ministry of Education 2019 xxi 
+further encouraged to use h is/her initiative in improvising and planning new materials. It is a requirement that each learner should read five 
+books on different topics each term, that is, fifteen books per year. 
+ 
+Supplementary Material  
+The teacher is further encouraged to constantly look for other supplementary material which will enhance the teaching/learning especially of the 
+sections on “Listening and Speaking” and “Reading” . Material that focus on comprehensive sexuality education, moral, ethical and social values 
+such as honesty, diligence, integrity are particularly recommended.  
+ 
+List of Topics for Reading 
+The following list of topics has been selected to be used in developing materials for reading from Primary 1 to JHS  3.  The teacher is encouraged 
+to look for materials that may be relevant to these topics or select passages from other sources that will be of interest to learners at each class 
+level. Materials for reading must also include the basic types of prose:  narrative, descriptive, expository and argumentativ e, as well as bits of 
+drama and verse. 
+The teacher should select relevant and interesting reading materials that will help improve learners’ understanding and use o f English at all levels 
+of primary school.  
+ 
+Primary 1-3 
+1. Animals – domestic and wild animals  
+2. Malaria – how the mosquito spreads malaria 
+3. Malaria – how to prevent malaria 
+4. Healthy living – balanced meal  
+                                personal hygiene  
+    immunization 
+    body exercise  
+5. Sports and games  
+6. Safety in the home, school and community 
+7. Forest destruction – bush fires  
+8. Forest destruction – cutting trees for firewood 
+9. Social, moral & cultural values such as honesty diligence, patriotism, commitment respect for elders, care for public property   
+10. Energy: e.g. sources and uses of energy, ways of saving energy in the home, school, and community. 
+--- PAGE 22 ---
+© NaCCA, Ministry of Education 2019 xxii 
+11. Computers 
+12. Climate change awareness 
+ 
+Primary 4-5 
+1. Drug abuse 
+2. Natural disasters – earthquakes 
+3. Natural disasters – floods  
+4. Road accidents 
+5. Water – sources, importance and uses  
+6. Leisure 
+7. Communication – letters, telephones e-mail, print and electronic media  
+8. Social moral & cultural values such as honesty diligence, patriotism, commitment respect for elders, care for public property   
+9. Comprehensive sexuality education 
+10. Energy: e.g. sources and uses of energy, ways of saving  energy in the home, school, and community, reasons for saving 
+energy. 
+11. Computers 
+12. Climate change awareness 
+ 
+Primary 6 
+1. Comprehensive sexuality education 
+2. Teenage pregnancy 
+3. HIV/AIDS 
+4. Energy – conservation and importance 
+5. Inventions 
+6. Computers 
+7. Forest depletion 
+8. Social moral & cultural values such as honesty diligence, patriotism, commitment respect for elders, care for public property. 
+9. Entrepreneurship 
+10. Climate change awareness 
+--- PAGE 23 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+1 
+Scope and Sequence 
+ 
+STRANDS 
+ 
+SUB-STRANDS  
+ 
+B1 
+ 
+B2 
+ 
+B3 
+ 
+B4 
+ 
+B5 
+ 
+B6 
+1. ORAL LANGUAGE: 
+LISTENING AND SPEAKING 
+ 
+ 
+SONGS √ √ √ √ √ √ 
+RHYMES √ √ √    
+POEMS    √ √ √ 
+STORY TELLING √ √ √ √ √ √ 
+DRAMATISATION & ROLE PLAY √ √ √ √ √ √ 
+CONVERSATION TALKING ABOUT ONESELF, 
+FAMILY, PEOPLE, PLACES, CUSTOMS, EVENTS, 
+CULTURAL VALUES, MANNERS, AND OTHER 
+THEMES  
+√ √ √ √ √ √ 
+LISTENING COMPREHENSION √ √ √ √ √ √ 
+ASKING AND ANSWERING QUESTIONS √ √ √ √ √ √ 
+GIVING AND FOLLOWING COMMANDS/ 
+INSTRUCTIONS/DIRECTIONS AND MAKING AND 
+RESPONDING TO REQUESTS 
+√ √ √ √ √ √ 
+ PRESENTATION √ √ √ √ √ √ 
+ 
+2. READING 
+ 
+ 
+ 
+PRE-READING ACTIVITIES: 
+PRINT CONCEPT 
+PHONOLOGICAL/PHONEMIC AWARENESS 
+√  
+    
+PHONICS 
+LETTER-SOUND KNOWLEDGE: 
+VOWEL SOUNDS and CONSONANT SOUNDS 
+√ √ √ √ √ √ 
+WORD FAMILIES, RHYMING ENDINGS AND  
+COMMON DIGRAPHS 
+√ √ √ √ √ √ 
+--- PAGE 24 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+2 
+ DIPHTHONGS   √ √ √ √ 
+BLENDS AND CONSONANT CLUSTERS   √ √ √ √ 
+VOCABULARY 
+SIGHT VOCABULARY 
+CONTENT VOCABULARY 
+√ √ √ √ √ √ 
+COMPREHENSION √ √ √ √ √ √ 
+ SILENT READING    √ √ √ 
+FLUENCY √ √ √ √ √ √ 
+SUMMARISING     √ √ 
+3. GRAMMAR USAGE AT 
+WORD AND PHRASE 
+LEVELS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOUNS    √ √ √ 
+DETERMINERS    √ √ √ 
+PRONOUNS    √ √ √ 
+ADJECTIVES    √ √ √ 
+VERBS    √ √ √ 
+ADVERBS    √ √ √ 
+IDIOMATIC EXPRESSIONS    √ √ √ 
+CONJUNCTIONS    √ √ √ 
+MODALS    √ √ √ 
+PREPOSITIONS    √ √ √ 
+ADJECTIVE PHRASE    √ √ √ 
+ADVERB PHRASE    √ √ √ 
+DIRECT AND REPORTED SPEECH    √ √ √ 
+--- PAGE 25 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+3 
+4. WRITING 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRE-WRITING ACTIVITIES  √      
+PENMANSHIP/HANDWRITING √ √ √ √ √ √ 
+WRITING/COPYING LETTERS-SMALL AND CAPITAL 
+LETTERS 
+√      
+LABELING ITEMS  √      
+WRITING SIMPLE WORDS AND SENTENCES  √ √ √    
+PARAGRAPH DEVELOPMENT    √ √ √ 
+CONTROLLED WRITING √ √     
+GUIDED COMPOSITION  √ √    
+WRITING AS A PROCESS    √ √ √ √ 
+NARRATIVE WRITING  √ √ √ √ √ 
+CREATIVE/FREE WRITING    √ √ √ 
+DESCRIPTIVE WRITING √ √ √ √ √ √ 
+PERSUASIVE/ARGUMENTATIVE WRITING   √ √ √ √ 
+INFORMATIVE/ACADEMIC WRITING   √ √ √ √ 
+LETTER WRITING    √ √ √ 
+5. USING WRITING 
+CONVENTIONS 
+/GRAMMAR USAGE 
+ 
+ 
+ 
+USING CAPITALIZATION √ √ √ √ √ √ 
+USING PUNCTUATION  √ √ √ √ √ 
+USING NAMING WORDS √ √ √ √ √ √ 
+USING ACTION WORDS/VERBS √ √ √ √ √ √ 
+USING QUALIFYING WORDS: ADJECTIVES √ √ √ √ √ √ 
+--- PAGE 26 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+4 
+USING QUALIFYING WORDS: ADVERBS   √ √ √ √ 
+USING SIMPLE PREPOSITIONS √ √ √ √ √ √ 
+USING CONJUNCTIONS    √ √ √ 
+USING SIMPLE, COMPOUND AND COMPLEX 
+SENTENCES   √ √ √ √ √ 
+SPELLING √ √ √ √ √ √ 
+6. EXTENSIVE READING BUILDING THE LOVE AND CULTURE OF READING  √ √ √ √ √ √ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 27 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+5 
+ 
+ 
+BASIC 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 28 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+6 
+Basic 1 
+Strand 1: Oral Language 
+Sub-Strand 1:  Songs 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND 
+CORE 
+COMPETENCIES 
+B1.1.1.1:  Demonstrate 
+understanding of a 
+variety of songs  
+B1.1.1.1.1. Listen to and sing familiar songs with appropriate expressions 
+ Let learners identify some familiar songs. 
+ Let learners sing familiar songs and clap, tap and or dance to the rhythm. 
+ Let learners answer a variety of questions on the songs. 
+ Discuss the moral lesson in the songs with learners. 
+Listening and Speaking skills 
+Cultural Identity and Global 
+Citizenship 
+ 
+ 
+Sub-Strand 2: Rhymes 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.2.1: Appreciate 
+a variety of literary 
+pieces  
+ 
+ 
+B1.1.2.1.1. Listen to and recite rhymes and tongue-twisters with accompanying 
+actions 
+ Have learners recite familiar rhymes. 
+ Introduce new rhymes by performing them. 
+ Lead learners to echo-read the rhymes. 
+ Let learners recite the lines in groups/pairs and as individuals, as they tap or clap to 
+the rhythm.  
+ Guide learners to identify rhyming words and teach the accompanying actions. 
+Note: Recycle the rhymes in the next few days for learners to memorise them. 
+Listening and Speaking skills 
+Cultural Identity and Global 
+Citizenship 
+ 
+ 
+ 
+--- PAGE 29 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+7 
+ 
+Sub-Strand 3:  Story Telling 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.1.4.1: Respond to 
+stories 
+ 
+B1.1.3.1.1. Listen to stories and be able to identify characters 
+with their roles 
+ Mount appropriate story pictures. 
+ Guide learners to tell the story logically, using the pictures at each 
+stage. 
+ Pause and show pictures for learners to ask questions or answer 
+questions to predict the next stage. 
+ Let learners retell the story in a chain, using the pictures, if 
+necessary. 
+ Tell learners your personal response and guide them to do same. 
+e.g.  
+i. Why do you like the story? 
+ii. I like the story because… 
+iii. Which part do you like best? 
+iv. I like where… 
+ 
+B1.1.4.1.2. Retell short stories 
+ Show pictures to guide learners to retell a story told in class. 
+ Let learners follow the pictures to retell the story 
+logically/sequentially. 
+ Let learners tell other stories they know. 
+ Let storyteller pause for others to sing any appropriate song. 
+ 
+Listening and Speaking skills 
+Communication and Collaboration 
+Cultural Identify and Global 
+Citizenship 
+ 
+ 
+ 
+--- PAGE 30 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+8 
+ 
+Sub-Strand 4: Dramatisation and Role-Play 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.5.1: Perform 
+stories 
+B1.1.5.1.1. Dramatise stories heard 
+ Begin the lesson with the narration of a familiar story. 
+ Have learners identify the characters in the story and their roles. 
+ Have learners role-play some specific characters in groups. 
+ Let learners talk about theirs and others’ roles. 
+Listening and Speaking skills 
+Communication and Collaboration 
+Cultural Identity and Global 
+Citizenship 
+ 
+Sub-Strand 6: Conversation – Talking about Oneself, Family, People, Places, Greetings, Customs, Events, Social/Cultural Values, 
+Manners and other Themes 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1. 6.1: Use  
+certain 
+culturally 
+acceptable 
+language for 
+communication 
+ 
+B1.1. 6.1.1. Use appropriate greetings for different times of the day 
+ Revise daily greetings by having learners identify greeting times in the day.  
+            e.g. Morning-Good morning, Afternoon-Good afternoon, Evening-Good evening. 
+ Discuss the correct responses to these greetings. 
+ Let learners take turns to demonstrate greetings at different times of the day and 
+also practise the appropriate responses. 
+ Discuss the importance of greetings. 
+ 
+Listening and Speaking Skills 
+Personal development and 
+Leadership 
+Communication and 
+Collaboration 
+Cultural Identity and Global 
+Citizenship 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 31 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+9 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.6.1: Use culturally 
+acceptable language for 
+communication 
+B1.1. 6.1.2. Describe the home, people or places 
+ Welcome children and have them sit in a semi-circle. Greet them and 
+introduce the topic for discussion. Use the Community Circle Time Strategy.  
+ Learners are provided with an opportunity to interact freely with the teacher 
+and peers, starting with greetings.  
+ Have learners use appropriate responses and non-verbal language (body 
+language and facial expression) as they greet each other. 
+ Show pictures of homes, people and places and have learners think-pair-share 
+their observation with the person sitting next to them and with the class.  
+ 
+B1.1.6.1.3. Talk about their school and places in the school 
+ Use the Community Circle Time Strategy.  
+ Show pictures of their school and places in the school (the library, the 
+computer lab, the headmaster’s office, the playing field etc.)  
+ Have learners think-pair-share ideas/views about the pictures in pairs and    
+then with the large group.  
+ Have learners talk about the activities that go on in these places and their 
+importance to the individual. 
+ 
+ 
+ 
+ 
+ 
+Listening and speaking skills 
+Communication and collaboration. 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 32 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+10 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.1.6.1: Use culturally 
+acceptable language for 
+communication  
+CONT’D 
+B1.1.6.1.4. Use a wide variety of words to describe different 
+situations and events 
+ Use a conversational poster on different situations/events. 
+ Have learners think-pair-share, looking at the various 
+illustrations on the poster. 
+ Have them use expressions learnt and other new ones to 
+describe the situations and events. 
+Have learners, working in groups, role-play the situations and events 
+on the poster. 
+ 
+B1.1.6.2.1. Engage in collaborative conversation 
+ Let learners, working in groups, talk about some common 
+places in the school (e.g. canteen, head teacher’s office, 
+library, etc.). 
+ Lead learners, with questions, to talk about the places and 
+their importance. 
+ Let learners identify the importance of the places listed above. 
+ In pairs/small groups, let learners engage in conversations on 
+specific topics. 
+ 
+B1.1.6.2.2. Talk about likes and dislikes: food, animals, toys, 
+etc. 
+ 
+ 
+ 
+Listening and speaking skills 
+Communication and collaboration. 
+ 
+ 
+ 
+ 
+--- PAGE 33 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+11 
+Sub-Strand 7: Listening Comprehension 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.7.1: Use 
+appropriate skills and 
+strategies to process 
+meaning from texts 
+ 
+ 
+ 
+B1.1.7.1.1. Listen to and reproduce narrative texts 
+ Before Reading  
+ Activate the previous knowledge of the learners by making 
+them think-pair-share with their friends, the cover 
+illustrations and pictures accompanying the story.  
+ Have them predict the story. 
+ During Reading  
+ Read a story. Pause at vantage points and have learners talk about the 
+content of the text. 
+ After Reading 
+ Have the learners answer simple questions based on the text.  
+ Have them role-play the events in the story. 
+Listening and speaking skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 34 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+12 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.7.1: Use 
+appropriate skills and 
+strategies to process 
+meaning from texts 
+ 
+B1.1.7.1.2. Recognise and relate the sequence of events in a narrative 
+text 
+ Read a narrative text aloud to learners. 
+ Put learners in pairs/groups to identify and talk about the parts of the 
+story (e.g. beginning, middle and ending). 
+ 
+B1.1.7.1.3. Recognise and discuss characters in a story 
+ Read a story aloud to learners. 
+ Have them discuss, in pairs/small groups, the main and minor 
+characters in the story.  
+ Have groups/pairs share their views with the whole class. 
+ 
+ 
+B1.1.7.1.4. Listen to and produce descriptions of pictures and objects 
+(e.g. vehicles, animals) 
+ Show pictures of common objects and animals to learners. 
+ Have learners think-pair-share what they see in the picture.  
+Have them describe, in groups/pairs, the pictures to one another in 
+turns. 
+ 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 35 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+13 
+Sub-Strand 8: Asking and Answering Questions 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES AND 
+CORE COMPETENCIES 
+B1.1.8.1: Demonstrate 
+understanding in asking 
+and answering 
+questions 
+B1.1.8.1.1. Use appropriate pronunciation and intonation in 
+asking and answering Yes/No questions 
+ Demonstrate Yes/No questions and their responds. 
+ Drill learners on the questions and responses. 
+ Let pair of learners ask and answer questions, e.g. 
+Pupil A: Is this a book? 
+Pupil B: Yes, it is / No, it isn’t. 
+Listening and speaking skills 
+ 
+Communication and Collaboration 
+ 
+Personal Development and Leadership 
+B1.1.8.1: Demonstrate 
+understanding in asking 
+and answering 
+questions 
+B1.1.8.1.2. Use appropriate pronunciation and intonation in 
+asking and answering Wh – questions 
+ Revise Yes/No questions. 
+ Let learners identify some objects in the class (e.g. board, 
+bag, chair, etc.) and use them in asking simple questions, e.g. 
+Should I clean the board?  Is that  
+your chair?  Do you have a pencil in your bag? 
+ Introduce Wh- questions in context. 
+e.g.  
+i. What is this? 
+ii. What is your name? 
+iii. How old are you? 
+iv. How are you? 
+ Pair learners to ask and answer questions. 
+Note: Yes/No questions use rising intonation and Wh is falling 
+intonation. However, answers for both use the falling intonation. 
+ 
+Communication and Collaboration 
+ 
+Personal Development and Leadership 
+ 
+Listening and speaking skills 
+ 
+ 
+ 
+--- PAGE 36 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+14 
+Sub-Strand 9: Giving and Responding to Commands/Instructions and Making Requests 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.9.1: Demonstrate 
+understanding in 
+commands, 
+instructions, directions 
+and requests 
+B1.1.9.1.1. Give and respond to commands and instructions 
+ Give commands and instructions to learners. 
+e.g. Command: 
+ Keep quiet. 
+ Hands up. 
+ Sit down. 
+ Bring your books. 
+ Start work, etc. 
+ Pair learners to give/obey commands. 
+ Have learners listen to simple instructions and act in response. 
+ Let learners practise by giving commands in pairs, etc. 
+e. g. Instructions: 
+ Draw a circle. 
+ Draw a triangle in the circle.  
+ Draw a square in the triangle. 
+Response: 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+ 
+--- PAGE 37 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+15 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.9.1: Demonstrate  
+understanding in 
+commands, directions, 
+instructions and 
+requests 
+CONT’D 
+B1.1.9.1.2. Make and respond to polite requests using the word 
+“Please” 
+ Demonstrate knowledge of requests and their responses. 
+ Let learners respond to requests using; yes, ok, etc. 
+ Pair with learners to take turns to make and respond to polite 
+requests.  
+e.g. Please give me your pencil. 
+A: May I use your pen?   
+B: Yes/No. 
+ Let them change roles. 
+ 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 38 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+16 
+Sub-Strand 10: Presentation 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.1.10.1: Plan and 
+present information 
+and ideas for a variety 
+of purposes 
+B1.1.10.1.1. Identify audience and purpose of presentation 
+ Have learners to do “show and tell” to introduce a friend to his/her 
+parents at his/her birthday party. 
+ Create more scenarios for learners to introduce their friends.  
+ 
+Note: Introduce expressions like “Hello, meet my Dad”, etc. 
+ 
+B1.1.10.1.2. Generate and select ideas on a given topic for presentation 
+e.g. My father, My friend, etc 
+ Introduce the activity and as learners listen and observe, talk about the 
+topic, 
+e.g. “My friend”. 
+ Briefly discuss your presentation 
+ Let learners take turns to talk about their friends. 
+ Encourage others to ask questions after each presentation. 
+ 
+B1.1.10.1.3. Speak with confidence before different audiences, e.g. 
+small group, class, etc 
+ Have learners draw members of their nuclear family. 
+ Through think-pair-share strategy, let learners show and talk about their 
+family members in pairs, smaller groups and as a class. 
+ Use probing questions to have learners talk more about their family 
+members. 
+e.g.  
+i. Who is this one?   
+ii. Why did you draw him or her first?  
+  Encourage shy learners to speak. 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+--- PAGE 39 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+17 
+STRAND 2: READING 
+Sub-Strand1: Pre-Reading Activities 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.1.1: Know how a 
+text works for reading 
+and writing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B1.2.1. 2:  Manipulate  
+the sounds of the 
+letters of English 
+B1.2.1.1.1. Handle books appropriately 
+ Have learners Think-Pair-Share the reasons for keeping books 
+neat and handling them well. 
+ Lead learners to make some rules to guide the handling of books. 
+ Demonstrate how to handle books, e.g. holding it, turning a book, 
+opening the pages properly, etc. 
+ Discuss the information on the cover and title pages with 
+learners, 
+e. g. What can you find on the cover? 
+- The title, 
+- Author, 
+- Illustrations and illustrators, etc. 
+ Call learners in turns to demonstrate how to handle books, e.g. 
+opening a book, holding a book, etc. 
+ Let learners, in groups, role-play how to handle books,  
+e.g. keeping them neat. 
+ 
+ 
+B1.2.1.2.1.  Orally blend two or three sounds together to make 
+one syllable word, e.g. (a-sh = ash, b-i-n = bin) 
+ Make individual sounds and have learners blend them together to 
+make one-syllable words, 
+e.g. (a-sh = ash,  b-i-n = bin, a-t = at, a-m = am, i-n = in, c-o-t = cot). 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+--- PAGE 40 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+18 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.1. 2:  Manipulate  
+the sounds of the 
+letters of English 
+CONT’D 
+B1.2.1.2.2.  Orally segment spoken syllables/words into 
+individual sounds e.g. stop = s-t-o-p 
+ Model segmenting spoken syllables/words into individual sounds,  
+e.g. (stop = s-t-o-p, am = a-m, pot = p-o-t). 
+ Provide opportunities for learners to practise segmenting 
+syllables/words into individual sounds. 
+ 
+ 
+B1.2.1.2.3. Say the new word when asked to delete, add initial 
+sound or substitute an initial, middle or final sound (Phoneme 
+deletion, addition, substitution) 
+ 
+ Say a word and model using phoneme deletion, addition and 
+substitution strategies to say new words from the given word, 
+e.g. 
+- phoneme deletion: brat= rat, etc. 
+- phoneme substitution: cat=bat, bat = bet, bet=bell, etc. 
+- phoneme addition: all =ball, etc. 
+ 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 41 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+19 
+Sub-Strand 2: Phonics 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write 
+ 
+B1.2.2.1.1. Identify the alphabet in order 
+ Introduce the lesson with alphabet songs paying attention to the letters 
+as they sing. 
+ Show an alphabet chart and have learners identify the letters of the alphabet 
+(aA- zZ). 
+ Use alphabet cards, alphabet trees, picture cards, etc. to play alphabet games. 
+Let learners play matching games with the cards, 
+e.g. Sound Ball Game, Find My Partner, etc. 
+B1.2.2.1.2. Recognise and produce letter names and sounds randomly 
+ Have learners play alphabet games to practice recognition of letter names at 
+random. 
+e.g. Lucky Dip game, Treasure Hunt. 
+ Let learners use letter cards to order the letters of the alphabet. 
+ Have learners find out which letter comes before the other, among a given set 
+of letters, as a whole class, in groups, in pairs and individually. 
+ Select letters whose sound you intend to teach, 
+e.g. two letters at a time. 
+ Say each sound first in context and then in isolation, 
+e.g. ants-a 
+ Have learners repeat it after you. 
+ Give examples of words that contain each sound at the initial, medial 
+and final positions, 
+e.g. bag, table, bulb 
+ Have learners work in pairs to provide examples of words that contain 
+the sounds. 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 42 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+20 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write 
+ 
+B1.2.2.1.3. Understand the relationship between spelling of words and 
+sounds of speech 
+ Blend vowel sounds with consonant sounds to produce words,  
+e.g. am, at. 
+ Let learners segment the sounds in the words and blend them by using 
+blending games. 
+ Ask learners to give examples of words. 
+ Write the words and have learners sound the individual letters and 
+blend  
+them to produce words. 
+ Have learners work in pairs/groups to further practise sound 
+segmentation and blending to produce the words. 
+ 
+B1.2.2.1.4. Blend sounds to produce simple syllables/words and blend 
+syllables to produce words 
+ 
+Blending sounds 
+ Clap the syllables of common words. 
+e.g. table, pencil, pen, book, boy, girl, etc. 
+ Let learners clap the syllables of words after teacher. 
+ Put learners into groups/pairs. 
+ Distribute letter cards to the groups. 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 43 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+21 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write 
+ 
+Demonstrate blending using letter cards, e.g. 
+f-a-n =fan 
+b-a-g= bag 
+b-e-d= bed 
+p-e-n= pen. 
+ Use learners’ words to build a vocabulary chart and encourage 
+them to go round to read.  
+ Blending syllables  
+ Have learners use think-pair-share to come out with single 
+syllables and blend them to form words,  
+e.g. sis - ter = sister. 
+ Let the pairs present their words and guide them by using the 
+words to form two-word or three-word sentences. 
+e. g. My sister is happy. 
+ 
+Note: Pairs that would be able to make sentences score points for their houses 
+or colour groupings. 
+B1.2.2.1.5. Segment syllables/words into sounds. 
+ Revise the sounds of letters and words learners have learnt. 
+ Demonstrate syllable segmentation by breaking two-syllable 
+words. Break two syllable words into syllables. 
+e.g. pencil    = pen-cil 
+       baby     = ba-by 
+       mother  = mo-ther 
+ Let learners read the words and use them in sentences. 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 44 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+22 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write 
+CONT’D 
+ 
+ 
+ 
+ 
+B1.2.2.1.6. Use alphabetic knowledge to decode known words 
+ Let learners sing an alphabet song. 
+ Put them into groups and write sentences containing some new 
+words for learners to decode by segmentation. 
+e.g. This is a mango. 
+ This is my sister. 
+ Have learners read similar words from the word charts.  
+  
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+Sub-Strand 3: Word Families, Rhyming Endings and Common Digraphs  
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.3.1: Employ  
+knowledge of rhyming 
+endings to enhance 
+reading comprehension 
+ 
+ 
+ 
+ 
+B1.2.3.1.1. Use common rhyming endings to decode simple 
+words 
+ Introduce learners to simple word formation using the phonic 
+slide to change the sound at the initial, medial and final positions 
+of words, 
+ e.g. pat, mat, fat. 
+ Have learners build on these rhyming endings. 
+ In groups, let learners read out their words. 
+ Have learners form sentences with these rhyming words. 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+--- PAGE 45 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+23 
+Sub-Strand 6: Vocabulary 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.6.1: Understand 
+word meanings and 
+usages 
+ 
+B1.2.6.1.1. Read level-appropriate sight words and use many of 
+them in meaningful sentences 
+ Introduce the appropriate sight words beginning with the 
+commonest. Write them on the board, 
+e.g. chair, table, child, etc. 
+ Use the word “tree” to teach the sight words. 
+ Have learners repeat the words aloud. 
+ Have learners use the sight words in meaningful sentences. 
+ Tell a story and have learners identify sight words in the story.  
+ Have learners use the sight words in meaningful sentences, 
+e.g. determiners - the: The boy is my friend. 
+ 
+B1.2.6.1.2. Ask questions to find out the  meaning of new words 
+ As learners listen carefully, tell a story twice.  
+ Let learners answer questions based on the story. 
+ Have them mention words they hear in the story.  
+ Let learners tell the meanings of some of the words. 
+ Have learners make their own simple sentences using the key 
+words. 
+B1.2.6.1.3. Use words acquired through talk and reading in 
+conversation 
+ In groups, let learners engage in conversation using familiar and 
+high frequency words on given topics. 
+e. g. My Classroom 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+--- PAGE 46 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+24 
+Sub-Strand 7: Comprehension 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2. 7.1: 
+Understand texts 
+read 
+ 
+B1.2. 7.1.1. Use illustrations, text clues (title, headings) and 
+context to make inferences and predictions 
+ Let learners use illustrations, text and context clues to make 
+predictions before, during and after reading to enhance 
+comprehension of text.   
+ 
+B1.2. 7.1.2. Ask and answer factual and inferential and applicative 
+questions about level-appropriate texts 
+ Have learners read level appropriate texts independently, with 
+minimal support from peers/teacher. 
+ Encourage them to ask and answer factual and inferential questions 
+about the texts to enhance comprehension. 
+ 
+B1.2.7.1.3. Retell level-appropriate texts in own words 
+ Use the Simple Herring Bone strategy to guide learners to retell 
+the story in their own words. 
+ 
+         who?                what?                  when? 
+ 
+         when?               how?                      why? 
+Reading and Writing Skills 
+ 
+Personal Development and Leadership 
+ 
+ 
+ 
+ 
+--- PAGE 47 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+25 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.7.2: Use 
+knowledge skills 
+and techniques of 
+reading to 
+understand 
+ 
+B1.2.7.2.1. Demonstrate understanding of the purpose and features of 
+narrative texts 
+ Use examples of short and simple texts to guide learners to understand 
+the purpose and features of narrative texts. 
+ Have learners identify the different purposes in different narrative texts 
+read/heard. 
+ Have them identify the features of given texts in pairs or in groups.  
+ 
+B1.2.7.2.2. Describe characters and their actions in a story 
+ Put learners in groups to identify and describe characters and their 
+actions in stories read. 
+ 
+B1.2.7.2.3. Connect, ideas and information in stories to own 
+experiences and knowledge of the world 
+ Tell/read out texts. 
+ Let learners answer simple questions based on the events, characters and 
+values, etc. in the text. 
+ Have them relate ideas and information in the stories to personal 
+experiences and knowledge of the world. 
+ 
+B1.2.7.2.4. Read level-appropriate texts with prompting and support 
+ Have learners read texts with all the prompting and support that can 
+help them in their reading. 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 48 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+26 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.7.2: Use 
+knowledge skills 
+and techniques of 
+reading to 
+understand 
+ 
+B1.2.7.2.5. Use a variety of comprehension-strategies e. g prediction 
+before reading a text, cover page, etc 
+ Begin the comprehension lesson with before reading activities that 
+develop and activate the background knowledge of learners. 
+e.g. K of KWL(What learners know about the topic of information text, 
+prediction using pictures, title, treatment of vocabulary, etc.). 
+ Continue with while reading activities to enhance their understanding of 
+the text.  
+e.g.  
+a) Herring Bone strategy 
+ 
+          who?                what?                  when? 
+ 
+            when?         how?                      why? 
+b) W of KWL(What the learners want to know). 
+ 
+ End the lesson with after reading activities that help learners to organize 
+their ideas, remember the story, use the information acquired from the 
+text and relate it to their daily lives,  
+e.g. 
+answering questions, retelling the story in their own words, learners 
+linking story to their everyday life experiences etc. 
+ 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 49 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+27 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.7.2: Use knowledge 
+skills and techniques of 
+reading to understand 
+ 
+B1.2.7.2.6. Identify the structure of a story e.g. beginning part, 
+middle and the end 
+ Narrate a suitable story. 
+ Have learners identify the structure of the story by recalling 
+what happened at the beginning, middle and ending. 
+Reading and Writing Skills 
+Personal Development and Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+Sub-Strand 9: Fluency 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.9.1: Read texts with 
+good speed, accuracy 
+and expression 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B1.2.9.1.1. Read short and simple sentences at good pace 
+ Teacher models reading at a reasonable pace. 
+ Have learners read short and simple sentences at a reasonable 
+pace. 
+ Let learners read in small groups. 
+ 
+B1.2.9.1.2. Recognise one hundred and twenty sight words 
+including content words 
+ Have learners go over the sight words they have learnt     
+            during the period. 
+ Let learners echo-read simple texts. 
+ Let learners play vocabulary games for vocabulary  
+         consolidation, e.g. Lucky Dip game, Pick and Say,  
+         Word Hunt. 
+ Have learners make simple meaningful sentences with the     
+         sight words. 
+Communication and Collaboration 
+Personal Development 
+Reading  
+ 
+ 
+ 
+ 
+Communication and Collaboration 
+Personal Development 
+Reading 
+--- PAGE 50 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+28 
+ 
+STRAND 4: WRITING 
+Sub-Strand 1: Pre-Writing 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1. 4.1.1: Write 
+patterns for 
+muscular control 
+and hand-eye 
+coordination 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B1. 4.1.1.1. Make given patterns, trace and draw various objects 
+ Demonstrate vertical, horizontal and oblique strokes/patterns. 
+e.g. 
+ 
+ Let learners write these strokes/patterns in the air. 
+ Have learners write them in  their books 
+Note: If need be, learners may first make these strokes by tracing and/or joining dots. 
+Ensure correct sitting posture and correct grip of the writing tool. 
+ 
+B1.4.1.1. 2. Model various objects of interest 
+ Use papers to model an object as learners observe. 
+ Let learners, in their groups, choose and model different objects. 
+ Let learners tell the name of the object and what it can be used for. 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+///      \\\ 
+ 
+ 
+--- PAGE 51 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+29 
+Sub-Strand 2: Penmanship 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.4.2.1: 
+Copy and 
+write letters 
+of the 
+alphabet 
+correctly 
+ 
+ 
+ 
+ 
+B1.4.2.1.1. Copy letters of the alphabet clearly 
+ Introduce learners to the lines and spaces they will be expected to write in.  
+ Demonstrate the letter on the board and in the air several times. 
+ Give ample practice. Let learners practise writing in the air, on sheets of paper or 
+in jotters. 
+ Let learners execute the writing task. 
+ Give feedback after assessing learners’ work. 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+Critical Thinking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 52 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+30 
+Sub-Strand 3: Writing Letters – Small and Capital 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.4.3.1: Use 
+general skills 
+strategies and 
+knowledge of letter 
+sounds to write 
+legibly and boldly 
+B1.4.3.1.1. Match lower and upper case letters 
+ Show a chart of letters (small and capital). 
+e.g. A B C D E… 
+a b c d e… 
+ Place letter cards (small and capital letters) on teacher’s table. 
+ Put learners into groups and ask representatives of the groups to take turns to 
+pick and match the letter cards to the letters on the chart. Those who are able 
+to match them correctly win points for their groups and receive stars. 
+ Let learners write the letters in their books.  
+ 
+B1.4.3.1.2. Copy the names of objects correctly in both upper and lower 
+case letters 
+ Let learners go round and observe labelled objects in the classroom. 
+ Let learners go with their books and change sitting positions to enable them 
+copy the names of the objects. 
+ Let learners sit in groups to edit their work. 
+ Have them share their work by exchanging their books with other groups to 
+appreciate one another’s work. 
+ 
+B1.4.3.1.3. Write words using both capital and small letters 
+ Write words in upper and lower cases. 
+ Model pronunciation of target words for learners to repeat. 
+ Let learners copy the words from the board. 
+Encourage learners to space out letters appropriately in the words. Let group 
+leaders help other learners (who are not able to write some letters correctly). 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+Critical Thinking 
+ 
+ 
+--- PAGE 53 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+31 
+ 
+Sub-Strand 4: Labelling Items 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.4.4.1: Draw and 
+label simple objects 
+ 
+B1.4.4.1.1. Draw simple pictures of peers or various objects and use 
+invented spelling to write about oneself 
+ Have a picture of a friend or anybody and write at least three lines 
+about the person.  Paste this in a corner of the class. Have a chart of 
+various objects labelled (e.g. objects at home in, the environment etc.) 
+and post them on the walls of the classroom. 
+ Have learners go round to observe the pictures.  
+ In groups, let learners share their observations.   
+ Ask learners to draw and label three objects of their choice. 
+ Have each learner choose and draw a peer and write a line or two 
+about that person. 
+ Assist learners with spelling where necessary.  
+ Have learners share their work with their partners. 
+ Similarly, let learners draw pictures of themselves and write a sentence 
+or two about them. 
+Reading and Writing Skills 
+ 
+Critical Thinking 
+Communication and Collaboration 
+Personal Development 
+ 
+ 
+--- PAGE 54 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+32 
+Sub-Strand 5: Writing Simple Words and Sentences 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.4.5.1: Write words 
+and sentences 
+ 
+B1.4.5.1.1. Make a list of objects in the school 
+ Guide learners with questions to talk about the various areas or 
+places in the school e.g. head teacher’s office, canteen etc.  
+ Put learners into groups. Let each group choose a name for their group 
+and an area or place they want to work on.   
+ Let each group list the objects found in the place of their choice. 
+ Have a big chart on the wall and copy their lists on the chart. Let 
+groups take turns to edit their work. 
+ Let learners copy the edited words into their books. 
+B1.4.5.1.2. Write simple familiar words 
+ Let learners mention their favourite dishes or food.   
+ Let learners select one food and talk about the ingredients used in its 
+preparation, e.g. Jollof. 
+ Let learners mention the ingredients as teacher writes them on the 
+board.   
+ Let them then work as individuals, choose their own special food or 
+dish and write the ingredients. 
+ Let learners do peer editing.   
+ 
+B1.4.5.1.3. Use basic descriptive words in writing simple sentence 
+ Have learners identify objects in the classroom, e. g. tables, chairs, 
+bags, etc. 
+ Let learners tell the sizes, shapes and colours of the objects. Explain 
+simply to them that the words talk about objects.  
+ Have learners work in pairs to write simple sentences, describing 
+objects in the classroom,  
+e. g. My classroom is big.   
+The board is long and white.   
+The doors and windows are big. 
+Encourage learners to write two simple sentences each (Exceptional 
+learners should write four simple sentences). 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+Reading and Writing Skills 
+Critical Thinking 
+ 
+--- PAGE 55 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+33 
+Sub-Strand 7: Controlled Writing 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.4.7.1:Write 
+simple 
+compositions 
+B1.4.7.1.1. Find, read and copy sentences from a given substitution tables 
+ Have a simple 3-4 column substitution table on the board. 
+ Have learners identify the words that make up the table. 
+ With examples, guide learners to form oral sentences from the substitution 
+table.  
+ Have learners write their sentences.  
+ Ask pairs to do peer editing. 
+ Invite learners to read out their sentences to the class for feedback. 
+ 
+ 
+B1.4.7.1.2. Write a simple composition using a substitution table 
+ Write a simple and short composition in a substitution table and have learners 
+copy this out. 
+ Using Think-Pair-Share, have learners read their compositions. 
+ 
+ 
+B1.4.7.1.3. Match parts of sentences to compose meaning texts 
+ Demonstrate the activity. 
+ Have learners rearrange jumbled parts of sentences to make meaningful texts. 
+ Let learners read their sentences to the class for feedback. 
+ 
+Personal development and 
+leadership 
+Critical thinking 
+Listening and speaking skills 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 56 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+34 
+Sub-Strand 12: Descriptive Writing 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.4.12.1: 
+Demonstrate 
+Knowledge of 
+description in writing 
+ 
+B1.4.12.1.1. Use words and simple sentences to describe self 
+ Model describing yourself in 2-3 simple sentences using simple descriptive 
+words. 
+ Write some descriptive words and discuss them with learners. 
+ Through questions, have pairs of learners describe themselves to each other. 
+e.g. What is your name?    -  My name is.................... 
+        How old are you?      -  I am ............................... 
+ Assist learners to write out their sentences. 
+Listening and speaking skills 
+ Reading and Writing Skills 
+Personal Development and 
+Leadership 
+ 
+Communication and Collaboration 
+Strand 5: Using Writing Convention/Grammar Usage 
+Sub-Strand 1: Using Capitalisation 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.5.1.1: Apply 
+knowledge of 
+capitalisation in 
+writing 
+B1.5.1.1.1. Write capital letters correctly 
+ Through pick and write activity, revise writing of capital letters with 
+learners. 
+ 
+B1.5.1.1.2. Use capital letters at the beginning of titles and names of 
+people. 
+ Demonstrate knowledge of capital letters and invite individuals to write 
+names with capital letters on the board. 
+ Assist learners to write their names. Let them begin with capital letters,  
+e.g. Kofi, Ama, Samuel, Sule. 
+ 
+ Lead learners to write titles of people.  
+e.g. Mr Badu,  Mrs Darko 
+ 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+--- PAGE 57 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+35 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.5.1.1: Apply 
+knowledge of 
+capitalisation in 
+writing 
+CONT’D 
+B1.5.1.1.3. Use capital letters to write other proper nouns 
+Let them write the names of towns and particular places they are familiar 
+with, beginning with capital letters,e.g. names of schools, 
+Adukrom Primary School.  
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+ 
+Sub-Strand 4: Using Action Words 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.5.4.1: Apply 
+knowledge of  action 
+words in 
+communication 
+B1.5.4.1.1. Use the present tense of verbs to describe habitual actions 
+ Introduce the activity and tell learners two things you do daily. 
+ Put learners in groups to talk about the things they do everyday: 
+e. g. I wash my face every morning. 
+ Write the two things you do in two simple sentences and read it out to 
+learners. 
+ Have each learner write two of the habitual things they do. You may assist 
+them with spelling. 
+ Invite each of them to present their work to the class for the class to 
+react to the presentations. 
+ 
+B1.5.4.1.2  Use the present tense of verbs to express the present state 
+of things or situations 
+ Introduce the activity and demonstrate it. 
+ Guide learners with questions to describe the state of given things or 
+situations,  
+e.g. My bag is red. 
+ 
+B1.5.4.1.3 Use the present tense continuous form of verbs.  
+Reading and Writing Skills 
+ 
+Personal Development and 
+Leadership 
+ 
+Communication and Collaboration 
+--- PAGE 58 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+36 
+Sub-Strand 5: Using Qualifying Words – Adjectives 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.5. 5.1: Apply 
+knowledge of 
+adjectives in 
+communication 
+B1.5. 5.1.1. Identify adjectives and use them to describe self and other people 
+ Have learners read level-appropriate texts describing people. 
+ Put learners in groups to discuss the texts read. Provide questions to help them 
+identify the descriptive words. 
+ Have learners write simple sentences to describe themselves, using the descriptive 
+words identified. 
+ Have learners write parallel sentences to describe their friends. 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+ 
+Sub-Strand 7: Using SimplePrepositions 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND 
+CORE 
+COMPETENCIES 
+B1.5.7.1: Apply 
+knowledge of 
+prepositions in 
+communication 
+B1.5.7.1.1. Identify and use prepositions in oral and written language to indicate position 
+ State the position of various classroom objects using simple prepositions. 
+ Give sample sentences (on sentence cards) to learners.   
+e.g. 
+Mary is in the room. 
+Aba is sitting on the chair. 
+ Let learners identify the words in, on, etc. as words that show position. 
+ Pair up learners and have them use the prepositions identified in simple and meaningful 
+sentences. 
+ Let each learner write two sentences describing the position of objects in the classroom. 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and 
+Collaboration 
+ 
+--- PAGE 59 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+37 
+Sub-Strand 10: Spelling 
+ 
+STRAND 6: EXTENSIVE READING 
+Sub-Strand 1: Building the Love and Culture of Reading 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.6.1.1: Read 
+widely for pleasure 
+and demonstrate 
+independent reading 
+and learning in the 
+literary area 
+B1.6.1.1.1. Read a variety of age – appropriate books and texts from print 
+ Using book tease or book talk, introduce the reading/ library time.  
+ Have a variety of age appropriate books for learners to make a choice from. 
+ Introduce picture or wordless books, pop-up and flip-the-page texts to learners. 
+ Encourage them to read individually and in pairs, and provide support and 
+encouragement. 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B1.5.10.1: Use 
+phonics knowledge 
+to spell words  
+B1.5.10.1.1 Identify and spell simple words correctly 
+ Help learners to write two letter words correctly e. g. go, so, in, on. 
+ Using word cards, help learners to write three letter words correctly, 
+e. g. see, low, bow. 
+ 
+B1.5.10.1.2. Fill in blank spaces in simple words 
+ Provide a passage with blank spaces and help learners to fill in the gaps or spaces 
+with familiar two or three letter words. 
+Reading and Writing Skills 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+--- PAGE 60 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+38 
+ 
+ 
+ 
+BASIC 2  
+ 
+ 
+--- PAGE 61 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+39 
+Basic 2 
+Strand 1: Oral Language 
+Sub-Strand 1: Songs 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.1.1: 
+Demonstrate 
+understanding of a 
+variety of songs  
+B2.1.1.1.1. Interpret familiar songs 
+ Identify some familiar songs from learners’ locality. 
+ Teach the songs with themes from their locality. 
+ Discuss the moral values of the songs. 
+ Let learners sing songs using gestures appropriately. 
+ Have learners interpret the songs in their own words. 
+Cultural Identity and Global 
+Citizenship 
+ 
+Communication and Collaboration 
+ 
+ 
+Sub-Strand 2: Rhymes 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES AND 
+CORE COMPETENCIES 
+B2.1.2.1: Show 
+understanding of a 
+variety of literary 
+pieces. 
+ 
+B2.1.2.1.1. Interpret rhymes and tongue-twisters in own words 
+ Revise some familiar rhymes and tongue-twisters learnt.   
+ Select a rhyme from learners. 
+ As learners listen and observe, perform the rhyme (Recite it, accompanied with 
+actions and gestures, two or three times). 
+ Recite lines of the rhyme as learners join in and repeat lines after you. 
+ Teach the accompanying actions through demonstration. 
+ Let learners repeat lines of the rhyme on their own accompanied with appropriate 
+actions. 
+ Through questions, have learners interpret the rhymes in their own words. 
+Personal Development and 
+Leadership 
+ 
+Communication and Collaboration 
+ 
+Cultural identity and Global 
+Citizenship 
+  
+--- PAGE 62 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+40 
+Sub-Strand 4: Story Telling 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.4.1: Respond 
+to stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2.1.4.1.1. Identify characters in a story and relate them to real life situations 
+ Choose a story from learners’ background. 
+ Tell the story with appropriate actions, gestures, facial expressions, etc. 
+ Have learners retell the story and answer questions on it. 
+ Let learners say whether or not they have enjoyed the story and why. 
+ Put learners into groups to identify the characters and their actions and relate them to 
+real life situations. 
+ 
+NOTE. Use pictures/sketches, real objects, etc. 
+ 
+B2.1.4.1.2. Retell stories sequentially, following story structure (beginning, middle 
+and ending) 
+ Revise the previous story told by having learners recall some of the characters. 
+ Discuss the moral lessons/values of the story. 
+ Let learners retell the story sequentially, following story structure (beginning, middle 
+and ending). 
+ Let learners relate the story to real life situations. 
+ 
+B2.1.4.1.3. Tell stories from cultural background 
+ Revise some stories learners have heard. 
+ Tell the story as learners listen. 
+ Let learners tell their own stories. 
+ Discuss the moral lessons/values in stories told. 
+Cultural Identity and Global 
+Citizenship 
+ 
+Communication and 
+Collaboration 
+ 
+Listening and speaking skills 
+ 
+--- PAGE 63 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+41 
+ 
+Sub-Strand 5: Dramatisation and Role Play 
+Content Standards Indicators and Exemplars Subject Specific Practices and 
+Core Competencies 
+B2.1.5.1: Perform 
+Stories 
+B2.1.5.1.1. Dramatise/role-play stories heard or read 
+ Have learners select an interesting story heard or read in class.  
+ Retell the story. 
+ Discuss the story and have learners recall main events and characters. 
+ Select characters and assign them roles to play.  
+ Let learners dramatise/role-play the story. 
+ Discuss moral values from the story. 
+ Have learners say whether or not they have enjoyed the drama and why. 
+Cultural Identity and Global 
+Citizenship 
+ 
+Communication and Collaboration  
+Creativity 
+ 
+ 
+ 
+Strand 1: Oral Language 
+Sub-Strand 6: Conversation and Talking about Oneself, Family, People, Places, Customs, Events, Social/ 
+Cultural Values and Manners and other Themes 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.6.1: Use  certain 
+culturally acceptable 
+language for 
+communication 
+ 
+B2.1.6.1.1. Use appropriate greetings for special occasions 
+ Revise daily greetings by having learners identify greeting times in the day: e.g. 
+Morning-Good morning, Afternoon-Good afternoon,  
+                     Evening-Good evening. 
+ Discuss special occasions such as birthdays, anniversaries and festivals. 
+ Discuss the correct greetings and responses on these occasions. 
+ Let learners take turns to demonstrate greetings for special occasions and 
+also practise the appropriate responses. 
+Cultural Identity and Global 
+Citizenship 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+--- PAGE 64 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+42 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.6.1: Explore using 
+certain culturally 
+acceptable language for 
+communication 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2.1.6.2: Apply 
+knowledge of language 
+and communicative skills 
+to participate in 
+conversation 
+ 
+B2.1.6.1.2. Talk about events at home 
+ Introduce the day’s topic and show pictures of activities at home. 
+ Have learners think-pair-share the domestic activities. 
+ Have learners talk about which of the events they like most and why they like 
+them. 
+ Have learners role-play some of the scenes. 
+E.g. People engaged in domestic chores. 
+People at table. 
+B2.1.6.1.3. Talk about things and places in their homes 
+ Ask learners to name things and places in their homes and say what happens at 
+those places. 
+ Show pictures of important places in their community, such as the chief's palace, 
+the market, the police station, etc. and have learners think-pair-share ideas or 
+views with the person sitting next to them. 
+ Put learners into groups to talk about their pictures. 
+ Rotate the pictures until each group has had its turn to talk about all the pictures.  
+ 
+ B2.1.6.1.4. Use a wide variety of words to talk about manners 
+ 
+ 
+B2.1.6.2.1. Demonstrate turn-taking in conversations 
+ Use the Community Circle Activity: Sit learners in horse-shoe formation. 
+ Call individual learners to talk about what happened over the weekend. e. g. 
+events, personal experiences, incidents, etc.  
+ Let learners take turns to name and describe events of recent occurrence. 
+ Discuss the importance of turn-taking in conversation: e.g. 
+i. They talk after the last speaker has stopped. 
+They talk when invited e.g. by the group leader. 
+Cultural Identity and Global 
+Citizenship 
+ 
+ 
+ 
+ 
+ 
+ 
+Cultural Identity and Global 
+Citizenship  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication and Collaboration 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+--- PAGE 65 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+43 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.6.2: Apply 
+knowledge of language 
+and communicative skills 
+to participate in 
+conversation 
+ 
+B2.1.6.2.2. Ask and answer questions for clarifications about what other 
+people say 
+ Have learners recall the discussion on turn-taking in conversation and state 
+the rules. 
+ Encourage learners to ask and answer questions for clarification on what 
+other learners have said. 
+ Encourage appropriate language use during conversations. 
+Communication and Collaboration 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+Sub-Strand 7: Listening Comprehension 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.1.7.1: Use 
+appropriate skills and 
+strategies to process 
+meaning from texts 
+ 
+B2.1.7.1.1. Listen to and interact actively with drama 
+ Before Reading  
+ Activate the previous knowledge of the learners by making them 
+think pair and share with their friends. 
+ Discuss illustrations accompanying the text.  
+ Have them predict the content of the text. 
+ Teach key vocabulary. 
+ During Reading  
+ Read the text aloud to learners. Pause often and have learners talk 
+about the content of the text and answer simple questions based on 
+the text. 
+ After Reading 
+ Have learners retell the story. 
+ Let learners role-play the story. 
+ 
+ 
+Communication and Collaboration 
+ 
+Personal Development and Leadership 
+ 
+ 
+ 
+--- PAGE 66 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+44 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.1.7.1: Use 
+appropriate skills and 
+strategies to process 
+meaning from texts 
+ 
+B2.1.7.1.2 Recognise and relate the sequence of events (beginning, 
+middle and end) in drama 
+ Read a narrative text aloud to learners, following the procedure in 
+B2.1.6.1.2. 
+ Put learners in groups to identify and talk about the parts of the drama 
+(beginning, middle and ending). 
+B2.1.7.1.3. Recognise and discuss events in a story (characters, settings, 
+moral, etc.) 
+ Read aloud a story to learners. 
+ Have them identify and discuss (in pairs) the events in the story.  
+ Have groups share their views with the whole class. 
+ 
+B2.1.7.1.4. Share facts from texts heard with a partner, groups or the 
+teacher 
+ Read an information text aloud to learners, using the KWL Strategy.  
+ 
+ KWL Strategy: 
+Before reading, have learners think -pair-share and talk about what they 
+already know(K)  about the title of the text . Have learners ask 
+questions about what they want to know (W).  While you read the 
+text, pause often to give the children the chanc e to share what they 
+have learned or answer the questions they have asked before reading. 
+ After the reading, have learners share what they have learned. 
+ Put learners in groups to share facts from the text heard. 
+Communication and Collaboration 
+ 
+Personal Development and Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 67 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+45 
+Sub-Strand 8:  Asking and Answering Questions 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.1.8.1: Demonstrate 
+understanding in asking 
+and answering questions 
+B2.1.8.1.1. Use appropriate pronunciation and intonation in asking and 
+answering Wh – questions 
+ 
+ Revise Yes/No questions and have learners answer some such question 
+ Ask Wh questions and have learners answer them. 
+e.g. 
+Questions Answers 
+Who took my pen? I did. 
+Where is the book? It is on the table. 
+ 
+ Ask them to say what is common to all the questions introduced by Wh 
+words (what? when? why? how?). 
+e.g. Why did you eat her food? 
+ Guide learners to use appropriate pronunciation and intonation in asking 
+and answering simple Wh – questions in pairs.  One asks a Wh question 
+and the other answers. They then reverse roles. 
+ Let learners write out simple Wh – questions on their own. 
+ 
+Communication and Collaboration 
+ 
+Personal Development and Leadership 
+ 
+ 
+Listening and Speaking 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 68 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+46 
+Sub-Strand 9:  Giving and Responding to Commands, Instructions, Directions and Making Requests 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.1.9.1: Demonstrate 
+understanding in 
+commands, 
+instructions, directions 
+and requests 
+B2.1.9.1.1. Give and respond to commands 
+ Revise verbs (action words) by having learners identify the present form of 
+verbs and use them in sentences, e.g. come, go, sit, etc. (action). 
+ Have several learners obey commands such as ‘stand up’, ‘close the door’. 
+ The teacher gives commands which the class/individuals promptly obey. 
+ Have Learners role-play giving and responding to commands. 
+ 
+ 
+B2.1.9.1.2. Make and respond to polite requests 
+ Let learners demonstrate in pairs how they ask for favours. 
+ Discuss polite requests using examples. 
+e. g. Can you hold the bag? 
+ Discuss words used in polite requests. 
+e.g. Please, could you…, do you mind….May I… 
+ Have learners take turns to make and respond to polite requests using the 
+word, “please”. 
+ Discuss the importance of the word, “please”, in making requests. 
+ 
+ 
+Communication and Collaboration 
+ 
+Personal Development and Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 69 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+47 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.9.1: Demonstrate 
+understanding in 
+commands, 
+instructions, directions 
+and requests 
+CONT’D 
+B2.1.9.1.3. Respond to commands, instructions and requests 
+ 
+ Introduce instructions by having learners respond to typical classroom 
+instructions. 
+ Create situations for learners to practise giving and responding to 
+instruction. 
+ Let learners role-play parents, teachers, prefects, learners giving and 
+responding to instructions, etc. 
+e. g. 
+Instruction:  
+1. Draw a circle in a square. 
+2. Write the letter ‘A’ in the circle. 
+ Response: 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 70 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+48 
+Sub-Strand 10:  Presentation 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.1.10.1: Plan and 
+present information and 
+ideas for a variety of 
+purposes 
+B2.1.10.1.1. Speak with confidence before different audience 
+ Put learners in pairs to share their holiday plans with each other. 
+ Have each person share his/her friend’s plans with the class. 
+ Use probing questions to get learners give additional information: e.g.  
+i. Where will he go first?  
+ii.  What will he be doing there? etc. 
+ 
+ 
+B2.1.10.1.2. Maintain appropriate posture, eye contact and use 
+appropriate verbal and non-verbal cues to convey meaning 
+ Model appropriate posture, eye contact and use verbal and non-verbal 
+clues. 
+ Let learners observe and do same. 
+ Discuss when to use various postures, eye contact, verbal and non-verbal 
+clues when talking to different people e.g. teacher, friend. 
+ Have learners role-play how to maintain appropriate posture, verbal and 
+non-verbal clues in communication. 
+e.g. crossed arms and unblinking eye gaze to indicate disapproval. 
+ 
+ 
+Communication and Collaboration 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 71 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+49 
+Strand 2: Reading 
+Sub-Strand 2: Phonics 
+ 
+CONTENT 
+STANDARDS 
+ 
+INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write 
+B2.2.2.1.1. Blend syllables to produce words 
+ Introduce the lesson with a recital that links the letters of the alphabet. 
+ Have learners work in pairs, groups or individually to blend syllables to form 
+meaningful words.   
+ Use word families as a guide to help build on the words. 
+ 
+ 
+B2.2.2.1.2. Use the alphabetic knowledge to decode unknown words (e. g. 
+use beginning and ending consonants, consonant blends, consonant 
+digraphs, vowel sounds, vowel digraphs and word patterns) 
+ Begin the lesson with an alphabet song, a rhyme or a poem.   
+ Play games with the alphabet to decode unknown words, changing the 
+position of the letters from beginning to middle and to ending. 
+ Use demonstrations to show learners that whenever a letter moves 
+(especially the consonant), it may still sound the same. 
+ Have learners play alphabet games in pairs and groups.  
+ 
+Personal Development and 
+Leadership 
+ 
+Cultural identity and Global 
+citizenship 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 72 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+50 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.2.1: Connect sounds 
+to letters and blend 
+letters/syllables in order 
+to read and write 
+CONT’D 
+B2.2.2.1.3. Use elements of structural analysis to decode unknown words. 
+ Have learners analyse the basic structure of unknown two-syllable words 
+using specific indicators as a guide. 
+ 
+ 
+Word Prefix root word 
+Unclean un- Clean 
+Word Suffix root word 
+slowly -ly Slow 
+ 
+ Let learners look at the different features of compound words. 
+ Give learners the opportunity to work as teams/groups to come up with their 
+own features, e. g. “class” and “room” will give “classroom”. 
+ 
+ 
+Note: Consonant blends, digraphs, prefixes, suffixes, root words, compound words, etc. 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 73 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+51 
+ 
+Sub-Strand 3: Word Families-Rhyming Endings and Common Digraphs 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.3.1. Employ  
+knowledge of rhyming 
+endings and common 
+digraphs to enhance 
+reading comprehension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2.2.3.1.1.Use common rhyming/endings to decode simple words 
+ Introduce learners to simple word formation by changing the beginning letter 
+of words. 
+e.g. pan, man, fan (You may use a phonic slide to give practice). 
+ Have learners build on these rhyming endings. 
+ In groups, let learners read out their words. 
+ Have learners form sentences with these rhyming words. 
+ 
+ 
+B2.2.3.1.2. Use words containing digraphs to make meaningful sentences. 
+ Introduce learners to simple digraphs as in; 
+ch- church 
+ph- photo 
+sh - shirt 
+ Have learners build as many words as possible from digraphs. 
+ Have learners form meaningful sentences with   the words. 
+ 
+Personal Development and 
+Leadership 
+Communication and Collaboration 
+ 
+ 
+ 
+--- PAGE 74 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+52 
+Sub-Strand 6:  Vocabulary 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.6.1: Understand 
+word meanings and 
+usages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2.2.6.1.1. Read level-appropriate sight words, understand and use many 
+of them in meaningful sentences 
+ Introduce the selected sight words, one at a time, in context and write 
+them on the board.  
+ Start from the basic words they already know. 
+ Have learners repeat the words aloud a number of times. 
+ Write the words on the board. 
+ Have learners read the words in order and at random. 
+ Use think-pair-share to have learners form sentences with them. 
+B2.2.6.1.2. Use context clues to infer meanings of words 
+ Create a story around a theme, using specific key words or vocabulary items you 
+wish to teach.   
+ Have learners use context to find the meaning of the key words.   
+ Have learners make their own sentences using these key words. 
+B2.2.6.1.3. Show awareness that homonyms have different meanings in different 
+contexts 
+ Provide examples in contexts to help learners discover that homonyms have 
+different meanings in different contexts. 
+ e.g. right and bat 
+a. You are right. 
+     Raise your right hand. 
+b. I saw a bat fly this morning. 
+     My mother bought a tennis bat for me. 
+B2.2.6.1.4. Use dictionaries and glossaries to clarify meaning of words 
+ Introduce learners to the use of picture dictionaries and glossaries. 
+ Have learners use guide words to find meaning of words used. 
+ Have learners practise in pairs. 
+Personal Development and 
+Leadership 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 75 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+53 
+Sub-Strand 7: Comprehension 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.7.1: Understand and 
+analyse texts read 
+ 
+B2.2.7.1.1. Use illustrations, text clues and context to make predictions 
+during reading 
+ Have learners use text features like title, illustrations and text clues to 
+make meaning and inferences. 
+ Have learners predict, brainstorm on the topic and have them read to 
+confirm their predictions. 
+ Have learners pause frequently during reading to make predictions to 
+enhance comprehension. 
+ 
+ 
+B2.2.7.1.2. Ask and answer factual and inferential questions about level-
+appropriate texts 
+ Have learners read level-appropriate texts in pairs. 
+ Guide learners to ask and answer simple inferential questions on the 
+texts 
+ 
+ 
+B2.2.7.1.3. Retell level-appropriate texts in own words 
+ Revise some previous stories told. 
+ Have learners retell a story using simple herring-bone strategies. 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 76 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+54 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.2.7.2: Use knowledge 
+skills and techniques of 
+reading to understand and 
+interpret texts 
+B2.2.7.2.1. Demonstrate understanding of the purpose and features of 
+information texts 
+ Have learners read informational texts to identify their purpose and 
+features through think-pair-share. 
+ 
+B2.2.7.2.2. Describe events in a story 
+ Have learners retell stories sequentially. 
+ Have them identify and describe events in the stories. 
+ Guide learners to unfold the events in a story sequentially. 
+ 
+ 
+B2.2.7.2.3. Connect characters, ideas and information within a text 
+ Have learners connect the ideas and information within a text to help 
+construct meaning. 
+  
+B2.2.7.2.4. Read level-appropriate texts with little support 
+ Have learners read different texts with little support from teacher. 
+Gradually, scaffold to help learners read independently. 
+ 
+B2.2.7.2.5. Use visualisation strategy (form mental images about 
+texts) to enhance understanding of level-appropriate texts 
+ Model using visualisation strategy to construct meaning from a text. 
+ Through appropriate questions, guide learners to practise using 
+visualisation strategy to construct meaning from texts. 
+ 
+Note: visualisation strategy = forming mental image about texts. 
+ 
+Critical Thinking 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+--- PAGE 77 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+55 
+Sub-Strand 9: Fluency 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.9.1: Read texts 
+fluently 
+B2.2.9.1.1. Read texts/stories/passages with good pace, accuracy and 
+expression 
+ Model reading aloud with the focus on pace and expression. 
+ Have learners, in group/pairs, read short texts aloud with the appropriate 
+pace, accuracy and expression. 
+ 
+ 
+B2.2.9.1.2. Read and recognise 120 sight words 
+ Introduce learners to more sight words in context 
+ Have them identify and use at least 120 sight-words  
+Remember to focus on a few at a time. 
+ 
+B2.2.9.1.3. Use contextual clues to confirm or self-correct pronunciation 
+while reading aloud 
+ Have learners use the context in which words are found to confirm or self-
+correct pronunciation of words while they read aloud.   
+ Check intonation as they read to make meaning. 
+ 
+Communication and Collaboration 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 78 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+56 
+STRAND 4: WRITING 
+Sub-Strand 2: Penmanship/Handwriting 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.2.1: Copy and 
+rewrite sentences 
+correctly 
+ 
+ 
+B2.4.2.1.1. Copy sentences clearly 
+ Demonstrate copying (sentences) on the board. 
+ Let learners practise writing legibly and correctly on the board or into their 
+books. 
+ Have learners copy sentences from a book into their books. 
+ Draw attention to inter and intra word spacing and alignment of letters, as 
+well as clarity or writing. 
+ 
+Personal Development and 
+Leadership 
+ 
+Sub-Strand 3: Writing Letters – Small and Capital 
+CONTENT 
+STANDARDS 
+INDICATORS AND EXEMPLARS SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.3.1: Use general 
+skills, strategies and 
+knowledge of letter 
+sounds to enable them 
+write legibly and boldly 
+B2.4.3.1.1.Copy words in lower and upper case using correct spacing 
+ Let learners write letters, both in upper and lower cases. 
+ Copy words from learners’ reading book on the board as learners observe. 
+ Let learners take turns to read out words from the list. 
+ Draw attention to appropriate spelling and alignment of letters. 
+ Let learners copy the words. Let them check correct spelling, formation of 
+letters and spacing. 
+ 
+ 
+Personal Development and 
+Leadership 
+Collaboration and Communication 
+  
+--- PAGE 79 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+57 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.3.1: Use general 
+skills, strategies and 
+knowledge of letters to 
+enable them write 
+legibly and boldly 
+B2.4.3.1.2. Use lower and upper case letters appropriately in words and 
+simple sentences 
+ Guide learners to choose level-appropriate topics. 
+e. g. My Family, My Pet, My Friend, etc. 
+ Let learners talk about the topic.   
+ Write what learners say about the topic on the board. 
+e. g. My family 
+There are six people in my family. 
+             My father is a teacher. 
+             My mother is a nurse, etc. 
+ 
+ Have learners read the sentences. 
+ Re-write the sentences with wrong capitalisation and ask learners re-write 
+them appropriately. 
+e. g. my Father is a teacher. 
+ 
+ 
+B2.4.3.1.3. Space words appropriately in sentences 
+ Write the sentences on the board.   
+ Let learners copy the sentences, paying attention to spacing of words in the 
+sentence. 
+ Encourage learners to display their work. 
+ 
+Personal Development and 
+Leadership 
+ 
+Collaboration and Communication 
+ 
+ 
+ 
+--- PAGE 80 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+58 
+Sub-Strand 4:  Labelling Items 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.4.1: Draw and label 
+simple pictures 
+B2.4.4.1.1. Draw and label objects found in their environment 
+ Take learners round to look at charts showing labelled objects. 
+ Put learners into groups and ask them to choose an area in the 
+environment where they will want to make a list of objects found there 
+(e.g. home, market, shops etc.). 
+ Let learners draw and label objects from the area studied by their group. 
+ Help them to edit their work particularly spelling and spacing. 
+ Let learners write their names under their work and post their charts on 
+the walls of the classroom for peer review. 
+ 
+ 
+Collaboration and Communication 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 81 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+59 
+Sub-Strand 5: Writing Simple Words and Sentences 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.4.5.1: Use knowledge 
+of grammar and 
+vocabulary to write 
+words and sentences 
+correctly. 
+CONT’D 
+CONTENT STANDARDS 
+B2.4.5.1.1. Write simple sentences to express feelings 
+ Put learners in groups to share their feelings. 
+ Let each one write, at least, one sentence to express a feeling, e.g. "I am 
+happy." 
+ 
+B2.4.5.1.2. Write simple and meaningful sentences on objects found in 
+the environment 
+ Take learners out on a field-trip outside the school to observe things. 
+ Discuss the trip and write their observations in simple sentences on the 
+board. 
+ e.g.  
+i. There is a blue house near the school. 
+ii. The house is small. 
+iii. I saw a big bus. 
+iv. The bus has a driver. 
+v. A big shop is near the school. 
+vi. Taxi cabs are on the road. etc. 
+ Put learners into groups to write simple sentences about the objects and 
+places found in the environment.   
+ Encourage each group to add pictures to their sentences.   
+ Publish their work on the walls and encourage gallery walk. 
+ 
+Collaboration and 
+Communication 
+ 
+Personal Development and 
+Leadership 
+ 
+--- PAGE 82 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+60 
+ 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.5.1: Use knowledge 
+of grammar and 
+vocabulary to write words 
+and sentences correctly. 
+CONT’D 
+B2.4.5.1.3. Draw a picture and write at least a sentence to share an 
+opinion 
+ Show pictures of ‘smiley/images on your phone or card’, e.g. smiling, angry, 
+indifferent or frightened faces, etc. 
+ Let learners study the pictures and interpret them. 
+ Let learners, in pairs, discuss their opinions. 
+ 
+Note:  The learner’s opinion is very important and whatever interpretation learners give 
+must be accepted. 
+Collaboration and Communication 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 83 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+61 
+Sub-Strand 7:  Controlled Writing 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.7.1: Write simple 
+compositions 
+ 
+ 
+B2.4.7.1.1. Write or copy correct sentences from substitution tables 
+ Have a simple 3-4 column substitution table on the board. 
+e.g. 
+I Sing                           
+at 
+ 
+School 
+We Play Home 
+The Boys Read the park 
+ 
+ Have learners identify the words that make up the table. 
+ With an example, let learners form sentences from the substitution table. 
+ Have learners read out their sentences and write down their sentences in 
+their books. 
+ 
+B2.4.7.1.2. Match parts of sentences to compose meaningful texts 
+ Let learners talk about the topic (My House) by using descriptive words in 
+sentences. 
+ Write the sentences on the board. 
+ e.g. 
+i. My house is big. 
+ii. The walls are blue. 
+iii. The house has many windows. 
+iv. The windows are big. 
+v. The doors and windows are blue. 
+ 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+ 
+ 
+--- PAGE 84 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+62 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.7.1: Write simple 
+compositions 
+CONT’D 
+ Write the sentences and break each into two parts for learners to match 
+the beginning with their correct endings. 
+e. g.  
+ 
+My house  
+The walls 
+The windows 
+There are 
+ 
+many windows. 
+is big. 
+are blue. 
+ 
+ 
+ 
+ Encourage learners to do peer editing. 
+ 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+ 
+ 
+B2.4.7.2: Matching parts 
+of sentences to 
+composition 
+ 
+B2.4.7.2.1. Re-arrange jumbled sentences logically 
+ Tell/Read an interesting story to learners. 
+ Let them retell the story. 
+ Jumble up the sentences making up the story and ask learners to re-arrange 
+them. 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+ 
+ 
+--- PAGE 85 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+63 
+Sub-Strand 8: Guided Composition 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.8.1: 
+Compose short 
+paragraphs through 
+answering questions 
+B2.4.8.1.1. Develop two coherent paragraphs on one idea or concepts 
+using leading questions 
+ Write selected topics on the board, e.g. “Myself”. 
+ Teacher and learners brainstorm to generate ideas about the topic. 
+ Put learners in groups and ask leading questions to guide them develop the 
+ideas generated into one or two paragraphs. 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+Sub-Strand 10:  Narrative Writing 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.10.1: Narrate 
+situations, express feelings 
+and convey point of view 
+about the real or fictional 
+world 
+B2.4.10.1.1. Write about real or imagined experiences or events using 
+the process approach 
+ Ask learners simple questions on their daily routines. 
+ Let learners brainstorm and choose a topic for the day. 
+e. g."A visit to the market" or "A visit to the beach" 
+ Using questions, assist learners to write a paragraph or two about their 
+experiences.  
+e. g.  
+i. What is the name of the market? 
+ii. Where is the market? 
+iii. What did you buy from the market? 
+ Let learners write a short paragraph and paste it on the notice board. 
+Note: Learners may create imaginary experiences and write about them. 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+ 
+--- PAGE 86 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+64 
+ 
+Sub-Strand 12: Descriptive Writing 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.4.12.1: Demonstrate 
+knowledge of description in 
+writing 
+B2.4.12.1.1. Use simple sentences to describe feelings 
+ Let learners name and describe common objects using adjectives. 
+ Let learners name various objects in the classroom. 
+ Explain what they have to do. 
+ Demonstrate the activity by describing an object in 3-5 sentences. Write 
+the sentences on the board. 
+ Let i ndividuals choose objects and describe them orally and then in 
+writing. 
+Communication and Collaboration 
+ 
+Personal Development 
+ 
+ 
+Strand 5: Using Writing Conventions/Grammar Usage 
+Sub-Strand 1: Using Capitalisation 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.5.1.1: Apply 
+knowledge of 
+capitalisation in writing  
+B2.5.1.1.1. Use capital letter to write names of particular places and days 
+of the week 
+ Provide a sample text and have learners identify names of particular places 
+and days of the week. 
+ Have them compare the initial letters of these names and other common 
+names and share their observations with the class. 
+ Give learners a text with names of particular places and days of the week, 
+beginning with small letters. Let learners rewrite the text, beginning the 
+names of particular places and days of the week, with capital letters. 
+ 
+Communication and Collaboration 
+ 
+--- PAGE 87 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+65 
+B2.5.1.1.2. Use capital letters to begin the first words of sentences 
+ Assist learners to begin sentences with capital letters.   
+For example:  
+i. Kofi is a good boy. 
+ii. The house is beautiful. 
+Sub-Strand 2: Using Punctuation 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.5.2.1: Apply 
+knowledge of 
+punctuation in written 
+communication 
+B2.5.2.1.1.Use full stops at the end of sentences and question marks at 
+the end of questions 
+ Have learners look at sentences in their class readers to observe how they 
+begin and end. 
+ Demonstrate placing a full stop (.) at the end of a sentence. 
+ Let learners copy and punctuate sentences with full stop. 
+ Present the question mark similarly. 
+Communication and Collaboration 
+ 
+ 
+Sub-Strand 4: Using Action Words 
+CONTENT 
+STANDARDS 
+INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.5.4.1: Apply 
+knowledge of action 
+words in 
+communication 
+B2.5.4.1.1. Use the simple present tense to express habitual actions 
+(simple truths, interest, feelings and opinions) 
+ Tell learners some of the things you do daily in short and simple sentences. 
+e.g. I read stories everyday. 
+ Create situations for learners to use the structure. 
+e.g. 
+i. simple truths –Lemons are sour. 
+ii. interest – I like playing football. 
+iii. feelings – I am happy. 
+iv. opinions – He is a good teacher. 
+ Introduce drills for learners to have practice. 
+ Put learners into small groups to discuss given topics, using the structures. 
+Communication and Collaboration  
+--- PAGE 88 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+66 
+ 
+ 
+ 
+Sub-Strand 5: Using Adjectives 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.5.5.1: Apply knowledge 
+of adjectives in 
+communication 
+B2.5.5.1.1. Identify and use simple sentences to describe the weather 
+and show quantity and position or order of people and things 
+ Use appropriate texts to help learners to describe the weather and show 
+quantity and position or order of people and things, e.g: 
+weather - It is cold. 
+quantity – I have two pens. 
+position or order of people and things – She is on the first row. 
+Communication and Collaboration 
+ 
+Sub-Strand 7: Using Simple Preposition 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.5.7.1: Understand and 
+identify the use of 
+prepositions 
+B2.5.7.1.1. Identify prepositions in sentences to indicate days, dates and 
+places 
+ Let learners use the preposition in, on, in context.   
+e.g. 
+i. I saw a bird on Monday. 
+ii. I have a test on 1st May, 2018. 
+iii. They are in the classroom. 
+ 
+B2.5.7.1.2. Use prepositions to form simple sentences to indicate 
+position and time 
+ Provide a short passage containing prepositions that indicate position and 
+time. 
+Communication and Collaboration 
+--- PAGE 89 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+67 
+ Let learners identify the prepositions. 
+e. g.  
+i. Esi sat on a chair in the room. 
+ii. The other pupils stood on the veranda. 
+iii. The teacher went to the classroom at night. 
+Sub-Strand 9: Using Simple and Compound Sentences 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.5.9.1: Understand 
+simple sentences in 
+writing 
+B2.5.9.1.1. Identify the structure of simple sentences 
+ Use context to help learners identify the structure of simple sentences.   
+Yaa came. 
+(Name) + (Doing word)  
+Musa ate. 
+ 
+B2.5.9.1.2. Identify nouns and verbs in simple sentences 
+ Use questions and samples to learners to identify nouns and verbs in the 
+structure of simple sentences.   
+e. g.  
+i. Ofori danced. (Who danced? What did Ofori do?) 
+ii. Ama laughed 
+Communication and Collaboration 
+ 
+ 
+Sub-Strand 10: Spelling 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.5.10.1: Use phonics 
+knowledge to spell 
+words 
+B2.5.10.1.1. Use phonics knowledge to spell words with irregular phonic 
+letter pattern 
+ Have learners play the pick and spell game to spell phonetically irregular 
+words.  
+e. g. the, face 
+ Have learners use these words in oral and written sentences. 
+ 
+Communication  
+Critical Thinking 
+--- PAGE 90 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+68 
+ Provide sentences with blank spaces for learners to fill in the blanks using the 
+words they have learnt to spell. 
+e. g.  
+i. This is my-------. 
+Strand 6:  Extensive Reading 
+Sub-Strand 1: Building The Love And Culture Of Reading 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.6.1.1: Read widely for 
+pleasure and to 
+demonstrate 
+independent reading and 
+learning in the literary 
+area 
+ 
+B2.6.1.1.1 Read a variety of age and level-appropriate books and texts 
+from print and non-print 
+ Use the Author’s chair to introduce the reading/ library time.  
+ Have a variety of age and level-appropriate books for learners to make a 
+choice. 
+ Introduce narratives, pop-up and flip-the-page texts to learners. 
+ Introduce e-books to learners, if available. 
+ For each reading session, guide learners to select books. 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 91 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+69 
+ 
+ 
+ 
+ 
+BASIC 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 92 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+70 
+ 
+ 
+ 
+Basic 3 
+Strand 1: Oral Language 
+Sub-Strand 1: Songs 
+Content Standards Indicators and Exemplars Subject Specific Practices and 
+Core COMPETENCIES 
+B3.1.1.1: 
+Demonstrate 
+understanding of a 
+variety of songs  
+B3.1.1.1.1. Talk about the benefits of songs 
+ Let learners identify some familiar songs e.g. patriotic songs such as ‘The National 
+Anthem’. 
+ Teach the songs identified, e. g. ‘The National Anthem’ 
+ Let learners sing rhythmically, using claps, gestures and dance where necessary. 
+ Let learners, in convenient groups, identify and talk about the moral lessons in the 
+songs. 
+ Have learners think-pair-share the benefits of songs. Let the pairs then share their 
+views with the whole class. 
+Cultural Identity and Global 
+Citizenship 
+ 
+Communication and Collaboration 
+Listening and 
+ Speaking  
+ 
+ 
+Sub-Strand 2: Rhymes 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.2.1: Appreciate a 
+variety of  literary 
+pieces 
+ 
+B3.1.2.1.1.Compose short rhymes and tongue-twisters and recite them 
+ Revise some previously taught rhymes. 
+ Present the new rhymes and perform them as learners listen and observe. 
+ Read through the lines meaningfully with learners. 
+ Let learners read through the lines in groups and individually on their own.  
+ Focus on rhyming words by helping learners to identify them. 
+ Put learners in convenient groups. Assign them a rhyme and task them to compose a 
+parallel one. 
+ Have groups recite their rhymes with the class. 
+Communication and Collaboration 
+ 
+Creativity and innovation 
+Listening and 
+ Speaking  
+ 
+ 
+--- PAGE 93 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+71 
+ 
+ 
+Sub-Strand 4: Story Telling 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.4.1: Respond to 
+stories 
+ 
+ 
+B3.1.4.1.1. Respond to and ask  questions based on stories heard 
+ Select a suitable story to tell or read to the class. 
+ e.g. Ananse and the family. 
+ Let learners tell their favourite parts of the story. 
+ Have learners respond to the story by asking and answering relevant 
+questions to enhance comprehension. 
+ 
+B3.1.4.1.2.  Tell parallel stories 
+ Select a suitable story to tell or read to learners, 
+e.g. The old man. 
+ Put learners into groups to compose a parallel story. 
+ Let learners present their stories to the class for feedback. 
+ 
+B3.1.4.1.3. Create own events to extend stories heard 
+ Let learners retell some stories they have read or heard. 
+e.g. Ananse and the wisdom pot. 
+ Pair up learners and have them create their own events to extend a story of 
+their choice. 
+ Invite representatives of the groups to share the part of the story they have 
+created with the class. 
+Communication and Collaboration 
+ 
+Cultural Identity and Global 
+Citizenship 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 94 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+72 
+ 
+ 
+ 
+Sub-Strand 5: Dramatisation and Role Play 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.5.1: Perform 
+stories  
+B3.1.5.1.1. Dramatise and role-play stories heard and read 
+ Let learners mention titles of stories they have heard or read,  
+e.g. The Magic Pot. 
+ Let learners identify some characters in the stories mentioned. 
+ Let learners dramatise or role-play stories they have heard, read or created, 
+with appropriate characters. 
+ Discuss stories dramatised or role-played. 
+ Let learners comment on stories dramatised or role-played. 
+Communication and Collaboration 
+Creativity  
+Listening and Speaking 
+ 
+Sub-Strand 6: Conversation - Talking about Oneself, Family, People, Places, Greetings, Customs, Events, Social/ 
+Cultural Values, Manners and other Themes 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.6.1: Explore using 
+certain culturally 
+acceptable language for 
+communication 
+ 
+B3.1.6.1.1. Use appropriate greetings for special occasions 
+ Revise greetings for special occasions such as birthdays, anniversaries, 
+festivals. 
+ Let learners take turns to demonstrate greetings for special occasions and  
+practise the appropriate responses. 
+ Put learners into groups. Assign each group a special occasion for them to 
+practise greetings and responses for that occasion.   
+Communication and Collaboration 
+ 
+Cultural identity and Global 
+Citizenship 
+Listening and Speaking 
+ 
+ 
+--- PAGE 95 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+73 
+ 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.6.1: Explore using 
+certain culturally 
+acceptable language for 
+communication 
+CONT’D 
+B3.1.6.1.2. Talk about events in the community 
+ Have learners sing a familiar song about a topic.  
+ Show pictures of events in the community, e.g. durbar, festival, naming 
+ceremony, birthday. 
+ Have learners think-pair-share the events with the person sitting next to 
+them.  
+ Have the pairs share their experiences with the class. 
+ Have learners talk about which of the events they like most and why they 
+like them. 
+ Let learners, in groups, role-play the events of their choice. 
+ 
+B3.1.6.1.3. Talk about important places in their communities 
+ Show pictures of important places in their communities such as the 
+community centre, the lorry station, the mission house, the market, the fire 
+service station etc.  
+  Let learners think-pair-share their views and opinions about the pictures. 
+  Put learners into groups according to the number of pictures. 
+  Have each group talk about the activities that go on in these places and 
+their importance to the community and the nation. 
+ 
+Communication and Collaboration 
+ 
+Cultural identity and Global 
+Citizenship 
+Listening and Speaking 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 96 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+74 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.6.1: Explore using 
+culturally acceptable 
+language for 
+communication 
+CONT’D 
+ 
+ 
+ 
+ 
+B3.1.6.1.4. Use a wider variety of words to talk about different customs 
+and cultural values 
+ Using conversational posters on different customs and cultural practices, let 
+learners think-pair-share, looking at the various illustrations on the poster.  
+ Have them use expressions learnt and other new ones to talk about the 
+customs and cultural practices. 
+ Let learners, in groups, role-play the customs and cultural practices on the 
+poster.  
+Communication and Collaboration 
+ 
+Cultural identity and Global 
+Citizenship 
+Listening and Speaking 
+ 
+ 
+ 
+ 
+ 
+B3.1.6.2: Apply 
+knowledge of language 
+and communicative skills 
+to participate in 
+conversation 
+ 
+ 
+B3.1.6.2.1. Demonstrate turn-taking in conversation in different topics 
+ Let learners identify some familiar/interesting topics based on their 
+environment for discussion.eg. Sanitation, Bush fires, Flooding, Pollution. 
+ Let learners give scenarios from the identified topics. 
+ Let learners demonstrate taking turns in conversations. 
+ Guide appropriate language use in conversation. 
+  
+ 
+Communication and Collaboration 
+ 
+Cultural identity and Global 
+Citizenship 
+Listening and Speaking 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 97 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+75 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.6.2: Apply 
+knowledge of language 
+and communicative skills 
+to participate in 
+conversation 
+CONT’D 
+B3.1.6.2.2. Ask and answer questions for clarification about what other 
+people say 
+ Revise topics previously discussed, e.g. Climate Change. 
+ Ask questions on the topic discussed. 
+ Let learners answer questions based on the topic discussed. 
+ Guide and encourage learners to ask and answer questions for clarification 
+on what other learners say. 
+ 
+B3.1.6.2.3. Participate in communication, using more varied and more 
+accurate language 
+ Put learners in groups. Have each group discuss the conversation posters on 
+issues such as situations, events, customs, etc. 
+ 
+B3.1.6.2.4. Express a greater variety of communicative meaning (e.g. 
+apologising, agreeing or disagreeing) 
+ Let learners role-play topics or themes discussed.  
+ Discuss the importance of expressing a variety of communicative 
+meanings/telling people about their feelings, etc.)  
+e. g. apologising, agreeing or disagreeing with partners on issues. 
+ Guide learners to express a variety of communicative meanings. 
+ 
+Communication and Collaboration 
+ 
+Cultural identity and Global 
+Citizenship 
+Listening and Speaking 
+ 
+ 
+--- PAGE 98 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+76 
+Sub-Strand 7: Listening Comprehension 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.1.7.1: Use 
+appropriate skills and 
+strategies to process 
+meaning from texts  
+ 
+B3.1.7.1: Use 
+appropriate skills and 
+strategies to process 
+meaning from texts  
+B3.1.7.1.1. Listen to and interact actively within information texts 
+Note: For all information text, use the KWL strategy.  Below is the process: 
+ Before reading,   let learners think- pair- share, and talk about what they already 
+know (K) about the topic .Have learners ask questions about what they want to 
+know (W). 
+ While you read the text, pause often to give the children the chance to share 
+what they have learned 
+ Let learners answer the questions they asked before reading. 
+ After the reading, have learners share what they have learned. 
+ 
+B3.1.7.1.2. Recognise and relate the sequence of events in stories 
+ Read a narrative text aloud to learners. 
+ Put learners in groups to identify and talk about the parts of the story (e.g. 
+beginning, middle and end). 
+ 
+B3.1.7.1.3. Share facts from information texts heard with a partner, 
+groups or the teacher 
+ 
+ Read an information text aloud to learners using the KWL Strategy.  
+ KWL Strategy: 
+Before reading, have learners think-pair-share and talk about what 
+they already know (K) about the title of the text. Have learners 
+ask questions about what they want to know. (W). While you 
+read the text, pause often to give the children the chance to share 
+what they have learned or answer the questions they have asked 
+before reading. 
+ After the reading, have learners share what they have learned. 
+Put learners in groups to share facts from the text heard. 
+ 
+ 
+ 
+--- PAGE 99 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+77 
+Sub-Strand 8: Asking and Answering Questions 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.8.1: Demonstrate 
+understanding in asking 
+and answering questions 
+B3.1.8.1.1. Ask and answer questions for clarifications about given topics 
+ Let learners select topics of interest for discussion. 
+ Put learners in groups and have them ballot for topics.  
+ Let members of each group discuss topics respecting rules of conversation. 
+ Encourage learners to ask and answer questions for clarifications on issues 
+raised in their discussion. 
+ 
+B3.1.8.1.2. Use appropriate pronunciation and intonation in asking and 
+answering the inversion questions 
+ Let learners, in pairs, ask and answer questions on given issues. 
+ Revise inversion questions with learners.  
+e. g. He is going.—Is he going? 
+ Guide learners to use appropriate pronunciation and intonation in asking and 
+answering the inversion type of questions. 
+ Let learners write answers to inversion type of questions on their own. 
+Communication and 
+Collaboration 
+Listening and Speaking 
+ 
+Creative and Innovation 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+--- PAGE 100 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+78 
+Sub-Strand 9: Giving and Responding to Commands/Instructions/Directions and Making Requests 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.9.1: Demonstrate 
+understanding in 
+commands, 
+instructions, directions 
+and requests 
+ 
+B3.1.9.1.1. Give and respond to commands, instructions and directions 
+A. Instructions 
+Model giving instructions and ask learners to follow them: 
+ First, draw a square in the middle of your paper. 
+ Next, draw a rectangle inside the square. 
+ Then, draw an oval inside the rectangle. 
+ 
+Response: 
+ 
+ 
+ Pair up learners to practise giving and following instructions, e.g. giving and 
+following instructions to clean the classroom. 
+B. Directions 
+Model giving directions and ask learners to follow them: 
+ Show directions flash cards (go straight, turn left/right) and ensure 
+learners understand the words. Place objects at different locations of the 
+classroom. 
+ Ask questions such as "Where is the book, pen, bag etc.? Then show the 
+direction flash cards to help learners locate the items. 
+Invite pairs of learners to practise giving and following directions. They can locate 
+objects and places in the school.  
+ 
+Communication and Collaboration 
+Listening and Speaking 
+ 
+--- PAGE 101 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+79 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+ B3.1.9.1.2. Make and respond to polite requests 
+ Show  pictures of requests to learners and ask them to guess the  requests 
+from pictures: 
+e.g. a picture of a closed door, a picture of an open door, a picture of 
+someone carrying books etc. (Can you help me carry the books?, Please, 
+close/open the door.) 
+ Invite pairs of learners to the front of the class to make and respond to polite 
+requests. Let learner A  pick a picture and Learner B make the request. Then, 
+Learner A responds to the request made. 
+ Have learners draw pictures of requests for their partners to guess the 
+requests 
+ Let learners practise making and accepting or declining requests using 
+expressions such as "Yes, Of course, No problem, I'm sorry, I can't, etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 102 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+80 
+Sub-Strand 10: Presentation 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.1.10.1: Plan and 
+present information and 
+ideas for a variety of 
+purposes 
+ 
+ 
+B3.1.10.1.1. Present ideas logically 
+ Discuss important people (e.g. teachers, footballers, farmer, police officer, etc.) 
+in learners’ community and what made them important.  
+ Ask learners to prepare presentations on what they would like to be 
+important for and why. 
+ Have learners present their work logically.  
+ 
+ 
+B3.1.10.1.2. Use appropriate verbal and non-verbal cues to convey meaning 
+while speaking, e.g. smiling, using gestures, etc 
+ Demonstrate use of appropriate posture, verbal and non-verbal cues to 
+communicate meaning, e.g. nodding, smiling, etc. to show approval. 
+ Discuss the various non-verbal cues (e.g. facial expression, eye contact, 
+crossed arms, etc.) you used and their meanings with learners. 
+ Let the groups plan their presentations on an appropriate topic. 
+ Give each group time to present and have the class talk about the appropriate 
+verbal and non-verbal cues used. 
+ 
+Communication and Collaboration 
+ 
+Creativity and Innovation 
+Cultural Identify and Global 
+Citizenship 
+ 
+ 
+--- PAGE 103 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+81 
+Strand 2: Reading 
+Sub-Strand 2: Phonics 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write 
+B3.2.2.1.1. Understand the relationship between spelling of words and 
+sounds of speech 
+ Have learners revise writing out some words as you pronounce them. (You 
+can also make them read words on the board or word cards).  
+ Provide activities for learners to use letter names and sounds to spell and 
+sound out words. 
+ 
+B3.2.2.1.2. Use the alphabetic knowledge to decode unknown words (e.g. 
+consonant blends, consonant digraphs, vowel sounds, vowel diagraphs and 
+word patterns) 
+ Have learners sing an alphabet song. 
+ Introduce consonant blends and digraphs, one at a time and have learners 
+form words out of them and use them in sentences.   
+ 
+Note: An important thing to remember is that a digraph is made of two letters, although 
+the letters spell a sound e.g. bl, br, ch, ck, cl, cr, dr, fl, fr, gh, gl 
+ 
+ Use the same procedure to teach vowel digraphs e. g. ai, ee, ea, ie, ei, oo, 
+oe, oo, ue, oi, au 
+ 
+Personal Development and 
+Leadership Communication 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 104 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+82 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.2.1: Connect 
+sounds to letters and 
+blend letters/syllables in 
+order to read and write  
+CONT’D 
+B3.2.2.1.3. Use basic elements of structural analysis (e.g prefixes, suffixes, 
+compound, root words) to decode unknown words 
+ Guide learners with examples to use the structure of words to decode. 
+ Introduce words and have learners look for the parts.  
+e.g. syllables, prefixes and suffixes. 
+ Let learners identify words with similar parts/structures. 
+Personal Development and 
+Leadership 
+ 
+ 
+Strand 2: Reading 
+Sub-Strand 3: Word Families-Rhyming Endings and Common Digraphs 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.2.3.1: Employ  
+knowledge of rhyming 
+endings and common 
+digraphsto enhance 
+reading comprehension 
+ 
+ 
+ 
+B3.2.3.1.1.Use common rhyming/endings words for decoding of words 
+ Introduce learners to simple word formation by changing the beginning letter. e.g. 
+pin, sin, fin 
+ Have learners build on these rhyming endings and read out the words to their group 
+members. 
+ Have learners form sentences with these rhyming words. 
+B3.2.3.1.2. Use words containing digraphs to make meaningful sentences 
+ Introduce learners to simple digraphs as in: 
+sh- shirt 
+ch- church 
+gh- Ghana 
+ph-phone 
+ Have learners build as many words as possible with the digraphs and  
+form meaningful sentences with some of the words. 
+Personal Development and Leadership 
+--- PAGE 105 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+83 
+Sub-Strand 4: Diphthongs 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.4.1: Show 
+understanding of 
+diphthongs 
+ 
+B3.2.4.1.1. Use diphthongs to build words 
+ Revise digraphs and have learners identify them in words. 
+ Introduce diphthongs in context. 
+ e.g. ou-out, loud, cloud 
+ 
+ Through think-pair-share, let learners generate diphthongs and build words 
+with them. 
+Personal Development and 
+Leadership 
+ 
+Sub-Strand 5: Blends and Consonant Clusters 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.5.1: Identify and use 
+consonant blends in 
+words 
+ 
+ 
+B3.2.5.1.1.Use consonant blends to build words 
+ Have learners revise diphthongs and use them in sentences. 
+ Introduce consonant blends and have learners identify words having the 
+blends. 
+e.g.  
+bl - black 
+br- brush 
+st- stone 
+tr- tree 
+ 
+ Let learners work in pairs/groups to identify consonant blends and build 
+words from them. 
+Personal Development and 
+Leadership 
+ 
+ 
+--- PAGE 106 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+84 
+Sub-Strand 6: Vocabulary 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.6.1: Understand 
+word meanings and 
+usage 
+B3.2.6.1.1. Read level-appropriate sight words, understand and use them 
+in meaningful complex sentences 
+ Provide learners with texts containing level-appropriate sight words.  
+ Put them into groups to identify, read and use sight words in meaningful 
+sentences.  
+ 
+B3.2.6.1.2. Use knowledge of prefixes and suffixes to interpret unfamiliar 
+words 
+ 
+B3.2.6.1.3. Understand and use many of the frequently occurring words 
+and chunks in the language, including both content words (nouns, verbs, 
+adjectives and adverbs) and function words ( prepositions, articles) 
+ Revise learners RPK by asking them to use some sight words learnt in earlier 
+lessons.   
+ Introduce new words and have learners form sentences with them as you 
+guide them with simple ways to find contextual meanings of words. 
+ You may introduce game activities e.g. Lucky Dip to provide practice in 
+identification and use of sight words. 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+Personal development and leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 107 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+85 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.6.1: Understand 
+word meanings and 
+usage  
+CONT’D 
+B3.2.6.1.4. Use dictionaries, glossaries and internet to clarify word 
+meanings 
+ Introduce learners to the dictionary and glossaries. 
+ Have learners find the dictionary meaning to key words in a comprehension 
+passage. 
+ Have learners make or build their own glossaries on the words learnt. 
+ In groups, let learners practise finding key words and building their own 
+word albums/dictionaries/glossaries. 
+Personal Development and 
+Leadership 
+ 
+Sub-Strand 7: Comprehension 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.7.1: Understand and 
+analyse texts read 
+ 
+B3.2.7.1.1. Use self-correction strategies to make meaning when reading 
+texts 
+ Engage learners on before reading activities, e.g. review of background 
+knowledge, discussion of title and accompanying pictures). 
+ Model reading the text aloud and have learners echo-read the text (if 
+necessary). 
+ Read out words and sentences for learners to identify in the text. 
+ Let learners read aloud in groups and pairs and answer questions. 
+Personal Development and 
+Leadership 
+ 
+ 
+Reading 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 108 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+86 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.7.1: Understand and 
+analyse texts read 
+CONT’D 
+B3.2.7.1.2. Ask and answer factual, inferential and vocabulary questions 
+about level-appropriate texts 
+ Have learners brainstorm on the topic on which they will answer questions. 
+ Ask learners to read and answer simple pre-reading questions as you guide 
+them. 
+ Guide learners to ask and answer factual, inferential and vocabulary 
+questions on the passage read. 
+ 
+B3.2.7.1.3. Retell level-appropriate text in own, explain and illustrate 
+ 
+ Ask a few questions to review the text/story to be retold. 
+ Have learners narrate or retell the story passage using the herring bone or 
+story map strategy. The narration should be sequential to make the story 
+understood. 
+ 
+Personal Development and 
+Leadership 
+ 
+ 
+Reading 
+ 
+Communication and Collaboration 
+ 
+--- PAGE 109 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+87 
+ 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.7.2: Use knowledge, 
+skills and techniques of 
+reading to understand, 
+interpret and appreciate 
+a variety of literary texts 
+B3.2.7.2.1. Demonstrate understanding of the purpose and features of 
+poems or rhymes and fables, etc 
+ Introduce the lesson with before reading activities, singing, reciting, 
+prediction, etc. 
+ Have learners read a text and identify its purpose and features. Guide them 
+with questions to do this. 
+ Let learners transfer the same ideas to other types of texts. 
+ Use think-pair-share to have learners compare ideas. 
+ 
+B3.2.7.2.2. Respond to stories with own opinion and value judgment 
+ Have learners give their personal opinions and judgment  to stories (events, 
+setting, characters and their actions) read or heard. 
+ 
+B3.2.7.2.3. Use visualisation strategy (form mental images when reading 
+text) to enhance understanding of level-appropriate texts 
+ Have learners play simple mental or guessing games like Bingo and matching 
+games. 
+ Guide learners to form mental images as they read a text, to help them 
+make meaning from the text. 
+ 
+B3.2.7.2.4. Read level-appropriate texts independently 
+ Provide learners with level-appropriate texts and encourage them to read 
+independently. 
+ Let learners may be provided with pre-reading questions to enable them 
+focus. 
+Personal Development and 
+Leadership 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+--- PAGE 110 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+88 
+ 
+Strand 2: Reading 
+Sub-Strand 9: Fluency 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.2.9.1: Read texts 
+fluently 
+B3.2.9.1.1. Read long texts with good pace, accuracy and expression 
+ Engage learners in pre-reading and demonstrate/model reading aloud with 
+fluency, accuracy and expression. 
+ Have learners practise in pairs and groups.  
+ 
+Note: Learners must read at their own pace. 
+ 
+B3.2.9.1.2. Recognise more than two hundred high frequency words with 
+automaticity 
+ Revise the knowledge of sight words through games. 
+ Have learners identify sight words in texts using games such as Fishing and 
+Lucky Dip. 
+ Let learners use the sight words to construct meaningful sentences. 
+ 
+B3.2.9.1.3. Use self-correction strategy to make meaning from texts 
+(repeated) 
+ Have learners use self-correction strategy as they pronounce words in a 
+read aloud lesson.   
+ Check for intonation and pace as they read to make meaning. 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+Personal development and leadership 
+ 
+--- PAGE 111 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+89 
+Strand 4: Writing 
+Sub-Strand 2: Penmanship/Handwriting 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.2.1: Copy and write 
+sentences correctly 
+ 
+B3.4.2.1.1. Copy short paragraphs clearly 
+ Model copying a short paragraph on the board drawing attention to features 
+such as clarity, spacing and alignment of letters. 
+ Let learners practise copying a short paragraph legibly and correctly on the 
+board. 
+ Have learners copy short paragraphs from a book into their exercise books. 
+Communication and Collaboration 
+ 
+Sub-Strand 3: Writing /Copying Letters – Small and Capital 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.3.1: Use general 
+skills, strategies and 
+knowledge of letter-
+sounds to write legibly 
+and boldly 
+B3.4.3.1.1. Use letter-sound relationships to represent most letters in 
+words correctly 
+ Let learners play the alphabet sound game. 
+ Dictate words and simple sentences for learners to write. 
+ 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 112 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+90 
+Sub-Strand 4: Labelling items 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.4.4.1: Draw and label 
+simple pictures 
+B3.4.4.1.1. Make a list of objects found in the environment 
+ Lead the class to make a list of objects found in a given thematic area. 
+e.g. The Bus Stop. 
+ Let groups and pairs make similar lists from self-chosen or given areas. 
+They may use invented spelling initially. 
+ Guide learners to edit and self-correct the errors before presenting their 
+work to the class. They may use children’s pictures, dictionaries and 
+other sources. 
+Communication and Collaboration 
+ 
+Self-Development 
+ 
+ 
+ 
+ 
+Sub-Strand 5: Writing Simple Words and Sentences 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.5.1: Write 
+accurately using 
+acquired vocabulary and  
+knowledge of grammar 
+B3.4.5.1.1. Write simple sentences to express personal opinions about 
+favourite characters in texts  
+ Put learners in groups to discuss characters in a story read. 
+ Have learners write simple sentences to express personal opinions on 
+favourite characters. 
+ Let learners exchange their books and do peer editing by checking for: 
+i. correct spelling of words, 
+ii. correct writing of capitals, 
+iii. correct writing of small letters, 
+iv. correct spacing of letters and words. 
+ 
+B3.4.5.1.2. Write simple meaningful sentences to express feelings and 
+opinions about people and things 
+ Guide learners, with examples, to write simple sentences to express their 
+feelings and opinions about their peers and things found in the environment. 
+ Have the groups edit their work and publish them. 
+Critical Thinking 
+ 
+Communication and Collaboration 
+ 
+Taking Turns 
+ 
+ 
+ 
+Critical Thinking 
+ 
+Communication and Collaboration 
+ 
+Taking Turns 
+ 
+--- PAGE 113 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+91 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.5.1: Write 
+accurately using word 
+recognition and  
+knowledge of grammar 
+and vocabulary 
+CONT’D 
+B3.4.5.1.3. Draw pictures and write, at least, three sentences to share an 
+opinion 
+ Show the images/‘smileys’ on a mobile phone. 
+ Working in groups, let learners use the computer to search for these 
+smiley/images. (The ICT teacher can guide learners by showing the 
+appropriate icon to help them explore these). 
+ Have learners draw their own pictures and write sentences to explain them.  
+e.g. a drawing showing fruits can have a sentence such as “Eat fruits every 
+day; Fruits have vitamin C; Fruits protect your body.”  
+ Guide learners to do self and peer editing (The products can be tra nsferred 
+on to a manila card and posted on the walls in the classroom) to be 
+appreciated and critiqued. 
+  
+B3.4.5.1.4. Copy various sentences, verses and words of songs legibly 
+(writing should be bold and clear) 
+ Explain the writing activity selected, stressing the need for accuracy, clarity, 
+etc. 
+ As learners observe, demonstrate it. 
+ Assign them to do the exercise. They may copy from the board and books. 
+ Provide feedback after assessing learners’ work. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 114 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+92 
+Sub-Strand 8: Guided Composition 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.8.1: Compose short 
+paragraphs through 
+answering questions 
+ 
+ 
+ 
+ 
+B3.4.8.1.1. Develop two coherent paragraphs on one idea or concept 
+using leading questions 
+ Have learners brainstorm to choose a topic, e. g. My home 
+ Write the topic on the board. 
+ Ask questions for learners to generate ideas on the topic 
+ Discuss the questions with learners for them to answer  appropriately 
+ 
+e.g. My home 
+i. Where do you live?  
+ii. How many of you live there? 
+iii. What kind of buildings are there? 
+Communication and Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-Strand 9: Writing as a Process 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.4.9.1: Apply the skills 
+and strategies for idea 
+generation, selection, 
+development, 
+organization and 
+revision in writing 
+B3.4.9.1.1. Select a topic on familiar themes (e.g. Myself), brainstorm 
+and organise before writing 
+Take learners through the writing process: 
+Pre-writing stage 
+ Consider composition writing as a process. That is, it should be done in 
+stages.  
+ Take learners through stages such as preparation, writing, editing and 
+publishing. 
+ Assist learners to prepare for writing by discussing the topic to write on, 
+e.g. My school. 
+ In groups, let learners discuss their ideas.  
+ Use learner strategies such as brainstorming to help learners generate 
+ideas appropriate to the topic.  
+Communication and Collaboration 
+Self-Development 
+--- PAGE 115 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+93 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.4.9.2: Develop and 
+express ideas coherently 
+and cohesively in writing 
+B3.4.9.2.1.Write ideas on a topic in simple sentences 
+Writing stage 
+ Have learners write their first draft in groups. 
+ Let learners write their ideas as they appear, without taking particular 
+note of corrections or editing. 
+ Let learners add on new ideas that occur to them as they write. 
+B3.4.9.3.1. Review and revise the draft, adding to or taking out ideas 
+ In groups, have learners revise their writing paying attention to little 
+details. 
+ Have learners use these questions as a revision guide: 
+i. Is my topic interesting? 
+ii. Does the beginning catch the reader’s attention? 
+iii. Are the ideas easy to understand? 
+iv. Are all the sentences saying something about the topic? 
+ Encourage learners to make as many changes as necessary to improve their 
+work. 
+B3.4.9.3.2. Proofread draft to correct punctuation and spelling errors 
+ Have learners proofread the revised draft of their writing for errors relating to 
+the conventions of punctuation, capitalization, spelling, etc. 
+  Have learners check their editing through CUPS: 
+C- Capitalisation 
+U- language Usage 
+P- Punctuation 
+S- Spelling 
+ Let learners do peer editing: learners check their partners’ writing for 
+punctuation and spelling errors. 
+ Have learners write a neat final copy and read it once again to  
+      check for errors. 
+Communication and Collaboration 
+Self-Development 
+Communication and Collaboration 
+Self-Development 
+--- PAGE 116 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+94 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.4.9.3: Apply 
+strategies for improving 
+drafts for publishing  
+ 
+ 
+B3.4.9.3.3. Read aloud own writing to a group or whole class 
+ Have learners publish their work by showing it to others in small groups 
+or in pairs or posting it on the class or school notice board for others to 
+view. 
+Communication and Collaboration 
+Self-Development 
+ 
+Sub-Strand 10: Narrative Writing 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.4.10.1: Narrate 
+situations, express 
+feelings and convey 
+point of view about the 
+world/fictional world 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B3.4.10.1.1. Add more details of a story structure to narrative stories, 
+for example setting, characters, problem and resolution of the problem 
+ Read a short narrative story to learners; concentrate on the setting and 
+the characters. 
+ Let learners narrate their experiences. 
+ Assist learners to pick a topic. 
+e. g. 
+The traffic light. 
+  Let learners write on the topic, narrating their experience. 
+E.g. On my way to school, I crossed the road. 
+       I looked left, right and left again. 
+       There was no vehicle coming. 
+       Then I walked quickly across the road. 
+ 
+Communication and Collaboration 
+Self-Development 
+ 
+ 
+--- PAGE 117 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+95 
+Content Standards Indicators and Exemplars Subject Specific Practices 
+and Core Competencies 
+B3.4.10.1: Narrate 
+situations, express 
+feelings and convey 
+point of view about 
+the world/fictional 
+world 
+CONT’D 
+B B3.4.10.1.2. Engage and orient the reader by establishing a context and 
+introducing a narrative 
+ Narrate a story stressing the setting and the characters for learners to listen. 
+ Let learners re-tell the story. They may do so in a chain, 
+Let learners create and write their own stories. 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+Sub-Strand 12: Descriptive Writing 
+Content Standards Indicators and Exemplars Subject Specific Practices 
+and Core Competencies 
+B3.4.12.1: 
+Demonstrate 
+knowledge of 
+description of 
+writing 
+B3.4.12.1.1. Describe places in a coherent paragraph 
+ Have learners recall periods, times or moments that they had been happy or sad. 
+ Discuss personal experiences with learners. 
+ Guide them to state categorically some personal experiences they have encountered in 
+their lives. 
+ Have learners share their experiences using simple descriptive words. 
+ Discuss lessons learnt from the experiences shared. 
+ Have learners write experiences shared logically and sequentially. 
+e.g. about interesting places they have visited. 
+Communication and 
+Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 118 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+96 
+Sub-Strand 13: Persuasive/Argumentative Writing 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.13.1: Support an 
+opinion in writing 
+B3.3.13.1.1. Write a short paragraph to support an opinion or claims 
+with clear reasons 
+ Choose a simple topic for an argument. 
+e.g. Which food is better; rice or fufu? (It could be any food, depending on 
+learners’ background.) 
+ Let learners choose one of the meals and give reasons why they think it is 
+better. 
+  Put the class into two to argue on the topic. 
+Communication and Collaboration 
+ 
+Sub-Strand 14: Informative/ Academic Writing 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.4.14.1: Write on the 
+events of the day 
+ 
+ 
+B3.4.14.1.1. Write picture events using simple sentences 
+ Using dictionaries and modelling, guide learners to give information on events of 
+the day to their partners, class /groups/partners. 
+ Have learners represent this in the form of a picture. 
+ Have learners write simple sentences to accompany the pictures. 
+ Have learners share their work with the class. 
+Note: (Give room for positive appreciation). 
+B3.4.14.1.2. Make a radio/TV presentations/performances 
+ Let Learners rehearse presenting information on radio or TV. 
+ Have learners generate ideas, plan and present them in groups as done on radio.  
+ Assign groups to present their ideas to the whole class. 
+ Plan for a live presentation/performance. 
+Communication and Collaboration 
+Self-Development 
+--- PAGE 119 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+97 
+Strand 5: Using Writing Conventions/Grammar Usage 
+ Sub-Strand 1: Using Capitalisation  
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.1.1: Apply 
+knowledge of 
+capitalisation in writing 
+B3.5.1.1.1. Use capital letters to write initials and abbreviations 
+ Introduce initials and abbreviations in context.  
+ Provide learners with sentences or texts containing initials and 
+abbreviations for them to identify. 
+e. g. 
+WHO – World Health Organisation; 
+K. S. Manu – Kofi Sakyi Manu 
+ Give texts having full names of people and organisations. 
+ Ask learners to rewrite the text and replace the full names of 
+people and organisations with initials and abbreviations. 
+ 
+B3.5.1.1.2. Demonstrate the ability to capitalise titles of texts 
+ Provide sample varied stories and passages whose titles or headings have 
+capital letters at the beginning of content words, e.g. “Ananse and the 
+Wisdom Pot". 
+ Put learners into groups to study the titles/headings and discover the use 
+of capital letters in context. 
+ Have groups present their observations. 
+ Give learners titles/headings of stories or texts in lower case for them to 
+re-write using capital letters at the beginning of content words. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 120 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+98 
+Sub-Strand 2: Using Punctuation 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.5.2.1: Apply 
+knowledge of the use of 
+punctuation in 
+communication 
+B3.5.2.1.1. Use full stops in initials and abbreviations 
+ Revise the use of the full stop (.). 
+ Provide a short passage of about four sentences. 
+ Pair learners place a full stop at the end of each sentence. 
+ Introduce full stops in initials and abbreviations.  
+e.g. Mr.  Badu - Mister Badu, 
+ A. O. Boateng – Adom Opoku Boateng 
+ Provide opportunities for learners to practise using full stops in initials of 
+their names, and abbreviations. 
+ 
+B3.5.2.1.2. Use commas appropriately to list items 
+ Help learners to separate items in a list, using commas,  
+e.g. My friend has a pen, pencil, eraser and a book. 
+ 
+B3.5.2.1.3. Identify and use the apostrophe to show possession 
+ Introduce the apostrophe showing possession in context. 
+e.g.  Kofi's mother has travelled. 
+ 
+Communication and Collaboration 
+ 
+Self-Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 121 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+99 
+Sub-Strand 4: Using Action Words 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.4.1: Apply 
+knowledge of action 
+words in communication 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B3.5.4.1.3 
+ 
+B3.5.4.1.1. Identify the present continuous form of action words in spoken 
+and written communication 
+ Through demonstration, assist learners to use the continuous form of the 
+action words such as running, eating and sitting. Provide sentences and let 
+learners identify the continuous form of the action words:  
+e.g. Adongo is running with the ball. 
+ 
+B3.5.4.1.2. Use the present continuous form of verbs to describe actions 
+taking place at the time of speaking 
+ Through examples, assist learners to use the continuous forms of action 
+words in sentences.  
+e.g. 
+Aba is singing. They are jumping. 
+ Present action pictures for learners to write simple sentences about the 
+actions taking place. 
+ 
+B3.5.4.1.3 Use simple past and the past continuous forms of verbs to 
+express past actions 
+ Revise the use of the present simple and present continuous tenses. 
+ Introduce the new form, one at a time, using examples and situations. 
+ Provide examples for practice through drills and creation of situations. 
+ 
+Communication and Collaboration 
+ 
+--- PAGE 122 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+100 
+Sub-Strand 5: Using Qualifying Words –Adjectives 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.5.1:Apply 
+knowledge of adjectives 
+in communication 
+B3.5.5.1.1. Identify and use adjectives in short sentences to describe 
+height, length, etc 
+ Provide sentences with simple adjectives for learners to identify,  
+e.g. I saw a tall tree. 
+ Put learners in groups to use the adjectives identified in simple sentences. 
+Communication Collaboration 
+ 
+Leadership Skills 
+ 
+Sub-Strand 6: Using Qualifying Words – Adverbs 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.6.1: Show 
+understanding of adverbs 
+in communication 
+B3.5.6.1.1. Identify qualifying words 
+ Provide sentences with simple adverbs for learners to identify. 
+e.g.  
+i. He walked quickly to the church. 
+ii. She danced beautifully. 
+ Elicit other adverbs and provide practice. 
+ 
+B3.5.6.1.2. Use adverbs correctly to express time, frequency, etc. 
+ Guide learners with examples and situations to use adverbs of time and 
+frequency. 
+ 
+Communication Collaboration 
+ 
+ 
+--- PAGE 123 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+101 
+Sub-Strand 7: Using Simple Prepositions 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.7.1: Apply the 
+knowledge of simple 
+prepositions in oral and 
+written communication 
+B3.5.7.1.1. Identify prepositions in sentences to indicate directions and 
+means, e.g. by bus 
+ Provide sample sentences.  
+e.g. 
+means -We are going home by bus. 
+direction - The monkey is climbing up the tree. 
+ Guide learners to discover the meaning of the sentences. 
+ Draw learners’ attention to the words as prepositions. 
+ Have learners complete sentences with given prepositions that indicate 
+means and direction.  
+e.g. Mr. Badu is travelling ________ train.  
+Communication Collaboration 
+ 
+Sub-Strand 9: Using Simple and Compound Sentences 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.9.1: Demonstrate 
+understanding of 
+compound sentences in 
+writing 
+B3.5.9.1.1. Identify  and use coordinating conjunctions to join similar ideas 
+or contrasting ideas in sentences 
+ Demonstrate the structure of a compound sentence by joining simple 
+sentences with and.   
+e.g. 
+simple sentences Conjunction compound sentence 
+The boy woke up. 
+The boy prayed. 
+ 
+ 
+And 
+The boy woke up and 
+prayed. 
+ 
+ Have learners identify the coordinating conjunction in the sentence. 
+ Put learners in groups to form simple sentences. 
+ Have groups join the simple sentences with and  and  but. 
+Communication Collaboration 
+Personal Development and 
+Leadership 
+--- PAGE 124 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+102 
+Sub-Strand 10: Spelling 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.5.10.1: Use phonics 
+knowledge to spell words  
+B3.5.10.1.1. Spell phonically  irregular words correctly 
+ 
+ Have learners play the Pick and Spell game to spell phonically irregular words.  
+e. g. enough, answer, because, bought. 
+ Dictate the words for learners to spell. 
+ Have learners use these words in oral and written sentences.  
+ Provide sentences with blank spaces for learners to fill in the blanks using 
+the words they have learnt to spell. 
+ 
+e.g. bought, answer, because, enough etc. 
+ii. I drink ------- water. 
+iii. Your ................. is wrong. 
+iv. I miss the class ..................... I was late. 
+v. My father ................... chocolate. 
+Communication and Collaboration 
+ 
+Critical Thinking 
+Strand 6: Extensive Reading 
+Sub-Strand 1: Building the Love and Culture of Reading 
+CONTENT 
+STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B3.6.1.1: Read widely for 
+pleasure and 
+demonstrate 
+independent reading and 
+learning in the literary 
+area 
+B3.6.1.1.1. Read a variety of age and level-appropriate books and 
+summarise them 
+ Using the Author’s chair, introduce the reading/library time.  
+ Have a variety of age/level-appropriate books for learners to make a choice 
+from. 
+ Introduce narratives, expository, procedural texts to learners. 
+ Guide learners to select books for readings 
+Personal Development and 
+Leadership 
+--- PAGE 125 ---
+ 
+© NaCCA, Ministry of Education 2019 
+ 
+103 
+ENGLISH LANGUAGE SUBJECT PANEL MEMBERS AND REVIEWERS   
+ 
+ 
+ 
+ 
+SN NAME ADDRESS/INSTITUTION 
+1 Dr. Rev. Philip Gborsong (Lead) Department of English, UCC 
+2 Genevieve Mensah NaCCA 
+3.  Collins Amoako Classroom Practitioner 
+4 AmaNarko Marfo Early childhood Dep’t, UCC 
+5 Freda Quao  Accra College of Education 
+6 Joana Vanderpuije NaCCA 
+7 Faustina Cobson Classroom Practitioner 
+8 Comfort Dorvlo Accra College of Education 
+9 Thomas Ntumy Retired, Accra College of Education 
+10 Alfred Quaittoo Kaneshie Snr.High School 
+REVIEWERS 
+12 Mr. Simon Tsadidey Retired Educationist 
+13 Daniel Hammond Centre for Reading And Research, Ghana 
+CURRICULUM ADVISOR 
+14 Dr. Sam Awuku OPM (Oxford Policy Management) 
+SUPERVISORS 
+15 Felicia Boakye-Yiadom (Mrs) NaCCA, Outgoing Acting Executive Secretary   
+16 Dr. Prince H. Armah NaCCA, Incoming Acting Executive Secretary   

@@ -1,0 +1,8 @@
+# Python tooling for the curriculum pipeline.
+# Python 3.9+
+
+# Required by tools/build_*_word_document.py and tools/generate_schemes.py
+python-docx>=1.1.0
+
+# Required by the extraction/audit scripts (audit_b_pdf_crosscheck.py, parse_*.py)
+pypdf>=4.0.0

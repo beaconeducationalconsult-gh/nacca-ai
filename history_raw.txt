@@ -1,0 +1,2987 @@
+
+
+--- PAGE 1 ---
+ 
+ 
+ 
+© NaCCA, Ministry of Education 2019 
+MINISTRY OF EDUCATION 
+ 
+ 
+REPUBLIC OF GHANA 
+HISTORY OF GHANA  
+CURRICULUM FOR PRIMARY SCHOOLS 
+(BASIC 1 - 6) 
+SEPTEMBER 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 2 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  ii 
+History of Ghana Curriculum for Primary Schools 
+ 
+ 
+ 
+ 
+Enquiries and comments on this Curriculum should be addressed to: 
+The Executive Secretary 
+National Council for Curriculum and Assessment (NaCCA) 
+Ministry of Education 
+P. O. Box CT PM 77 
+Cantonments 
+Accra 
+Telephone: 0302909071, 0302909862 
+Email:        info@nacca.gov.gh  
+Website:   www.nacca.gov.gh  
+ 
+ 
+ 
+
+--- PAGE 3 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  i 
+FOREWORD 
+The new curriculum for Ghana’s primary schools is standards -based, which is our demonstration of placing learning at the heart of every classroom and ensuring that every learner 
+receives quality education. Provision of accessible quality education for all is non -negotiable if we are to meet the human capital needs of our country, required for accelerated sustainable 
+national development. It is for this reason that the new curriculum sets out clearly the learning areas that need to be taught, how they should be taught and how they should be assessed. It 
+provides a set of core competencies and standards that learners are to know, understand and demonstrate as they progress thro ugh the curriculum from o ne content standard to the 
+other and from one phase to the next. The curriculum and its related teachers’ manual promote the use of inclusive and gender  responsive pedagogy within the context of learning -
+centred teaching methods so that every learner can p articipate in every learning process and enjoy learning. The curriculum encourages the use of Information and Communication 
+Technologies (ICTs) for teaching and learning – ICTs as teaching and learning materials. 
+ 
+The new curriculum has at its heart the ac quisition of skills in the 4Rs of Reading, wRiting, aRithmetic and cReativity by all learners. It is expected that at any poi nt of exit from a formal 
+education, all learners should be equipped with these foundational skills for life, which are also prerequ isites for Ghana becoming a learning nation. The graduates from the school system 
+should become functional citizens in the 4Rs and lifelong learners. They should be digital literates, critical thinkers and p roblem solvers. The education they receive throug h the study of 
+the learning areas in the curriculum should enable them to collaborate and communicate well with others and be innovative. Th e graduates from Ghana’s schools should be leaders with a 
+high sense of national and global identity. The curriculum  therefore provides a good opportunity in its design to develop individuals with the right skills and attitudes to lead the 
+transformation of Ghana into an industrialised learning nation.  
+ 
+For this reason, the Ministry of Education expects that learners, as a result of the new knowledge, skills and values they have acquired through the new curriculum, will show a new sense 
+of identity as creative, honest and responsible citizens. These are our core values that underpin the identification and sele ction of the learning areas for this curriculum.  These core values 
+serve as fundamental building blocks for developing into our learners the spirit of teamwork, respect, resilience and the com mitment to achieving excellence.  The Ministry endorses a 
+quality learning experience as an entitlement for each of Ghana’s school -going girl and boy; the curriculum has rightly focused on learning and learning progression. The Ministry has also 
+endorsed accountability as a critical domain for effective workings of standards-based curriculum. 
+ 
+More importantly the role of the teacher is to make this curriculum work for the intended purpose - to inculcate in learners the core competencies and values and to make learning 
+happen; improve learning outcomes – and the support that teachers need is duly recognised and endorsed by my Ministry. The Ministry will support the implementation of the curriculum 
+to include capacity development of all teachers in the new curriculum. Teachers matter in the development and delivery of the  standards-based curriculum and we will continue to support 
+our teachers on this journey that we have started together to put learning at the centre of what we do best; teach! 
+ 
+I thank all those who have contributed their time and expertise to the development of this curriculum for primary schools in Ghana. 
+ 
+ 
+Dr. Matthew Opoku Prempeh (MP) 
+The Honourable Minister of Education 
+ 
+ 
+
+--- PAGE 4 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  ii 
+TABLE OF CONTENTS 
+ 
+FOREWORD................................................................................................................................................................................ Error! Bookmark not defined. 
+RATIONALE .............................................................................................................................................................................................................................................. iv 
+PHILOSOPHY ........................................................................................................................................................................................................................................... iv 
+CORE COMPETENCIES ....................................................................................................................................................................................................................... vii 
+VALUES:..................................................................................................................................................................................................................................................... xii 
+INFORMATION AND COMMUNICATIONS TECHNOLOGY ............................................................................................................................................. xvii 
+ORGANISATION OF THE CURRICULUM ................................................................................................................................................................................. xviii 
+SCOPE AND SEQUENCE ................................................................................................................................................................................................................... xx 
+BASIC 1 ....................................................................................................................................................................................................1 
+HISTORY AS A SUBJECT ....................................................................................................................................................................................................................... 2 
+MY COUNTRY GHANA ........................................................................................................................................................................................................................ 4 
+EUROPEANS IN GHANA ...................................................................................................................................................................................................................... 7 
+INDEPENDENT GHANA ....................................................................................................................................................................................................................... 8 
+BASIC 2 ................................................................................................................................................................................................. 10 
+MY COUNTRY GHANA ..................................................................................................................................................................................................................... 10 
+THE PEOPLE OF GHANA .................................................................................................................................................................................................................. 10 
+MY COUNTRY GHANA ..................................................................................................................................................................................................................... 11 
+EUROPEANS IN GHANA ................................................................................................................................................................................................................... 13 
+ 
+ 
+
+--- PAGE 5 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  iii 
+BASIC 3 ................................................................................................................................................................................................. 15 
+MY COUNTRY GHANA ..................................................................................................................................................................................................................... 15 
+EUROPEANS IN GHANA ................................................................................................................................................................................................................... 19 
+BASIC 4 ................................................................................................................................................................................................. 21 
+HISTORY AS A SUBJECT .................................................................................................................................................................................................................... 21 
+MY COUNTRY GHANA ..................................................................................................................................................................................................................... 22 
+EUROPEANS IN GHANA ................................................................................................................................................................................................................... 25 
+COLONISATION AND DEVELOPMENTS UNDER COLONIAL RULE IN GHANA ........................................................................................................ 26 
+INDEPENDENT GHANA .................................................................................................................................................................................................................... 28 
+BASIC 5 ................................................................................................................................................................................................. 30 
+MY COUNTRY GHANA ..................................................................................................................................................................................................................... 30 
+EUROPEANS IN GHANA ................................................................................................................................................................................................................... 32 
+COLONISATION AND DEVELOPMENTS UNDER COLONIAL RULE IN GHANA ........................................................................................................ 33 
+JOURNEY TO INDEPENDENCE ...................................................................................................................................................................................................... 35 
+BASIC 6 ................................................................................................................................................................................................. 40 
+EUROPEANS IN GHANA ................................................................................................................................................................................................................... 40 
+COLONISATION AND DEVELOPMENTS UNDER COLONIAL RULE IN GHANA ........................................................................................................ 41 
+JOURNEY TO INDEPENDENCE ...................................................................................................................................................................................................... 42 
+INDEPENDENT GHANA .................................................................................................................................................................................................................... 44 
+ 
+
+--- PAGE 6 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  iv 
+RATIONALE 
+History is a subject that explores the past with the aim of understan ding the factors that have shaped our world. History deals with important past activities of a people so that we 
+understand how we acquired our identity and culture. As an academic discipline, history helps to develop the imaginative abil ities and critical  thinking skills of learners because it 
+teaches learners to analyse, evaluate and interpret past events carefully in order to make informed decisions. The study of h istory also teaches important moral lessons and provides 
+clear guidelines for everyday life and interactions of people in the society. 
+As Ghanaian people, there is less understanding among us about important historical developments and events such as the evolu tion of the different ethnic groups in the country and 
+their social and economic institutions; the development of state systems; their contact with the outside world and economic, social and political consequence s of that contact, such as 
+the loss of political independence, the recovery of sovereignty and the emergence of the modern state of  Ghana. Furthermore, there is the need to appreciate t he value of our own 
+culture. As learners study Ghana’s history, they would appreciate the life and sacrifices of our forebears and learn about the interconnectedness among the various ethnic groups to 
+promote national integration, develop national pride and identity.  Learners would learn about statesmen and women, chiefs and other individuals who played various roles to promote 
+Ghana’s development. In essence, the youth would consequently become patriot ic, learn moral lessons, appreciate traditional Ghanaian values, and become useful national and global 
+citizens. 
+PHILOSOPHY 
+The study of history helps people and societies to know their past, their culture and values which together are the essential  elements for promoting nationalism, guaranteeing the 
+survival of society and humanity in general. It is therefore not possible for any group of people to determine, reveal and es tablish values, ideals, goals, principles and norms for a society 
+without reference to historical knowledge. The understanding of this underpins the learning and teaching philosophies envisaged for this curriculum. 
+ 
+Teaching Philosophy 
+ 
+The philosophy of learning history is based on the need to produce citizens who are able to reconstruct  the past by describing, analysing and evaluating past events. Learners should 
+critically trace patterns of human behaviour and communicate their views on how the past could influence the present from an informed position. In essence, learners would 
+understand that present events have historical antecedents and parallels from which useful lessons could be drawn. Through the learning of history, learners would, specifically, acquire: 
+a. critical thinking skills by comparing, contrasting, evaluating, synthesizing, and applying historical information or knowledge with little or no supervision; 
+b. creative thinking skills to be able to reconstruct important past events confidently; 
+c. digital literacy by using IT tools and resources efficiently for investigations and project work; 
+d. effective communication skills to be able to share information at varied levels of interaction; and 
+e. values to live as global citizens as they learn about other people and cultures of the world 
+ 
+
+--- PAGE 7 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  v 
+ 
+ 
+ 
+Learning Philosophy 
+ 
+The history classroom shoul d be learning -centred, where the teacher introduces the topic for the day and assists learners to describe and analyse issues raised, trace  patterns of 
+societal and human behaviour and where necessary, give their views on current events (in the country) ba sed on their knowledge of the history of Ghana. The class will be encouraged 
+to explore topics through  questioning. The history of Ghana curriculum is underpinned by seven historical concepts and classroom activities. The teache r should emphasise these 
+important concepts in the day to day learning episodes as they are aimed to promote higher order thinking among learners. These concepts are: 
+a. context and chronology; 
+b. significance; 
+c. cause and consequence; 
+d. continuity and change;, 
+e. similarity and difference,; 
+f. evidence; and 
+g. interpretation. 
+ 
+Therefore, through the teaching and learning of History, learners are to: 
+a. appreciate the history of themselves, their families and communities; 
+b. acquire the skill of gathering and objectively analysing historical data, using scien tific methods, that will enable them interpret past actions and behaviours of the people of 
+Ghana from a Ghanaian perspective; 
+c. acquire more knowledge on the history of the people of Ghana; 
+d. apply historical concepts to the study of the history of Ghana; 
+e. develop a discerning approach to studying sources of historical evidence; 
+f. develop a sense of national consciousness and appreciate the factors that make for national unity; 
+g. acquire positive habits and attitudes, national identity as a Ghanaian and an African with a heritage worthy of pride, preservation and improvement; and 
+h. appreciate the relevance of the study of history in current and future development efforts of the nation. 
+ 
+ 
+
+--- PAGE 8 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  vi 
+GENERAL AIM 
+The curriculum is aimed at developing individuals to become literate , good problem solvers, with the ability to think creatively and have both the confidence and competence 
+to participate fully in the Ghanaian society as responsible local and global citizens. 
+ 
+SUBJECT AIMS 
+The National Curriculum for the history of Ghana aims to ensure that learners can: 
+1. trace Ghana’s origins and its past glories; 
+2. develop the critical skills of historical enquiry using scientific methods and participate as active, informed and responsible citizens; 
+3. develop a critical understanding of the past and its impact on the present to help them face the future with confidence; 
+4. explain how external factors have shaped the history of Ghana; 
+5. gain a sense of national consciousness, identity and appreciation of Ghanaian values in order to help instil values such as tolerance, good citizenship and national pride; 
+6. study history of Ghana in an enjoyable and stimulating environment; and. 
+7. make use of historical facts to acquire analytical skills, compare different periods and give their own structured account of past events 
+ 
+INSTRUCTIONAL EXPECTATIONS 
+The goal of introducing History of Ghana as a subject in the primary school is to effect positive change in values and attitu des of learners. It focuses on past events that have shaped 
+our society. This can be achie ved through well-planned lessons which involve learners in the learning process. This would let them yearn to know more and adopt skills which  will be 
+essential for them to function in the society. The enquiry approach of teaching is therefore encouraged i n the history classroom. The learner should be guided to make enquiries from 
+available sources of historical evidence. Historical evidence can come from primary sources and secondary sources. 
+Primary sources originate from the past. Essentially, primary so urces are closer to the events in time and space. Examples could include pottery, wall paintings, carvings, coins, 
+letters, newspapers, diaries, court records and verbal accounts from people who witnessed an event, archival documents and archaeological findings. 
+ 
+Secondary sources relate to accounts about past events produced based on the interpretation of primary sources. E.g. books, journals, books, articles etc. 
+ 
+ Plan lessons to meet the interests, knowledge, understanding, abilities, and experiences of learners. 
+ Design and manage learning environments that provide learners with the time, space, and resources needed for learning History of Ghana. 
+ Generate discourse among learners and challenge them to accept and share responsibility for their own learning based on their unique individual differences. 
+ Use multiple methods and systematically gather data about learner understanding and ability to guide teaching and learning wi th arrangements to provide feedback to both 
+learners and parents. 
+ Collaborate with c olleagues within and across disciplines and grade levels to develop communities of learners who have the skills of inquiry an d exhibit attitudes and social 
+values conducive to learning. 
+
+--- PAGE 9 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  vii 
+The teacher should serve as a facilitator by adopting strategies that involve learners in: 
+1. observing and collecting historical evidence. 
+2. interpreting data as required. 
+3. model building  
+4. developing projects. 
+ 
+The following activities are recommended for the teacher: 
+1. Sessions considering different sources of historical evidence including discussions with people with historical knowledge (resource persons) and visit to historical sites. 
+2. Debates among groups on various topics relating to history. 
+3. Projects using modern technologies to communicate findings clearly and effectively in the form of papers, exhibits/posters, drama and documentaries. 
+ 
+CORE COMPETENCIES 
+Historical Studies describe a body of skills that teachers in history at all levels should seek to develop in their learners. They are wa ys in which practitioners and learners in the history 
+discipline engage with the subject matter as they learn the subject throughout the various phases in their education. The  competencies presented here describe a connected body of 
+core skills that are acquired throughout the processes of teaching and learning. 
+The core competencies describe a body of skills that teachers at all levels should seek to develop in their learners. They are ways in which teache rs and learners engage with the 
+subject matter as they learn the subject. The competencies presented here describe a connected body of core skills that are acquired throughout the processes of teaching and 
+learning. 
+ 
+CRITICAL THINKING AND PROBLEM SOLVING (CP) 
+This skill develops learners’ cognitive and reasoning abilities to enable them analy se and solve problems. Critical thinking and problem-solving skill enables learners to draw on their 
+own experiences to analyse situations and choose the most appropriate out of a number of possible solutions. It requires that  learners embrace the problem at hand, persevere and 
+take responsibility for their own learning. 
+CREATIVITY AND INNOVATION (CI) 
+Creativity and Innovation promotes entrepreneurial  skills in learners’ through their ability to think of new ways of solving problems and developing technolog ies for addressing the 
+problem at hand. It requires ingenuity of ideas, arts, technology and enterprise. Learners having this skill are also able to think independently and creatively. 
+COMMUNICATION AND COLLABORATION (CC) 
+This competence promotes in learne rs the skills to make use of languages, symbols and texts to exchange information about themselves and their life experiences . Learners actively 
+participate in sharing their ideas. They engage in dialogue with others by listening to and learning from them. They also respect and value the views of others.  
+ 
+CULTURAL IDENTITY AND GLOBAL CITIZENSHIP (CG) 
+This competence involves developing learners to put country and service foremost through an understanding of what it means to  be active citizens. This is done  by inculcating in 
+learners a strong sense of social and economic awareness. Learners make use of the knowledge, skills, competencies and attitudes acquired to contribute effectively towards the 
+socioeconomic development of the country and the world at large. Learners build skills to critically identify and analyse cultural and global trends that enable them to contribute to the 
+
+--- PAGE 10 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  viii 
+global community. 
+PERSONAL DEVELOPMENT AND LEADERSHIP (PL) 
+ 
+This competence involves improving self-awareness and building self-esteem. It also entails identifying and developing talents, fulfilling dreams and aspirations. Learners are able to learn 
+from mistakes and failures of the past. They acquire skills to develop other people to meet their needs. It involves recognis ing the importance of values such as honesty and empathy 
+and seeking the well -being of others. Personal development and leadership enables learners to distinguish between right and wrong. The skill helps  them to foster perseverance, 
+resilience and self-confidence.PL helps them acquire the skill of leadership, self-regulation and responsibility necessary for lifelong learning. 
+ 
+DIGITAL LITERACY (DL) 
+Digital Literacy develops learners to discover, acquire, and communicate through ICT to support their learning. It also makes them use digital media responsibly. 
+LEARNING DOMAINS (EXPECTED LEARNING BEHAVIOURS) 
+ 
+A central aspect of this curriculum is the concept of three integral learning domains that should be the basis for instruction and assessment. These are: 
+-  Knowledge, Understanding and Application 
+-  Process Skills 
+-  Attitudes and Values 
+
+--- PAGE 11 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  ix 
+ 
+KNOWLEDGE, UNDERSTANDING AND APPLICATION  
+Under this domain, learners may acquire some knowledge through some learning experiences. They may also show understanding of  concepts by comparing, summarising, re-writing 
+etc. in their own words and constructing meaning from instruction. The learner may also apply the knowledge acquired in some new contexts. At a higher level of learning behaviour, 
+the learner may be required to analyse an  issue or a problem. At a much higher level, the learner may be required to synthesize knowledge by integrating a number of ideas to 
+formulate a plan, solve a problem, compose a story, or a piece of music. Further, the learners may be required to evaluate,  estimate and interpret a concept. At the last level, which is 
+the highest, learners may be required to create, invent, compose, design and construct. These learning behaviours “ knowing”, “understanding”, “applying”, “analysing”, “synthesising”, 
+“evaluating” and “creating” fall under the domain “Knowledge, Understanding and Application”.  
+In this curriculum, learning indicators are stated with action verbs to show what the learner should know and be able to do. For example, the learner will be able to descr ibe 
+something. Being able to “describe” something after teaching and learning has been completed means that the learner has acqui red “knowledge”.  Being able to explain, summarise, and 
+give examples etc. means that the learner has understood the concept taught. 
+Similarly, being able to develop, defend, etc. means that the learner can “apply” the knowledge acquired in some new context.  You will note that each of the indicators in the 
+curriculum contains an “action verb” that describes the behaviour the learner will be able to demonstrate after teaching and learning has taken place.  “Knowledge, Understanding and 
+Application” is a domain that should be the prime focus of teaching and learning in schools.  Teaching in most cases has tended to stress knowledge acquisition to the detriment of 
+other higher-level behaviours such as applying knowledge. 
+Each action verb in any indicator outlines the underlying expected outcome. Each indicator must be read carefully to know the  learning domain towards which you have t o teach. The 
+focus is to move teaching and learning from the didactic acquisition of “knowledge” where there is fact memorisation, heavy r eliance on formulae, remembering facts without critiquing 
+them or relating them to real world – surface learning – to a new position called – deep learning. Learners are expected to deepen their learning by knowledge application to 
+develop critical thinking skills, explain reasoning, and to generate creative ideas to solve real life problems in their scho ol lives and later in their adult lives. This is the position where 
+learning becomes beneficial to the learner.   
+ 
+The explanation and the key words involved in the “Knowledge, Understanding and Application” domain are as follows: 
+Knowing: The ability to remember, recall, identify, define, describe, list, name, match, state principles, facts, concepts.  Knowledge is the ability to 
+remember or recall material already learned and this constitutes the lowest level of learning. 
+ 
+Understanding:      
+ 
+ 
+The ability to explain, su mmarise, translate, rewrite, paraphrase, give examples, generalise, estimate or predict consequences based upon a 
+trend. Understanding is generally the ability to grasp the meaning of some material that may be verbal, pictorial, or symbolic. 
+ 
+Applying:                This dimension is also referred to as “Use of Knowledge”.  Ability to use knowledge or apply knowledge, apply rules, methods, principles,  
+theories, etc. to situations that are new and unfamiliar. It also involves the ability to produce, solve, plan, demonstrate, discover etc 
+ 
+Analysis: 
+ 
+The ability to break down material/information into its component parts; to differentiate, compare, distinguish, outline, sep arate, identify 
+significant points etc., ability to recognise unstated assumptions and logical fallacies; ability to recognise inferences from facts etc. 
+ 
+ 
+
+--- PAGE 12 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  x 
+ 
+  
+ 
+ 
+ 
+ 
+SKILLS AND PROCESSES 
+ 
+These are specific activities or tasks that indicate performance or proficiency in a given learning area. They are useful benchmarks for planning lessons, developing  
+exemplars and are the core of inquiry-based learning. 
+ 
+ 
+ 
+ 
+Synthesising:        
+ 
+The ability to put parts together to form a new whole.  It involves the ability to combine, compile, compose, devise, plan, r evise, organise, 
+create, generate new ideas and solutions etc. 
+ 
+Evaluating:             
+ 
+The ability to appraise, compare features of different things and make comments or judgment, compare, contrast, criticise, ju stify, support, 
+discuss,  
+conclude, make recommendations etc.  Evaluation refers to the ability to judge the worth or value of some material based on some criteria. 
+ 
+Creating:          The ability to use information or materials to plan, compose, produce, manufacture or construct other products. 
+ 
+ 
+From the foregoing, creation is the highest form of thinking and learning skill and is therefore the most important behaviour.  This unfortunately is the are a where most 
+learners perform poorly.  In order to get learners to develop critical thinking and behavioural skills beginning right  from the lower primary level, it is advised that you do 
+your best to help your learners to develop analytic and application skills as we have said already. 
+ 
+
+--- PAGE 13 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+                 
+ 
+ 
+ 
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+           
+ 
+ATTITUDES AND VALUES 
+ 
+To be effective, competent and reflective citizens, who will be willing and capable of solving personal and societal  problems, learners should be exposed to situations that challenge 
+them to raise questions and attempt to solve problems. Learners therefore need to acquire positive attitudes, values and psyc hosocial skills that will enable them participate in debates 
+Observing        
+ 
+This is the skill of using our senses to gather information about objects or events. This also includes the use of instruments to extend  
+the range of our senses. 
+ 
+Classifying  
+ 
+This is the skill of grouping objects or events based on common characteristics.. 
+ 
+Comparing This is the skill of identifying the similarities and differences between two or more objects, concepts or processes. 
+ 
+Communicating/:            
+Reporting 
+This is the skill of transmitting, receiving and presenting information in concise, clear and accurate forms - verbal, written, pictorial, 
+tabular or graphical. 
+ 
+Predicting This is the skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out. 
+ 
+Analysing                      
+ 
+This is the skill of identifying the parts of objects, information or processes, and the patterns and relationships between these parts. 
+ 
+Generating 
+possibilities 
+This is the skill of exploring all the options, possibilities and alternatives beyond the obvious or preferred one. 
+ 
+Evaluating         
+ 
+ 
+This is the skill of assessing the reasonableness, accuracy and quality of information, processes or ideas.  
+This is also the skill of assessing the quality and feasibility of objects. 
+ 
+Designing This is the skill of Visualizing and drawing new objects or gargets from imagination. 
+ 
+Interpreting This is the skill of evaluating data in terms of its worth: good, bad, reliable, unreliable; making inferences and predictions from   
+written or graphical data; extrapolating and deriving conclusions.  Interpretation is also referred to as “Information Handling”. 
+ 
+Recording   This is the skill of drawing or making graphical representation boldly and clearly, well labelled and pertinent to the issue at hand. 
+ 
+Generalising  
+ 
+This is the skill of being able to use the conclusions arrived at in an activity to what could happen in similar situations. 
+ 
+
+--- PAGE 14 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xii 
+and take a stand on issues affecting them and others. The history curriculum thus focuses on the development of attitudes and values. 
+ 
+Attitudes 
+i. Curiosity: The inclination or feeling toward seeking information about how things work in a variety of fields. 
+ 
+ii. Perseverance: The ability to pursue a problem until a satisfying solution is found. 
+ 
+Iii. Flexibility in ideas: Willingness to change opinion in the face of more plausible evidence 
+ 
+Iv. Respect for Evidence: Willingness to collect and use data in one’s investigation, and have respect for data collected by others. 
+ 
+v. Reflection: The habit of critically reviewing ways in which an investigation has been carried out to see possible faults and other ways by which the investigation could be 
+improved upon. The teacher should endeavour to ensure that learners cultivate the above attitudes as a prelude to effective work in history. 
+VALUES:  
+ 
+At the heart of this curriculum is the belief in nurturing honest, creative and responsible citizens. As such, every part of this 
+curriculum, including the related pedagogy should be consistent with the following set of values. 
+ 
+Respect: This includes respect for the nation of Ghana, its institutions, laws, culture and respect among its citizens and friends of Ghana. 
+ 
+Diversity: Ghana is a multicultural society in which every citizen enjoys fundamental rights and responsibilities. Learners must be taught  to respect the views of all persons and to see 
+national diversity as a powerful force for nation development. The curriculum therefore promotes social cohesion.  
+ 
+Equity: The socio-economic development across the country is uneven. Consequently, it is necessary to ensure an equitable distribution of resou rces based on the unique needs of 
+learners and schools. Ghana’s learners are from diverse backgrounds, which require the provision of equal opportunities to all, and that all strive to care for each other both personally 
+and professionally. 
+ 
+Commitment to achieving excellence: Learners must be taught to appreciate the opportunities pr ovided through the curriculum and persist in doing their best in whatever field 
+of endeavour as global citizens. The curriculum encourages innovativeness through creative and critical thinking and the use of contemporary technology.  
+ 
+Teamwork/Collaboration: Learners are encouraged to become committed to team -oriented working and learning environments. This also means that learners should have an 
+attitude of tolerance to be able to live peacefully with all persons. 
+ 
+Truth and Integrity: The curriculum aims to develop learners into individuals who will consistently tell the truth irrespective of the consequences. In addition, be m orally upright 
+with the attitude of doing the right thing even when no one is watching. Also, be true to themselves and be willing to live the values of honesty and compassion. Equally important, the 
+ethos or culture of the work place, including integrity and perseverance, must underpin the learning processes to allow learners to apply skills and competencies in the world of work. 
+ 
+
+--- PAGE 15 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xiii 
+The action verbs provided under the various profile dimensions should help you to structure your teaching to achieve desired le arning outcomes.  Select from the action verbs 
+provided for your teaching, for evaluati ng exercises and for test construction.  Che ck the weights of the profile dimensions to ensure that you have given the required emphasis to 
+each of the dimensions in your teaching and assessment. 
+
+--- PAGE 16 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xiv 
+ASSESSMENT 
+In this curriculum, assessment is emphasized as a tool to promote learning by all. Its purpose is to identify the strengths and weaknesses of learners to enable teachers adapt their 
+teaching. This will in turn help learners to progress steadily in the areas where they need to improve.  
+Formative assessment is viewed in terms of Assessment as learning and Assessment for learning.  
+Assessment as learning: Assessment as learning relates to engaging learners to reflect on the expectations of their learning. They are assisted to know their roles and take 
+responsibility of their own learning to improve.  Learners set their own goals and monitor their progress towards them.  
+Assessment for learning:  This occurs throughout the learning process. It is an approach used to seek and interpret evidence, which serves as timely feedback for teachers to refine 
+their teaching strategies in order to improve learners’ performance. Learners become actively involved in the learning process and gain confidence in what they are expected to learn.   
+Assessment of learning: This is summative assessment.  It describes the level learners have attained in the learning, what they know and can do over a period of time. The emphasis 
+is to evaluate the learner’s cumulative progress and achievement.  
+It must be emphasised that all forms of assessment should be based on the domains of learning. In developing assessment procedures, try to select indicators in such a way that you will 
+be able to assess a representative sample from a given strand. Each indicator in the curriculum is considered a criterion to be achieved by the learners.  When you develop assessment 
+items or questions that are based on a representative sample of the indicators taught, the assessment is referred to as a “Cr iterion-Referenced Assessment”.  In many cases, a teacher 
+cannot assess all the indicators taught in a term or year.  The assessment procedure you use i.e. class assessments, homework, projects etc. must be developed in such a  way that the 
+various procedures complement one another to provide a representative sample of indicators taught over a period. 
+ 
+SUGGESTED TIME ALLOCATION 
+ 
+A total of four periods a week, each period consisting of thirty minutes, is allocated to the teaching of History at the Prim ary level.  It is recommended that the teaching periods be 
+divided as follows: 
+ 
+Theory:   2 periods per week (two 30-minute periods) 
+Practical: 2 periods per week (one double-period/1hour) 
+ 
+ 
+ 
+ 
+
+--- PAGE 17 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xv 
+PEDAGOGICAL APPROACHES 
+ 
+These include the approaches, methods and strategies for ensuring that every learner benefits from appropriate and relevant t eaching and learning episodes which are timely assessed 
+and feedback provided to the learner and other stakeholders such as parents and education authorities. It includes the type a nd use of appropriate and relevant teaching and learning 
+resources to ensure that all learners attain the expected level of learning outcomes. The curriculum emphasises:  
+ The creation of learning-centred classrooms through the use of creative approaches to teaching and learning as strategies to ensuring learner empowerm ent and independent 
+learning.  
+ the positioning of inclusion and equity at the centre of quality teaching and learning.  
+ the use of differentiation and scaffolding as teaching and learning strategies for ensuring that no learner is left behind 
+ the use of Information Communications Technology (ICT) as a pedagogical tool. 
+ the identification of subject specific instructional expectations needed for making learning in the subject relevant to learners 
+ the integration of assessment for learning, as learning and of learning into the teaching and learning process and as an accountability strategy 
+ use questioning techniques that promote deepen learning 
+LEARNING-CENTRED PEDAGOGY 
+The learner is at the centre of learning. At the heart of the curriculum is learning progression and improvement of learn ing outcomes for Ghana’s young people with a focus on  – 
+Reading, wRiting, aRithmetic and cReativity (4Rs). It is expected that at each curriculum phase, learners would be offered th e essential learning experiences to progress seamlessly to 
+the next phase. Where there are indications that a learner is not sufficiently ready for the next phase a compensatory provision through diff erentiation should be provided to ensure 
+that such a learner is ready to progress with his/her cohort. At the primary school, the progression phases are: pre-primary (KG1 – 2), primary phases (B1 – B3 and B4 to B6). 
+ 
+The curriculum encourages the creation of a learning-centred classroom with the opportunity for learners to engage in meaningful “hands -on” activities that bring home to  the learner 
+what they are learning in school and what they know from outside of school. The learning -centred classroom is a place for the learners to discuss ideas , and through the inspiration of 
+the teacher , actively engage in looking for answers through  working in groups to solve problems. This also includes researching for information and analysing and evaluating the 
+information obtained. The aim of the learning -centred classroom approach is to develop learner autonomy so that learners can take ownershi p of their learning. It provides the 
+opportunity for deep and profound learning to take place.  
+The teacher should create a learning atmosphere that ensures:  
+ Learners feel safe and accepted. 
+ Learners are given frequent opportunities to interact with varied sources of information, teaching and learning materials and ideas in a variety of ways. 
+ The teacher assumes the position of a facilitator or coach who helps learners to identify a problem suitable for investigation via project work. 
+ Problems are connected to the context of the learners’ world so that it presents authentic opportunities for learning. 
+ Subject-matter around the problem, not the discipline. 
+ Learners responsibly define their learning experience and draw up a plan to solve the problem in question. 
+ Learners collaborate whilst learning. 
+ Demonstrate the results of their learning through a product or performance. 
+ It is more productive for learners to find answers to their own questions rather than for teachers to provide the answers and their opinions in a learning-centred classroom.  
+ 
+
+--- PAGE 18 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xvi 
+INCLUSION 
+Inclusion entails access and learning for all learners especially those disadvantaged. All learners are entitled to a broad a nd balanced curriculum in every school in Ghana. The daily 
+learning activities to w hich learners are exposed should ensure that the learners’ right to equal access to quality education is being met.  The curr iculum suggests a variety of 
+approaches that address learners’ diversity and their special needs in the learning process. These app roaches when used in lessons, will contribute to the full development of the 
+learning potential of every learner. Learners have individual needs and different learning styles, learning experiences and different levels of motivation for learning. Planning, delivery and 
+reflection on daily learning episodes should take these differences into consideration. The curriculum therefore promotes:  
+ learning that is linked to the learner’s background and to their prior experiences, interests, potential and capacities;  
+ learning that is meaningful because it aligns with learners’ ability (e.g. learning that is oriented towards developing gener al capabilities and solving the practical problems of 
+everyday life); and 
+ The active involvement of the learners in the selection and organisation of learning experiences, making them aware of their importance in the process and also enabling them 
+to assess their own learning outcomes. 
+ 
+DIFFERENTIATION AND SCAFFOLDING 
+ 
+This curriculum is to be delivered through the use of creative approaches. Differentiation and Scaffolding are pedagogical approaches to be used within the context of the creative 
+approaches.  
+ 
+Differentiationis a process by which differences between learners, (learning styles, interest and readiness to learn etc.) ar e accommodated so that all students in a group have best 
+possible chance of learning.  Differentiation could be by task, support and outcome.  Differentiation as a way of ensuring ea ch learner benefits adequately from the delivery of the 
+curriculum can be achieved in the classroom through:  
+ Task 
+ One-on-one support  
+ Outcome  
+ 
+Differentiation by task involves teachers setting different tasks for learners of different ability e.g. in sketching the plan and shape of their cla ssroom, some leaners could be made to 
+sketch with free hand while others would be made to trace the outline of the plan of the classroom. 
+Differentiation by support  involves the teacher providing a targeted support to learners who are seen as performing below expected standards or at risk of not reaching the 
+expected level of learning outcome. This support may include a referral to a Guidance and Counselling Officer for academic support. 
+Differentiation by outcome involves the teacher allowing learners to respond at different levels. In this case, identified learners are allowed more time to complete a given task. 
+Scaffolding in education refers to the use of a variety of instructional techniques aimed at moving learners progressively towards strong er understanding and ultimately greater 
+independence in the learning process.  
+
+--- PAGE 19 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xvii 
+It involves breaking up the learning episode, experience or concepts into smaller parts and then providing learners with the support they need to learn each part.  The process may 
+require a teacher assigning an excerpt of a longer text to learners to read, engage them to discuss the excerpt to improve comprehension of its rationale, then guiding  them through 
+the key words/vocabulary to ensure learners have developed a thorough understanding of the text before engaging them to read the full text.  Common scaffolding strategies available 
+to the teacher include:  
+ giving learners a simplified version of a lesson, assignment, or reading, and then gradually increasing the complexity, difficulty, or sophistication over time. 
+ describing or illustrating a concept, problem, or process in multiple ways to ensure understanding. 
+ giving learners an exemplar or model of an assignment, they will be asked to complete. 
+ giving learners a vocabulary lesson before they read a difficult text. 
+ clearly describing the purpose of a learning activity, the directions learners need to follow, and the learning goals they are expected to achieve. 
+ explicitly describing how the new lesson builds on the knowledge and skills learners were taught in a previous lesson.  
+INFORMATION COMMUNICATIONS TECHNOLOGY 
+ICT has been integrated into this curriculum as a teaching and learning tool to enhance deep and independent learning.  Some of the expected outcomes that this curriculum aims to 
+achieve through ICT use for teaching and learning are: 
+ improved teaching and learning processes.  
+ improved consistency and quality of teaching and learning.  
+ increased opportunities for more learner-centred pedagogical approaches.  
+ improved inclusive education practices by addressing inequalities in gender, language, ability.  
+ improved collaboration, creativity, higher order thinking skills.  
+ enhanced flexibility and differentiated approach of delivery.  
+ 
+The use of ICT as a teaching and learning tool is to provide learners an access to large quantities of information online. It also provides the framework for analysing data to investigate 
+patterns and relationships in a geographical context. Once pupils have made their findings, ICT can then help them organize, edit and present information in many different ways. 
+Learners need to be exposed to the various ICT tools around them including calculators, radios, cameras, phones, television s ets and computer and related software like Microsoft 
+Office packages – Word, PowerPoints and Excel as teaching and learning tools. The exposure that learners are given at the Primary School level in the use of ICT in exploring learning 
+will build their confidence and  increase their level of motivation to apply ICT use in later years, both within and outside  of education. ICT use for teaching and learning is expected to 
+enhance the quality and learners’ level of competence in the 4Rs 
+ 
+ 
+ 
+
+--- PAGE 20 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xviii 
+ORGANISATION OF THE CURRICULUM 
+ 
+The curriculum is organised under key headings and class as below: 
+ 
+Strands are the broad areas/sections of the history curriculum to be studied. 
+ 
+Sub-strands are larger groups of related indicators. Indicators from sub-strands may sometimes be closely related. 
+ 
+Content Standards refers to the pre-determined level of knowledge, skill and/or attitude that a learner attains by a set stage of education. 
+ 
+Indicators is a clear outcome or milestone that learners have to exhibit in each year to meet the content standard expectation. The indi cators represent the minimum expected 
+standard in a year. 
+ 
+Exemplar refers to support and guidance which clearly explains the expected outcomes of an indicator and suggests what teaching and learning act ivities could taken, to support the 
+facilitators/teachers in the delivery of the curriculum. 
+ 
+Annotation 
+A unique annotation is used to label the class, strands, sub-strands, content standards and learning indicators for the purpose of easy referencing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 21 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xix 
+CURRICULUM REFERENCE NUMBERS 
+ 
+ 
+Example: B1.2.3.4.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNOTATION MEANING / REPRESENTATION 
+B1. YEAR/CLASS 
+1 STRAND NUMBER 
+2 SUB-STRAND NUMBER 
+3 CONTENT STANDARD NUMBER 
+4 LEARNING/ PERFORMANCE INDICATOR NUMBER 
+Strand 1: History as a subject 
+Sub-strands: 1-Why and how we study history 
+KG1 KG2 B1 B4 
+KG1.1.2.1: Demonstrate understanding 
+of their own individual history 
+KG2.1.2.1: Recount history about themselves 
+and their families. 
+B1.1.1.1Show understanding of 
+history as part of everyday life. 
+B4.1.1.1 Show understanding of  
+importance of studying history. 
+KG1.1.2.1.1 Share information about 
+themselves and acknowledge that since 
+they are past, they qualify to be called 
+history. 
+KG2.1.2.1.1 Share more detailed information 
+about themselves e.g. where they were born 
+and their hometowns 
+B1.1.1.1.1 Explain that history deals 
+with past human activities. 
+ 
+B4.1.1.1.1 Explain how history 
+defines our identity as 
+Ghanaians - Akan, Ewe, Gonja 
+etc., 
+Learning Indicator Content Standard Year/Class 
+
+--- PAGE 22 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  xx 
+SCOPE AND SEQUENCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                             
+ 
+STRAND SUB-STRAND B1 B2 B3 B4 B5 B6 
+HISTORY AS A SUBJECT Why and how we study history    √   
+The learner’s own history       
+Family History       
+Community History       
+MY COUNTRY GHANA1 
+The People of Ghana   √ √ √  
+Inter-Group Relations   √    
+How Ghana got its name       
+Major Historical locations    √   
+Some selected Individuals   √ √ √  
+EUROPEANS IN GHANA Arrival of Europeans   √    
+International trade including Slave Trade     √  
+Missionary Activities    √   
+Impact of European presence      √ 
+COLONISATION AND 
+DEVELOPMENTS UNDER 
+COLONIAL RULE IN GHANA 
+Establishing Colonial rule in Ghana    √   
+Social Development     √  
+Economic Development     √  
+Political Development      √ 
+JOURNEY TO INDEPENDENCE Early Protest Movements     √  
+Formation of Political Parties      √ 
+The 1948 riots     √  
+Ghana gains independence      √ 
+INDEPENDENT GHANA 
+The Republics √   √  √ 
+Military Rule      √ 
+
+--- PAGE 23 ---
+ 
+ 
+  1  
+ 
+ 
+ 
+BASIC 1 
+ 
+ 
+
+--- PAGE 24 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  2 
+ 
+Strand 1: History as a Subject 
+Sub-Strand 1: Why and How We Study History 
+CONTENT STANDARDS 
+ 
+INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.1.1.1. Demonstrate      
+understanding of what 
+history is about and how it 
+is part of everyday life. 
+ 
+B1.1.1.1.1 Explain that history deals with past human activities 
+Enquiry route: What event did you witness on your first day at school? Which people 
+took part in the event? 
+1. Mention the activity they witnessed on their first day at school 
+2. Identify any activity performed in the past which has not been performed again  
+3. List any past events they have witnessed  
+4. Explain that since those activities were performed in the past, they qualify to be 
+called history 
+5. Learners sing a song, recite a rhyme or watch a documentary of any past 
+activity. 
+ 
+B1.1.1.1.2 Describe how sources of historical evidence help us find out about past human 
+activities 
+Enquiry route: where do we get information about our past? Why do we celebrate birthdays and 
+festivals? 
+1. Sing songs or recite rhymes related to celebrations such as birthdays, festivals and 
+weddings as part of history.  
+2. Sketch/show a video of a scene depicting a birthday, funeral, wedding and festival 
+celebration 
+3. Start a birthday partnership/register to make history alive in the classroom.  Learners 
+write their date of birth chronologically on a manila card and this should be hanged in 
+the classroom.  At the end of every history lesson, the class could refer to these 
+records for an upcoming birthday.  
+ 
+4. Build an album of themselves and family members, starting with earlier pictures and 
+photographs to resent ones 
+As learners identify and discuss 
+past events, they develop 
+imaginative and critical thinking 
+skills as well as chronological 
+understanding of historical events 
+
+--- PAGE 25 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  3 
+ 
+Sub-Strand 4: Community History 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.1.4.2. Recount history 
+about their communities. 
+B1.1.4.2.1 State the similarities and differences between the communities 
+where learners live. 
+ Enquiry route: What is unique about your community? How similar/ different is your 
+community from others? 
+1. Visit historical sites in town e.g. an old chapel, a post office, a chief’s palace, 
+grooves, forests, wetlands etc.  
+2. Learners list the names of historical sites starting with the oldest to the most 
+recent 
+3. learners sketch what they have seen on their visit 
+4. Compare sketches drawn with pictures of historical sites from other 
+communities 
+5. Learners discuss their sketches bringing out similarities and differences in the 
+sites they visited 
+As learners compare and 
+reconstruct past human activities 
+from evidence, they develop 
+chronological understanding, 
+cultural identity, creativity and 
+innovation  
+
+--- PAGE 26 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  4 
+Strand 2: My Country Ghana 
+Sub-Strand 3: How Ghana Got Its Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.3.1. Demonstrate 
+understanding of why 
+Ghana used to be called 
+the Gold Coast’ 
+ 
+ 
+B1.2.3.1.1 Explain why, in the past, Ghana was known as the Gold 
+Coast. 
+Enquiry route: Why did the country change its name from the Gold Coast to Ghana? 
+Who proposed the change of name? Why was the new name proposed?  
+1. Explain how the name was changed from Gold Coast to Ghana  Discuss the 
+English translation of the Portuguese name costa da mina - Gold Coast 
+2. Use the internet to locate ancient Ghana empire and the Akan forest 
+regions of Ghana 
+3. Discuss the role of Dr J.B. Danquah in linking the civilisations of the ancient 
+Ghana Empire to the Akan of the forest region of Ghana 
+Learners develop digital literacy, 
+national identity and national pride 
+as they explore the origin of the 
+name Ghana  
+ 
+ 
+ 
+ 
+
+--- PAGE 27 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  5 
+Sub-Strand 3: How Ghana Got Its Name 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.3.1. Demonstrate 
+understanding of why 
+Ghana used to be called the 
+‘Gold Coast’. Cont’d 
+B1.2.3.1.2 Recall when the name Ghana came into formal use. 
+Enquiry route: How was the name changed? In which year was the name changed?  
+1. Discuss the sequence of events leading to the change of name 
+2. Discuss the role of played by parliament and other individuals in the change of 
+name from Gold Coast to Ghana 
+3. Dramatise a scene in parliament in changing the name Gold Coast to Ghana  
+4. Explain how similarly a new independent country can take on a new name, a new 
+flag, a new leader in a story form. (A resource person could be invited) 
+Learners develop creative, 
+innovative, national identity and 
+national pride as they explore the 
+origin of the name Ghana  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 28 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  6 
+Sub-Strand 5: Some Selected Individuals 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.2.5.1.  Show 
+understanding of 
+significant roles  played by 
+Ghanaians from different 
+walks of life 
+B1.2.5.1.1 Identify Ghanaians of diverse fields who have contributed 
+significantly to national development including Theodosia Okoh – 
+National flag.  Amon Kotei – Coat of Arms. Baba Yara – Football 
+for Ghana. Ephraim Amu – Music, Kofi Antubam – Art and craft, 
+Kow Ansah – Film etc.  
+ 
+Enquiry route: which individuals have contributed to Ghana’s development? How have 
+they contributed to Ghana’s development? 
+.   
+1. Identify Ghanaians of diverse professions who have contributed significantly to 
+national development  
+2. Match individuals with their achievements e. g Theodosia Okoh – national flag.  
+Amon Kotei – coat of arms. Baba Yara – football for Ghana. Ephraim Amu- 
+music, Kofi Antubam- art and craft, Kow Ansah – Film etc. 
+3. Show and discuss a documentary of significant individuals 
+4. Guide learners to study about these individuals using the internet  
+5. Role play what learners want to be in future 
+ 
+The use of evidence (Flag, coat of 
+Arms etc.) to appreciate the 
+significant contributions of some 
+Ghanaians, learners become 
+creative, innovative and digitally 
+literate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 29 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  7 
+Strand 3 Europeans in Ghana 
+Sub-Strand 1:  Arrival of Europeans 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.3.1.1 Show understanding 
+of Europeans who came to 
+Ghana 
+ 
+B1.3.1.1.1 Explore which Europeans came to Ghana  
+Enquiry Route: Which Europeans came to Ghana? Which country came first? Where did 
+they first settle? 
+1. Identify the European countries whose citizens came and settled in Ghana 
+- Portugal, Britain, France, Sweden, Germany, (Brandenburg) Denmark, 
+Norway, Netherlands 
+2. Arrange the Europeans which they came to Ghana in the order which they 
+came (starting with those who came first) 
+3. Locate each of these countries on the world map using the internet. 
+4. Find out where each country first settled in Ghana (From parents, 
+museums etc.)  
+As learners use evidence to 
+explore the chronology of events, 
+they enhance their global 
+citizenship, and digital literacy 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+--- PAGE 30 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  8 
+Strand 6:  Independent Ghana 
+Sub-Strand 1: The Republics 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B1.6.1.1.   Demonstrate 
+understanding of the 
+presidents that have ruled 
+Ghana since 1960 
+ 
+B1.6.1.1.1. Identify the Presidents Ghana has had since 1960 
+Enquiry route: Who was Ghana’s first President? Who ruled Ghana from 
+1960- 2016? 
+1. Name the presidents of Ghana since 1960. 
+2. Match pictures of Ghana’s presidents with their names (Create an 
+album with the pictures).  
+Match the names of presidents of Ghana with their dates of tenure (Add the 
+names to their pictures). 
+3. Put learners in groups to create a gallery station on the following 
+lines. 
+a. Select a picture of one of the presidents  
+b. Display the picture of the selected president on a large 
+cardboard  
+c. Write the name of the president below the picture 
+d. Add the length of tenure of the president 
+4.       ** Invite learners to visit the gallery station and talk about each 
+group’s presentation 
+By using pictorial evidence to 
+appreciate the identity of the 
+presidents that have ruled Ghana 
+since 1960, learners enhance their 
+personal development, 
+communicative and collaborative 
+skills 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 31 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BASIC 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 32 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  10 
+Basic 2 
+Strand 2: My Country Ghana 
+Sub-Strand 1: The People Of Ghana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT 
+STANDARDS 
+ 
+INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCIES 
+B2.2.1.1. Demonstrate 
+knowledge of the ethnic 
+groups in Ghana 
+B2.2.1.1.1 Identify the ethnic groups in each region in Ghana 
+Enquiry route: Which ethnic groups are there in your region? 
+1. Identify the administrative regions of Ghana  
+2. Locate the ethnic groups in each region on a map of Ghana  
+3. With the aid of a slide/video/TV/internet, identify the regions and ethnic 
+groups in Ghana 
+4. Match the ethnic groups with their region    
+5. List the administrative regions in the order in which they created (starting 
+with the oldest region) 
+Learners enhance their cultural 
+identity, critical thinking, and 
+digital literacy as they identify the 
+various ethnic groups 
+B2.2.1.1. Show 
+understanding of the 
+characteristics of some of 
+the ethnic groups in 
+Ghana  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B2.2.1.1.1 State the characteristics of the ethnic groups in Ghana 
+Enquiry route: What are the characteristics of the ethnic groups? What differentiates one 
+ethnic group from the other? 
+1. Identify the characteristics (food, festivals, dressing, language, political 
+institutions, social and economic activities, taboos, oaths etc.) of some of the 
+ethnic groups in Ghana 
+2. Show documentary/pictures/ internet of a festival of one of the ethnic groups 
+3. Discuss what the documentary entails. 
+As learners identify the 
+characteristics of the ethnic groups 
+in Ghana, they develop cultural 
+identity, tolerance and collaborate 
+with others 
+ 
+ 
+
+--- PAGE 33 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  11 
+ 
+Strand 2: My Country Ghana 
+Sub-Strand 4: Major Historical Locations 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.2.4.1. Exhibit 
+knowledge of the history 
+of the major historical 
+locations in Ghana 
+B2.2.4.1.1 Discuss the history of Ghana’s major historical 
+locations. Examples include Kumasi military museum, 
+Komfo Anokye Sword, Assin Manso slave site, Gbewa 
+Palace. 
+Enquiry route: Where are the major historical locations? What do these 
+locations tell us about our history? 
+1. Identify the major historical locations in Ghana (starting 
+with the oldest location).  
+2. Show and discuss video/documentary/stories/slides about 
+the history of these major historical locations in Ghana. 
+3. Retell the history of these major historical locations in 
+Ghana. 
+4. Interact with knowledgeable persons/ opinion leaders/ 
+chiefs/ resource persons to tell the history of any 
+historical location in your community or district. 
+5. Visit any historical site in their community. 
+6. Retell the history of major sites in their community. 
+The use of evidence to appreciate 
+the significance of historical 
+locations helps learners to develop 
+cultural identity, creative and 
+innovative skills. 
+ 
+ 
+ 
+ 
+
+--- PAGE 34 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  12 
+ 
+ 
+Sub-Strand 5: Some Selected Individuals 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.2.5.1.1 Exhibit 
+understanding of 
+Ghanaian women who 
+have contributed 
+significantly to Ghana’s 
+development 
+B2.2.5.1.1. Identify Ghanaian women who have made significant 
+contributions to national development  
+Enquiry Route: Which Ghanaian women contributed to national development? 
+How did they contribute? Which woman inspires you most and why?  
+1.Name some outstanding women in the history of Ghana  
+2.Match these women with their achievements in Ghana e.g. Mrs Charity 
+Zormelo-Fiawoo – first woman university graduate); Squadron Leader Melody 
+Danquah – First female pilot; Elizabeth Ohene – First female editor of a national 
+newspaper (Daily Graphic); Justice Georgina Wood – First female Chief Justice 
+and Justice Joyce Bamford-Addo – First female Speaker of Parliament etc. Using 
+anecdotes/videos learners retell the contributions of these leaders to national 
+development 
+4. Think pair-share-activity: Individual learners identify a woman who they admire 
+most in the community. 
+They choose partners and discuss the reasons for their choice.   
+The use of evidence to appreciate 
+the significant contributions of 
+some Ghanaian women, learners 
+become creative, innovative and 
+digitally literate. 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 35 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  13 
+ 
+Strand 3: Europeans in Ghana 
+      Sub-Strand 2: International Trade Including Slave Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B2.3.2.1. Understand that 
+trade was the major reason 
+why the Europeans settled 
+in Ghana 
+ 
+ 
+B2.3.2.1.1 Describe how early trade was carried out between Ghanaians 
+and Europeans 
+Enquiry route: How was trade with the Europeans first carried out? How did the method of 
+trade change with time? What items were trad ed? What towns emerged out of the 
+trade between Ghanaians and Europeans? 
+1. Describe how early trade was carried out between Ghanaians and the 
+Europeans  
+2. Organise learning corners with real items or pictures of items brought by the 
+Europeans such as Gin, Gun,  Gun Powder, Textiles,  Tobacco, Iron Bars, 
+Elephant tusks, Ivory, Gold. 
+3. Role play the barter trade in those items. 
+4. Use internet to identify countries with the items they brought that remained 
+part of everyday Ghanaian life. e.g. the Dutch and wax prints. 
+5. Name the towns that emerged on the coast as a result of European trade with 
+Ghanaians.   
+ 
+ 
+As learners describe how early 
+trade was carried out between 
+Ghanaians and Europeans, it 
+enhances their communicative, 
+creative and innovative skills. 
+International trade encourages 
+global citizenship. 
+
+--- PAGE 36 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BASIC 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 37 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  15 
+Basic 3 
+Strand 2: My Country Ghana 
+Sub-Strand 1: The People of Ghana 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.2.1.1. Exhibit knowledge 
+of the unique history of the 
+major ethnic groups in 
+Ghana 
+ 
+B3.2.1.1.1 Discuss the origins of the major ethnic 
+groups in Ghana 
+Enquiry route: What are the major ethnic groups in Ghana? 
+Where did the major ethnic groups originate? Why did they move 
+to their present locations? 
+1. Identify some of the major ethnic groups. Eg. Guan, 
+Mole-Dagbani/ Gonja, Akan, Ga/Adangme, Ewe  
+2. Use a map to trace the routes the major ethnic 
+groups travelled to get to their present-day locations 
+in Ghana.  
+3. In groups, learners discuss the origin of the major 
+ethnic groups 
+4. Compose a song with names of the major ethnic 
+groups and where they originated (In the special 
+schools, resource persons should assist the hearing 
+impaired to sing) 
+5. Draw a map to locate the migratory routes of the 
+ethnic groups. (this can also be done on a manila 
+card) 
+6. Develop a timeline of the periods each ethnic group 
+arrived in Ghana 
+As learners learn the origin of the 
+ethnic groups in Ghana, they 
+become appreciative of the 
+uniqueness of each ethnic group and 
+thereby develop cultural identity, 
+creativity and collaboration with 
+their peers 
+ 
+ 
+
+--- PAGE 38 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  16 
+Sub-Strand 2: Inter-Group Relations 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3 2.2.1. Demonstrate 
+knowledge of   how 
+intergroup alliances, 
+conflicts and other 
+exchanges 
+B3 2.2.1.1 Discuss the nature of exchanges among the ethnic groups. 
+ 
+Enquiry route: What form did the exchanges take? How beneficial were these exchanges to 
+the ethnic groups? 
+1.  Identify the forms of exchanges including forms of trade, inter-marriage, conflict and 
+alliances. 
+2. Discuss the benefit of these exchanges 
+Learners develop appreciation of 
+interdependence among ethnic 
+groups and communicative skills 
+by discussing intergroup relations  
+B3.2.2.1.2 Name some of the items exchanged among the various groups.  
+Enquiry route: What items were exchanged among the various ethnic groups? Why were 
+these items exchanged? How and why did cowrie shells (cedie) become the most 
+common medium of exchange? Discuss the transformation from barter system to the use 
+if cowry shells as a medium of exchange 
+1. Identify trade items that were exchanged among ethnic groups: salt. fish, gold, kola, 
+Shea butter, pottery and cloth and iron utensils 
+2. Match items with the areas / sources where the items were obtained. e.g. Shea 
+butter - savannah belt 
+3. Explain the medium of exchange  
+4. Trace the origin of the name ‘cedi’ 
+B3.2.2.1.3 Describe the conflicts and alliances that existed among the ethnic groups in 
+Ghana  
+Enquiry route: Which ethnic groups were engaged in wars in the past? Which ethnic groups 
+came together to fight a war?  
+1. Discuss intergroup wars such as Battle of Feyiase and the Krepi war of 1833. 
+Discuss instances where alliances were formed between different groups to fight a 
+common enemy. E.g. The Battle of Akatamanso where the Asante army was 
+defeated by an alliance made up of the British, Ga, Fante, Akyem, Akwamu, Krepi 
+and Denkyira Anlo / Asante in the Ada War of 1869 
+ 
+ 
+ 
+ 
+
+--- PAGE 39 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  17 
+Sub-Strand 4: Major Historical Locations 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.2.4.1.  Demonstrate 
+knowledge of the forts and 
+castle built in Ghana. 
+ 
+B3.2.4.1.1 Identify the forts and castles built along the coast of Ghana 
+ 
+Enquiry Route: what is the difference between a fort and castle? Where can we locate the 
+forts and castles? Who built them? When were they built? Why were they built? How have 
+the uses of forts and castles changed over time? 
+1. Explain the differences between forts and castles  
+2. With the use of internet, identify the major forts and castles on Ghana’s 
+coast on a map (where they are located, which Europeans built them and 
+when and why they were built). 
+3.  Explain some of the uses to which these forts and castles have been put 
+since they were built. E.g. Seat of government, trading and education 
+4. Discuss the use to which these forts and castles were put since Ghana 
+gained independence 
+5. Match these forts and castles with where they can be located 
+6. Learners draw their favourite castle  
+7. Show and discuss a documentary/ slides on forts and castles in Ghana 
+** Visit any of these facilities to model any fort and castle 
+The use of evidence to appreciate 
+the significance of historical 
+locations help learners to become 
+critical thinkers and digital 
+literates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 40 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  18 
+Sub-Strand 5: Some Selected Individuals 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.2.5.1. Describe the 
+contributions of some 
+outstanding Ghanaian 
+entrepreneurs. 
+B3.2.5.1.1 Describe Ghanaian entrepreneurs who have made 
+significant contributions including George Grant – Businessman, 
+Winifred Tete-Ansa, Esther Ocloo – Nkulenu Industries, B.A. Mensah 
+– Pioneer Tobacco Ltd. Kwabena Pepra – Paramount Distilleries, J.K. 
+Siaw – Tata Brewery, Alhaji Adam Iddrisu - Global Haulage 
+Enquiry route: Which Ghanaian entrepreneurs contributed to national 
+development? How did they contribute? Which entrepreneurs inspires you most 
+and why?  
+1.Name Ghanaian entrepreneurs of note e.g. George Grant – Businessman, 
+Winifred Tete-Ansa, Esther Ocloo – Nkulenu Industries, B.A. Mensah – Pioneer 
+Tobacco Ltd. Kwabena Pepra – Paramount Distilleries, J.K. Siaw – Tata Brewery, 
+Alhaji Adam Iddrisu – Global Haulage 
+2.Show pictures of some outstanding entrepreneurs in Ghana 
+3.Retell the live stories of any of these entrepreneurs from a documentary show 
+4. Identify the entrepreneurs who work inspires you most and give reasons for 
+your choice   
+The use of evidence to appreciate 
+the significant contributions of 
+some Ghanaians, learners become 
+creative, innovative and digitally 
+literate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 41 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  19 
+Strand 3: Europeans in Ghana 
+Sub-Strand 1: Arrival of Europeans 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B3.3.1.1.   Show 
+understanding of the 
+interactions between the    
+local people and early 
+settlers 
+ 
+B3.3.1.1.1 Describe how the Europeans settled on the Gold Coast, 
+including forming alliances with the local chiefs 
+ 
+Enquiry route: Which Europeans were the first to come to the Gold Coast? When 
+did they come? Where did they first settled? 
+1. Dramatise the meeting between the Portuguese and Kwamina Ansah 
+2. Explain why other Europeans who came later also settled on the Gold 
+Coast 
+3. Investigate how the Europeans settled on the Gold Coast including 
+forming alliances with the local chiefs and marrying the local people 
+ 
+As learners explore the cause and 
+consequences of the interaction 
+between Europeans and the locals, 
+they enhance their communicative, 
+collaborative and creativity skills 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 42 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  20 
+ 
+ 
+BASIC 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 43 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  21 
+Basic 4 
+Strand 1: History as a Subject 
+Sub-Strand 1: Why and How We Study HISTORY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.1.1.1.  Show 
+understanding of the 
+importance of studying 
+history 
+ 
+ 
+ 
+ 
+ 
+ 
+B4.1.1.1.1 Explain the importance of studying the history of Ghana.  
+ 
+Enquiry route: How does history promote our identity as Ghanaians? How does 
+history promote the survival of the ethnic groups? How does history promote 
+national integration? How does history promote national pride and patriotism?     
+1. Engage learners to discuss how history defines our identity as 
+Ghanaians 
+2. Role-play to show how history teaches us customs, values, 
+traditions all of which ensure the survival of our nation. 
+3. Role play how history can promote national pride, patriotism and 
+integration 
+Learners develop their cultural 
+identity creativity and innovative 
+skills as they identify the 
+importance of studying history 
+ 
+ 
+B4.1.1.2. Understand the 
+sources for  
+writing history 
+B4.1.1.2.1 Identify the sources of history including archaeology, numismatics, 
+oral tradition, wall paintings etc. 
+ 
+Enquiry route: What are the sources of history? What historical knowledge 
+are we likely to acquire from these sources?  
+1. List the sources of history including funeral brochures, oral tradition, 
+old photographs, old letters and diaries, arts and craft works, old 
+newspapers, dirges, appellation and books.  
+2. Classify these sources under primary and secondary sources. 
+3.    Explain how relevant historical information can we obtain from old 
+newspapers and diaries? (E.g. Natural disasters – drought, bushfire etc.) 
+Use of evidence in learning history 
+helps learners develop their critical 
+thinking skills 
+ 
+
+--- PAGE 44 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  22 
+Strand 2: My Country Ghana 
+Sub-Strand 1: The People Of Ghana 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.2.1.1. Show 
+understanding some of the 
+factors that led to the rise, 
+expansion and decline of 
+one major kingdom 
+B4.2.1.1.1 Describe how one major Kingdom was 
+formed and the reasons behind its expansion.  
+ 
+Enquiry route: Where was this major Kingdom formed? How was 
+it formed? How did it expand? 
+1. Identify the reasons for the rise, expansion and decline 
+of one Kingdom. 
+Eg Savanna Belt States-Mole-Dagbani and Gonja 
+Forest Belt States - Bono, Adansi, Asante, Denkyira and 
+Akwamui.  
+Coastal Belt States - The Anlo, The Fante, Ga-Adangme and 
+Effutu 
+2.  Using the map of Ghana, locate where this major 
+Kingdom is found. 
+3. By animations, play games on location of major 
+Kingdoms. 
+As learners reconstruct and 
+interpret the factors that led to 
+the rise, expansion and decline of 
+one major Kingdom, they develop 
+cultural identity and digital literacy 
+ 
+B4.2.1.1.2 State the factors that led to decline of the 
+Kingdom you have studied. 
+ 
+Enquiry routes: What factors led to the decline of the Kingdom? 
+1. Give reasons why some of the Kingdoms declined. E.g. 
+Internal disputes (rebellions, succession disputes), 
+British interference, conquest by another kingdom, 
+desire to expand territories – Akwamu’s location to the 
+east of the Volta in 1733, Denkyira’s decline in 1701, 
+Asante’s decline in 1874. 
+
+--- PAGE 45 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  23 
+ 
+Sub-Strand 4: Major Historical Locations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.1.4.1.  Demonstrate 
+knowledge of  
+the history of some 
+historical locations in  
+Ghana 
+ 
+B4.1.4.1.1 Describe the history of Ghana’s major 
+historical locations, specifically, Flagstaff house, 
+Burma camp, James Town light house, Gbewa 
+Palace, Larabanga Mosque etc. 
+ 
+Enquiry route: where could these historical locations be found?  
+When were they built? Who built them? Why were they 
+built? How have these historical locations changed overtime? 
+1. With the use of internet, identify the major historical 
+locations in Ghana (where they are located, who built 
+them when and why they were built) 
+2. Explain some of the uses to which these historical 
+locations have been put since they were built.  
+3. Match these historical locations to where they can be 
+located 
+4. Show and discuss a documentary/ slides on these 
+locations in Ghana 
+5. Retell the stories behind some of the historical location 
+including Flagstaff house, GBC, Burma camp, Kumasi 
+military museum, Komfo Anokye Sword in Kumasi etc.   
+As learners explore change and 
+continuity in the study of historical 
+locations, they enhance their 
+personal development, become 
+creative, innovative ad digitally 
+literate 
+ 
+
+--- PAGE 46 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  24 
+SUB-STRAND 5: SOME SELECTED INDIVIDUALS 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.2.5.1. Demonstrate 
+understanding  
+of the role of  
+significant traditional  
+rulers in Ghana’s history 
+B4.2.5.1.1 Identify the role played by some traditional 
+rulers in the national development including Dode 
+Akaibi of Accra, Ndewura Jakpa of Gonja, Osei 
+Tutu I of Asante, Gbewaa of Pusiga, Togbe Sri I., 
+Sir Ofori Atta of Akim Abuakwa, Nana Kobina 
+Nketsia I of Esikado etc. 
+ 
+Enquiry route: Who were the traditional rulers who contribute to 
+Ghana’s development? How did they contribute to Ghana’s 
+development? Which traditional rulers inspires you most and 
+why? 
+1. Name some traditional chiefs and queen-mothers from the 
+major ethnic groups and state the reasons why they are 
+considered significant in Ghana’s history.  Dode Akaibi of 
+Accra, Ndewura Jakpa of Gonja, Osei Tutu I of Asante, 
+Gbewaa of Pusiga , Nana Kobina Nketsia I of Esikado etc.  
+2. Show photographs/ documentaries on the roles played by 
+these traditional rulers in national development 
+3. Retell the live story of any of these from a documentary 
+show 
+4. Identify the traditional rulers whose work inspires you 
+most and give reasons for your choice 
+The use of evidence to appreciate 
+the significant contributions of 
+some traditional rulers, learners 
+become creative, innovative and 
+digitally literate 
+
+--- PAGE 47 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  25 
+Strand 3: Europeans in Ghana 
+Sub-Strand 3: Missionary Activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.3.3.1.  Demonstrate 
+knowledge of Europeans’ 
+engagement in other 
+activities other than trade in 
+Ghana 
+B4.3.3.1.1 Describe European missionary activities in Ghana 
+ 
+Enquiry Route: Which European missionary society was the first to come to 
+the Gold Coast? In which areas did they operate? What was their 
+impact on the lives of Ghanaians? 
+1. Identify the missionary societies that came to Ghana (starting 
+from the first to the last) 
+2. Locate places where they operated (e.g. Basel-Akuapem, 
+Bremen-Peki etc) 
+3. Discuss Christianity and formal education as some of the 
+major impacts of European presence in Ghana 
+4. Show and discuss video/documentary of European activities 
+in Ghana  
+5. Discuss other activities they engaged in (trade, vocational 
+training centres, health facilities, development of alphabets 
+for some local languages and translation of the Bible into 
+local languages)  
+6.  Debate the effects of European activities in Ghana 
+As learners use evidence to 
+interpret other European 
+activities in Ghana, they become 
+critical thinkers, creative, 
+communicative learners 
+ 
+
+--- PAGE 48 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  26 
+ 
+Strand 4:  Colonisation and Developments under Colonial Rule in Ghana 
+Sub-Strand 1:  Establishing British Rule in Ghana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.4.1.1. Demonstrate 
+understanding of the 
+gradual process of  
+colonisation and recall the 
+initial steps the British took 
+to colonise Ghana.  
+B4.4.1.1.1. Examine the Bond of 1844 
+ 
+Enquiry route:  
+Enquiry route: What led to the signing of the bond of 
+1844? Where was the Bond of 1844 signed? Which 
+people signed? What was the significance of the 
+Bond? 
+1. Discuss events leading to the signing of the Bond 
+of 1844. 
+2. Using primary evidence provide students with the 
+content of 1884 and discuss it with them 
+3. With the use of the internet/pictures show the 
+Palaver Hall where the Bond was signed  
+4. Brainstorm the significance of the Bond of 1844?  
+As learners use evidence to 
+analyse and appreciate the 
+significance of the Bond of 1844, 
+they develop their critical 
+thinking, communicative and 
+collaborative skills.  
+
+--- PAGE 49 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  27 
+Sub-Strands 1:  Establishing British Rule in Ghana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+SUBJECT SPECIFIC 
+PRACTICES AND 
+CORE 
+COMPETENCIES 
+B4.4.1.2. Show 
+understanding of how the 
+various parts of the 
+country were  
+brought together. 
+B4.4.1.2.1 Describe how the different areas – The Colony, Asante, The 
+Northern Territories and The British Mandated Togoland– became 
+one territory known as the Gold Coast 
+ 
+Enquiry route:  What is colonisation? H ow different was a protectorate from a co lony? 
+how did Asante and the Northern Territories become protectorates of the British?  
+How did Britain acquire the mandated territories? 
+1. Define the term colonialism 
+2. Role play on the role of George Ekem Ferguson in the acquisition of The 
+Northern Territories.  
+3. Illustrate how the Asante and the Northern Territories became 
+protectorates with the aid of a map 
+4. Locate the areas classified as British Togoland on a map 
+5. Compare the map of the Gold Coast in 1955 and the map of Ghana, 
+today. Discuss your observations 
+As learners appreciate 
+how the British 
+colonised the gold 
+coast, they develop 
+their critical thinking, 
+communicative and 
+collaborative skills and 
+understanding of 
+continuity and change 
+
+--- PAGE 50 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  28 
+ 
+Strand 6:  Independent Ghana 
+Sub-Strand 1:  The Republics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B4.6.1.1.  Understand that 
+there have been four 
+Republics in Ghana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B4.6.1.1.1. Explain that Ghana up to June 1960, though 
+independent, had the Queen of The United Kingdom 
+(UK) as Head of State of the Ghana and made 
+limitations on Ghana’s independence. 
+ 
+Enquiry route: What is a Republic? Who was the leader of Ghana’s first 
+Republic? What were the limitations to Ghana’s independence until 
+1960? 
+1. Define the term Republic? 
+2. Discuss the limitations on Ghana’s independence up to 
+June 1960 
+3. Use the internet identify the positions controlled by 
+British officials up to June 1960 
+ 
+B4.6.1.1.1.2 State the dates and names of the leaders of the four 
+Republics of Ghana since 1960 
+:  
+Enquiry route: how many Republics do we have in Ghana since 1960? 
+Who was the leader of the third republic? 
+1. Differentiate between ‘President’ and ‘Head of State’ 
+2. Match the names of the leaders of the four Republics to 
+the period in which they ruled 
+ 
+As learners use evidence to 
+examine the causes and 
+consequences of the four 
+Republics, they enhance their 
+critical thinking and digital literacy 
+skills 
+
+--- PAGE 51 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  29 
+ 
+ 
+BASIC 5 
+ 
+ 
+
+--- PAGE 52 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  30 
+ 
+Basic 5 
+Strand 2: My Country Ghana 
+Sub-Strand 1: The People Of Ghana 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.2.1.1. Demonstrate 
+understanding of how life 
+in ancient time was 
+different from life today 
+ 
+B5.2.1.1.1 Describe how our ancestors lived in ancient times 
+(before the 15th century) and compare it with how we live 
+today.  
+ 
+Enquiry route: How did our ancestors live? Compare how our ancestors 
+lived and how we live today? What things have changed? What 
+things remain similar? 
+1. Identify the kinds of food they ate, the clothes the y wore and how 
+they travelled etc. 
+2. Compare life today to life in ancient days. E.g. Food eaten, Clothes 
+worn, Mode of travel, buildings Communication, Trading, 
+Professions and Technology. 
+3. Produce a photo album (Tactile photo album for visually impaired) 
+of family members including learners 
+4. Visit ancient sites and museums  
+5. Use videos/ documentaries/internet to highlight how life today has 
+changed from the past 
+Learners become creative and 
+innovative as they compare and 
+analyse life in ancient time and 
+today 
+ 
+ B5.2.1.1.2 Describe some ancient towns in Ghana.  
+: 
+Which were the ancient towns in Ghana? Where were they located? Who 
+founded them? 
+1. List some ancient towns and places in Ghana (Begho, Bono -
+Manso, Dawhenya, Eguafo, Kintampo, Salaga, Daboya) 
+2. Locate some of these towns and places on a map of Ghana 
+3. Use the internet to learn about these places and share in class 
+4. Show and discuss a documentary/pictures of some of these 
+towns and places 
+ 
+
+--- PAGE 53 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  31 
+Sub-Strand 5: Some Selected Individuals 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.2.5.1. Demonstrate 
+knowledge of Ghanaians 
+who made significant 
+contributions locally and 
+internationally 
+B5.2.5.1.1 Name Ghanaians who have made significant 
+Contribution locally and internationally including Dr R.E.G 
+Armattoe (Science and Medicine), Kofi Annan-international 
+diplomacy, Osibisa- popular music, El Anatsui – sculptor, 
+David Adjaye -architect, Ozwald Boateng-fashion,  
+Efua Sutherland- playwright, Prof Francis Allotey- science and 
+History, Prof Akua Kuenyehia- law, Prof. Frimpong Boateng –  
+Surgeon, Abedi Ayew ‘Pele’ – Football, Azumah Nelson – 
+Boxing etc. 
+ 
+ 
+Enquiry Route: which individuals have contributed locally and internationally? 
+What were their contributions? Which among them inspires you most and 
+why? 
+ 
+1. Use pictures, posters or the internet to identify Ghanaian who 
+have made important contributions locally and internationally. 
+2. Match these personalities with areas of specialty e.g. Dr R.E.G 
+Armattoe (Science and Medicine), Kofi Annan-international 
+diplomacy, Osibisa- popular music, El Anatsui – sculptor, David 
+Adjaye- Architect, Ozwald Boateng-fashion, Efua Sutherland- 
+playwright, Prof Francis Allotey- science and History, Prof Akua 
+Kuenyehia- law, Prof. Frimpong Boateng – Surgeon, Abedi 
+Ayew ‘Pele’ – Football, Azumah Nelson -Boxing etc. 
+3. 3.        Show photographs/ documentary of significant individuals 
+4. Retell the live stories of any of these from a documentary 
+show 
+5. With the aid of the internet learners are to develop a 
+documentary/poster of individuals who have contributed 
+significantly in this field 
+6. Identify the traditional rulers whose work inspires you most 
+and give reasons for your choice 
+With the use of evidence to 
+appreciate the significant 
+contributions of some Ghanaians 
+locally and internationally, 
+learners become creative, 
+innovative and digitally literate 
+
+--- PAGE 54 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  32 
+ 
+ 
+Strand 3: Europeans in Ghana 
+Sub-Strands 2: International Trade Including the Slave Trade 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.3.2.1. Understand that 
+what began as trade in 
+goods from 1471 soon 
+included trade in humans 
+by the 16thcentury. 
+ 
+ 
+B5.3.2.1.1 Investigate why the Europeans began trading in 
+humans by the 16th century. 
+ 
+Enquiry Route: Which Europeans took part in the trade in humans? 
+Why did the Europeans begin trading in humans? 
+1. Use a map to explain the concept of Trans-Atlantic slave trade 
+2. Role play/show documentary on how the slave trade was 
+conducted. 
+3. Brainstorm the reasons why the Europeans began trading in 
+humans 
+4. Visit/show pictures of some forts and castles 
+5. In small groups learners develop a poster on the Trans-
+Atlantic Slave Trade 
+6. Groups present their work to the whole class 
+As learners use evidence to 
+interpret and examine European 
+activities in Ghana, they become 
+creative, critical and innovative 
+thinkers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- PAGE 55 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  33 
+Strand 4: Colonisation and Developments under Colonial Rule in Ghana 
+Sub-Strand 2:  Social Developments Under Colonial Rule 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.4.2.1. Demonstrate 
+understanding of the social 
+developments that took 
+place during the colonial 
+period (1874-1957).  
+ 
+B5.4.2.1.1 Identify the developments in education during the 
+colonial era (1874-1957). 
+: 
+Enquiry routes: Which schools were built during the colonial period? 
+Where were they located? What did the British do to promote 
+education? 
+1. Identify schools that existed by 1930, where they are 
+located and state some facts about these schools 
+2. List some of the measures the British took to promote 
+education in the Gold Coast. E.g. Ordinances to make sure 
+all teachers were registered 
+3. Discuss the role of the churches in Ghana’s education 
+sector 
+4. Recall the role of the important people in (a) the community 
+and (b) the country who played key role in the educational 
+sector. e.g. Dr Kwegyir Aggrey.  
+NB: Display pictures of such people in the class.  
+As learners use evidence to 
+analyse and reconstruct the 
+developments during the colonial 
+period, they develop critical 
+thinking skills 
+ 
+ B5.4.2.1.2 Identify some of the health facilities and housing 
+projects in the colonial period. 
+ 
+Enquiry routes: What health facilities were built during the colonial 
+period? How important were these social services? 
+1. Discuss the health facilities and housing projects carried out 
+during the colonial period e.g. the establishment of the 
+Korle Bu hospital- 1923, Kumasi hospital, Takoradi hospital, 
+2. Brainstorm the significance of these social services 
+3. Show pictures/documentaries of these facilities to highlight 
+the social facilities during the era 
+ 
+ 
+ 
+
+--- PAGE 56 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  34 
+Strand 4: Colonisation and Developments under Colonial Rule in Ghana 
+Sub-Strand 3: Economic Developments Under Colonial Rule 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.4.3.2.  Show 
+understanding of the 
+Economic policies and 
+projects during the 
+colonial period (1874-
+1957) 
+B5.4.3.2.1 Describe the economic measures introduced during 
+the colonial period including transport and communication 
+projects. 
+ 
+Enquiry routes: What were these economic development under colonial 
+rule? How do sources of evidence help you to understand these 
+developments under colonial rule? 
+1. Identify the economic policies and projects during the 
+colonial era. 
+2. Enumerate contributions in the agricultural sector (e.g. 
+setting up of agricultural station at Bunso, botanical garden 
+at Aburi and Agricultural College at Kwadaso, promotion 
+and marketing of cocoa farming), The construction of the 
+Takoradi Harbour, construction of roads and railways and 
+introduction of vehicles to link their main centres to 
+evacuate and export items and facilitate movement. 
+3. Discuss the role of Tetteh Quarshie in the introduction of 
+cocoa into Ghana and how important cocoa has become.  
+4. Visit/show pictures of any of these facilities e.g. Tetteh 
+Quarshie farm. 
+5. Enumerate contributions of the colonial government to 
+mining sector. 
+As learners use evidence to 
+analyse and reconstruct the 
+developments during the colonial 
+period, they develop critical 
+thinking and problem-solving 
+skills 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 57 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  35 
+Strand 5: Journey to Independence 
+Sub-Strand 1: Early Protest Movements 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.5.1.1. Show understanding of 
+the factors that led to the   
+formation of early protest      
+movements in Ghana 
+before1945 
+B5.5.1.1.1 Identify the early protest movements in 
+Ghana before 1945. 
+: 
+Enquiry routes: what do we mean by early protest 
+movements? What were some of these early protest 
+movements? Who were the leaders of these early 
+protest movements? What factors led to the formation 
+of these movements  
+1. What is a protest movement? 
+2. List the main protest movements in Ghana before 1945: 
+-Aborigines Rights Protection Society-ARPS- 1897 
+- National Congress of British West Africa-NCBWA- 1917 
+- The Gold Coast Youth Conference- 1929  
+3. Discus the sequence of events that led to the formation of 
+these movements (refer to subsequent indicators) 
+As learners use evidence to retell 
+the role of the leaders   of these 
+early protest movements, they 
+develop critical thinking, 
+creativity, personal development 
+and leadership skills 
+B5.5.1.1.2 Examine sources of evidence about the role 
+of Joseph Mensah Sarbah in the Aborigines Rights 
+Protection Society-ARPS- 1897 
+: 
+Enquiry routes: Who was Joseph Mensah-Sarbah? Where 
+was he born? What was his role in the ARPS? 
+1. Identify the key leaders of the ARPS by 
+pictures/documentary 
+2. Find out from the internet how the ARPS got the 
+land bill withdrawn  
+3. Present report as a poster 
+ 
+ 
+ 
+
+--- PAGE 58 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  36 
+Sub-Strand 1: Early Protest Movements 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.5.1.1. Show 
+understanding of the factors 
+that led to the   formation 
+of early protest      
+movements in Ghana 
+before1945 
+B5.5.1.1.3 Examine sources of evidence about 
+the role of Joseph Ephraim Casely-Hayford in 
+the National Congress of British West Africa 
+(NCBWA). 
+Enquiry routes: Who was Joseph Ephraim Casely-
+Hayford? Where was he born? What was his role in the 
+NCBWA? 
+1. Identify Joseph Ephraim Casely-Hayford from 
+photographs  
+2. Show and discuss a documentary the bust of 
+Joseph Ephraim Casely-Hayford at Casford Hall, 
+UCC (where possible) 
+3. Present a narrative of the leadership role of 
+Joseph Ephraim Casely-Hayford in the NCBWA 
+4. Learners retell the story of Joseph Ephraim 
+Casely-Hayford 
+ 
+ 
+ 
+ 
+As learners use evidence to retell 
+the role of the leaders of these 
+early protest movements, they 
+develop critical thinking, 
+creativity, personal development 
+and leadership skills 
+ 
+ 
+ 
+
+--- PAGE 59 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  37 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B5.5.1.1. Show 
+understanding of the factors 
+that led to the   formation 
+of early protest      
+movements in Ghana 
+before 1945 
+CONT’D 
+B5.5.1.1.4 Examine sources of evidence about 
+the role of Dr Joseph Boakye Danquah in the 
+Gold Coast Youth Conference 
+Enquiry routes: Who was Joseph Boakye Danquah? 
+Where was he born? What was his role in the Gold 
+Coast Youth Conference? 
+1. Present a narrative of the role of J.B. Danquah 
+in the Gold Coast Youth Conference 
+2. Field trip to Danquah Circle in Accra or his 
+home where possible or show picture of Danquah 
+Circle in Accra 
+3. Learners retell the story of J.B. Danquah and 
+the Gold Coast Youth Conference 
+As learners use evidence to retell 
+the role of the leaders of these 
+early protest movements, they 
+develop critical thinking, 
+creativity, personal development 
+and leadership skills 
+ 
+ 
+ 
+ 
+
+--- PAGE 60 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  38 
+ 
+Strand 5: Journey to Independence 
+Sub-Strands 3: The 1948 Riots And After 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS 
+ 
+SUBJECT SPECIFIC 
+PRACTICES AND 
+CORE 
+COMPETENCIES 
+B5.5.3.1.  Show understanding 
+of the sequence of events 
+leading to the 1948 riots in 
+Ghana 
+ 
+B5.5.3.1.1 Explain why people were unhappy in the country after the 
+Second World War 
+ 
+Enquiry routes: When was the Second World War fought? What prom ises were made 
+to the Gold Coast soldiers who fought in the war? Why were people unhappy 
+after the war? 
+1. Show and discuss a documentary on the general state of affairs after the 
+Second World War –failure to honour the promises to the ex -servicemen, 
+lack of adequate housing and high cost of imported goods etc. 
+2. Discuss how government handled their grievances at the time. 
+3. Role play the scene for learners to offer the opinions on the situation 
+(whether the riot was justified or not) 
+4. Guide learners to develop a p oster that illustrates the link between the 
+boycott of European goods, the shootings of 28 th February and the riots of 
+1948 
+By using evidence to 
+explore the causes and 
+consequences of the 
+1948 riots, learners 
+develop their 
+communicative, 
+collaborative, creative 
+skills and national 
+identity  
+ 
+ B4.5.3.1.2 Examine sources of evidence about what happened during 
+the 1948 riots. 
+ 
+Enquiry routes: Who were the ex -service men? Who ordered the shooting of the ex -
+service men? Where did the shooting occur?  
+1. Show a map of Accra indicating the routes that were approved for 
+the ex-service men 
+2. Use a documentary to illustrate what happened during the 1948 
+riots and discuss it afterwards 
+3. Role play the scene of the 1948 riots as evidence for learners 
+4. Discuss the arrest of the ‘Big Six’ (leaders of the UGCC) 
+ 
+
+--- PAGE 61 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  39 
+ 
+ 
+BASIC 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 62 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  40 
+ 
+Basic 6 
+Strand 3: Europeans in Ghana 
+Sub-Strand 4:  Impact Of European Presence 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B6.3.4.1. Demonstrate 
+knowledge of the impact 
+of European presence on 
+Ghana 
+B6.3.4.1.1 Assess the changes that the European 
+presence brought to Ghana.  
+ 
+Enquiry route: What was the effect of formal education in Ghana? How 
+did it affect the lives of the people? What health facilities were 
+introduced by the Europeans? What negative effects did European 
+presence have on Ghanaians? 
+1. Show and discuss a documentary of European presence in 
+Ghana  
+2. Discuss the activities the Europeans engaged in (trade, 
+vocational training centres, health facilities, development of 
+local alphabet, translation of the Bible)  
+3. Debate the impacts of European presence on Ghana 
+By evaluating and analysing the 
+impact of European presence, 
+learners enhance their personal 
+development and become good 
+communicators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 63 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  41 
+ 
+ 
+Strand 4: Colonisation and Developments under Colonial Rule in Ghana 
+Sub-Strand 4:  Political Developments Under Colonial Rule 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B6 3.4.1. Show 
+understanding of Political 
+developments under 
+colonial rule, 1874-1957. 
+B6.4.4.1.1 Describe the features of British colonial rule 
+in Ghana including ‘direct’ and ‘indirect’ rule, 1874 -
+1957.  
+ 
+Enquiry route: how different is ‘direct’ rule from ‘indirect’ rule? How 
+many provinces were created? 
+1. Explain the concepts of ‘direct’ and ‘indirect’ rule 
+2. Discuss the features of ‘direct’ and ‘indirect’ rule 
+3. Discuss the division of the colony into provinces 
+4. Discuss the advantages and d isadvantages of ‘direct’ and 
+‘indirect’ rule.  
+5. Role play indirect rule in the Gold Coast 
+As learners use evidence to 
+analyse and reconstruct political 
+developments during the colonial 
+period, they become creativity 
+and innovation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 64 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  42 
+Strand 5: Journey to Independence 
+Sub-Strand 2: Formation of Political Parties 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B6.5.2.1.  Appreciate the 
+role played by the 
+leadership of political 
+parties in the struggle for 
+independence from 1947 to 
+1957 
+B6.5.2.1.1 Describe the role played by the leaders of 
+the two major political parties (UGCC and CPP) in 
+the independence struggle in the Gold Coast after 
+the Second World War. 
+ 
+Enquiry route: What is a political party? Which p eople formed 
+the first political party in the Gold Coast? Who were the leading 
+members of the UGCC and the CPP? Why were some of the 
+leaders referred to as the ‘Big Six’? 
+1. Define a political party 
+2. Discuss the formation of the United Gold Coast 
+Convention (UGCC) in 1947 
+3. Discuss the formation of the Convention People 
+Party (CPP) in 1949 
+4. Discuss the role played by the leaders of the 
+UGCC and CPP in the struggle for independence 
+5. Learners map out specific roles by leaders such as 
+Kwame Nkrumah, J.B. Danquah, Obet sebi 
+Lamptey, Ako Adjei, William Ofori Atta and 
+Edward Akuffo Addo. 
+6. Learners explain how these leaders became known 
+as ‘the Big Six’ 
+7. Show and discuss a documentary on the 
+independence eve rally by the CPP 
+8. Learners recount an Independence Day celebration 
+in their community 
+9. Enact the declaration of independence by Kwame 
+Nkrumah  
+Using evidence to appreciate the 
+role played by the leadership of 
+political parties in the struggle for 
+independence, learners develop a 
+sense of national identity, 
+leadership, communication, 
+collaboration and creative skills 
+ 
+ 
+
+--- PAGE 65 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  43 
+Sub-Strand 4: Ghana Gains Independence 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B6.5.4.1. Demonstrate an 
+understanding of the course 
+of events leading to 
+independence from 1948 to 
+1957 
+ 
+ 
+B6.5.4.1.1 Explain post World War II developments in 
+the Gold Coast 
+ 
+Enquiry routes: Why was the Watson Commission formed? 
+Who were its members? Why was the Coussey 
+Committee established? 
+1. Discuss the establishment of the Watson 
+Commission 
+2. Report on the findings of the Commission in the 
+form of a paper or performance/poster/role play 
+etc 
+3. Recount lessons learnt from the Watson 
+Commission’s report- e.g. recommendation to set 
+up the Coussey Committee to review the 
+constitution of the Gold Coast 
+4. Discuss the main recommendation in the Coussey 
+committee report 
+ 
+B6.5.4.1.2 Explain how Ghana gained independence through 
+constitutional means.  
+:  
+Enquiry routes: Which political parties took part in the 1951 
+general elections? What was the outcome of that 
+election? 
+1. Discuss the first general elections held in 1951. 
+2. Use a resource person (retired educationalist, 
+veteran soldier, retired police officer, senior 
+citizens etc.) to discuss the sequence of events 
+leading to the 1956 elections 
+3. Discuss the outcome of the 1956 elections 
+4. Enact a scene of an election at a polling station 
+As learners use evidence to explore 
+the chronology and significance of 
+events leading to independence, 
+they sharpen their communicative, 
+creative, and collaborative skills 
+and develop national identity 
+ 
+ 
+ 
+ 
+
+--- PAGE 66 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  44 
+ 
+Strand 6: Independent Ghana 
+Sub-Strand 1:  The Republics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B6.6.1.1. Demonstrate 
+understanding of the Fourth 
+Republic (1992 to date). 
+B6.6.1.1.1 Describe the events leading to the 
+emergence of the Fourth Republic. 
+ 
+Enquiry route: W hat events led to the emergence of the fourth 
+Republic? Who were the former presidents of the fourth Republic? 
+Who were other key figures in the fourth Republic? 
+1. Describe the process leading to the emergence of the 
+Fourth Republic (e.g. drawing of a new constitution, 
+referendum, lifting of the ban on political parties, general 
+elections of 1992 etc.) 
+2. List the names of all the Presidents of the Fourth Repub lics 
+and their dates of tenure. 
+3. Learners use internet to find out some biographical details 
+(name, date of birth, place of birth, family, educational 
+backgrounds, hobbies etc.) about presidents of the Fourth 
+Republic of Ghana. 
+4. Show and discuss a documentar y on the inauguration of a 
+new President of Ghana. 
+5. Learners recount an inauguration they have witnessed or 
+seen on Television. 
+6. Discuss other key figures in the fourth Republic (e.g. Chief 
+Justices, Speakers of Parliament, Vice Presidents etc.) 
+ 
+ 
+ 
+As learners use evidence to 
+examine the causes and 
+consequences of the four Republics, 
+it enhances their communicative, 
+creative and leadership skills. 
+
+--- PAGE 67 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  45 
+ 
+CONTENT STANDARDS INDICATORS AND EXEMPLARS SUBJECT SPECIFIC PRACTICES 
+AND CORE COMPETENCIES 
+B6.6.1.1. Demonstrate 
+understanding of the Fourth 
+Republic (1992 to date). 
+CONT’D 
+B6.6.1.1.2 Identify the political parties that have 
+governed the country under the Fourth Republic 
+  
+Enquiry Route: Which political parties have governed Ghana 
+under the Fourth Republic? 
+1. Identify the governments that have so far handed over 
+power peacefully through an election. 
+2. List the parties and their dates of tenure in office in 
+the Fourth Republic 
+3. Use the internet/resource 
+persons/documentaries/visits to district/municipal assemblies to 
+identify achievements of various governments within their 
+respective districts  
+Learners discuss their findings in class 
+As learners use evidence to 
+examine the causes and 
+consequences of the four Republics, 
+it enhances their communicative, 
+creative and leadership skills. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 68 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  46 
+ 
+       STRAND 6:          INDEPENDENT GHANA  
+SUB-STRAND 2:   MILITARY RULE 
+CONTENT 
+STANDARDS 
+ 
+INDICATORS AND EXEMPLARS 
+ 
+SUBJECT SPECIFIC 
+PRACTICES AND CORE 
+COMPETENCES 
+1. Understand that 
+military takeovers 
+interrupted 
+constitutional rule 
+on four occasions 
+since 1966, with 
+some consequences.  
+B6.6.2.1.1 Identify the leaders of the coup d’états and names of their regimes. 
+Exemplification: 
+Enquiry routes: How many coup d’états have Ghana experienced? Who was the leaders of the coup d’états?  
+1. List the military regimes since 1966 and their leaders. 
+2. Show and discuss a documentary on any of the military take overs. 
+ 
+B6.6.2.2.2 Assess the consequences of military takeovers on Ghana’s development 
+Exemplification 
+Enquiry route: How did the military takeovers affect Ghana’s development? Were the takeovers positive or 
+negative? 
+1. Show and discuss a documentary of any military takeover  
+2. Brainstorm the effects of the coup d’état s and military rule on Ghana’s developme nt (e.g. 
+human right abuse, overthrow of constitutions and imposition of harsh rules). 
+3. Debate the effects of military takeovers on Ghana’s development 
+Learners enhance their 
+personal development, 
+creativity and innovative 
+skills by 
+watching documentaries 
+and assessing evidence. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 69 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  47 
+GLOSSARY 
+Cause and 
+Consequence 
+‘refers to ‘why certain things happened and ‘consequence’ is what happened as a result 
+Chronology arrangement of events or dates in the order in which they occurred in time 
+Colonization  situation whereby a powerful nation establishes administrative control over a foreign territory 
+Continuity 
+and Change 
+aspects of the past that have stayed the same over a period and how quickly and to what extent it has changed. 
+Enquiry 
+routes  
+leading questions that clarify the issues to be addressed in the indicators  
+Evidence sources that survive from the past and can be used in historical inquiry. 
+Independence   situation where citizens of a particular nation exercise self-government and sovereignty over their territory. 
+Interpretation  he meaning people attach to past human activities 
+Primary 
+Sources 
+sources that are closer to the events in time and space. E.g. pottery, wall paintings, carvings, coins, letters, 
+newspapers, diaries, court records, accounts from people who witnessed an event, archival documents and 
+archaeological findings 
+Political Party a group of people, with common views, who come together to contest elections with the view to forming a 
+government. 
+Republic  a state in which supreme power is held by the people and their elected representatives, and which has an elected 
+or nominated President rather than a monarch 
+Secondary 
+Sources 
+accounts about past events produced based on the interpretation of primary sources. E.g. books, journals, books, 
+articles etc.  
+Significance the importance assigned to past events or human activities. 
+Source  place where information about the past can be acquired. 
+ 
+ 
+
+--- PAGE 70 ---
+ 
+ 
+© NaCCA, Ministry of Education 2019  48 
+HISTORY SUBJECT PANEL MEMBERS AND REVIEWERS   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Finally, this endeavour would not have been possible without the support of the teachers and pupils in the schools that participated in the pilot. 
+NAME INSTITUTION 
+Writing  panels  
+Prof. Kwame Osei Kwarteng Dept. of History, UCC  
+Dr. Samuel Boadi-Siaw Dept. of History, UCC  
+Prof Wilson K. Yayoh CAIS, UCC 
+Mrs Anitha Oforiwah Adu-Boahen Dept. of History Education, UEW  
+Mr Stephen Kwakye Apau Dept. of Psychology Education, UEW  
+Mrs Regina Effah  Mfantsipim Senior High School 
+Ms Abyna Ansah-Adjei Publisher 
+Alhaji Seidu Mahama NaCCA, Desk Officer 
+Expert Reviewers  
+Prof. D. E. K. Amenumey Dept. of History Education,  UCC (retired) 
+Curriculum Adviser  
+Dr. Sam K.  Awuku  
+Supervisor  
+Felicia Boakye-Yiadom (Mrs) NaCCA, Acting Executive Secretary   
